@@ -1,0 +1,5379 @@
+Author1,Author2,Weight
+David Moher,Jennifer Tetzlaff,3
+David Moher,Douglas G. Altman,3
+David Moher,Matthew J. Page,2
+David Moher,Joanne E. McKenzie,2
+David Moher,Patrick M. Bossuyt,3
+David Moher,Isabelle Boutron,2
+David Moher,Tammy Hoffmann,2
+David Moher,Cynthia D. Mulrow,2
+David Moher,Larissa Shamseer,2
+David Moher,Elie A. Akl,2
+David Moher,Sue Brennan,2
+David Moher,Roger Chou,2
+David Moher,Julie Glanville,2
+David Moher,Jeremy Grimshaw,3
+David Moher,Asbjørn Hróbjartsson,2
+David Moher,Manoj M. Lalu,2
+David Moher,Tianjing Li,2
+David Moher,Elizabeth Loder,2
+David Moher,Evan Mayo‐Wilson,2
+David Moher,Steve McDonald,2
+David Moher,Luke A. McGuinness,2
+David Moher,Lesley Stewart,2
+David Moher,James Thomas,2
+David Moher,Andrea C. Tricco,3
+David Moher,Vivian Welch,2
+David Moher,Penny Whiting,2
+David Moher,Kenneth F. Schulz,3
+Jennifer Tetzlaff,Matthew J. Page,2
+Jennifer Tetzlaff,Joanne E. McKenzie,2
+Jennifer Tetzlaff,Patrick M. Bossuyt,2
+Jennifer Tetzlaff,Isabelle Boutron,2
+Jennifer Tetzlaff,Tammy Hoffmann,2
+Jennifer Tetzlaff,Cynthia D. Mulrow,2
+Jennifer Tetzlaff,Larissa Shamseer,2
+Jennifer Tetzlaff,Elie A. Akl,2
+Jennifer Tetzlaff,Sue Brennan,2
+Jennifer Tetzlaff,Roger Chou,2
+Jennifer Tetzlaff,Julie Glanville,2
+Jennifer Tetzlaff,Jeremy Grimshaw,2
+Jennifer Tetzlaff,Asbjørn Hróbjartsson,2
+Jennifer Tetzlaff,Manoj M. Lalu,2
+Jennifer Tetzlaff,Tianjing Li,2
+Jennifer Tetzlaff,Elizabeth Loder,2
+Jennifer Tetzlaff,Evan Mayo‐Wilson,2
+Jennifer Tetzlaff,Steve McDonald,2
+Jennifer Tetzlaff,Luke A. McGuinness,2
+Jennifer Tetzlaff,Lesley Stewart,2
+Jennifer Tetzlaff,James Thomas,2
+Jennifer Tetzlaff,Andrea C. Tricco,2
+Jennifer Tetzlaff,Vivian Welch,2
+Jennifer Tetzlaff,Penny Whiting,2
+Douglas G. Altman,Julian P. T. Higgins,3
+Douglas G. Altman,Jonathan J Deeks,4
+Douglas G. Altman,Carol Kilkenny,2
+Douglas G. Altman,William J. Browne,2
+Douglas G. Altman,Innes C. Cuthill,2
+Douglas G. Altman,Michael Emerson,2
+Douglas G. Altman,Johannes B. Reitsma,2
+Douglas G. Altman,Patrick Royston,3
+Douglas G. Altman,Yvonne Vergouwe,2
+Johannes Schindelin,Curtis Rueden,3
+Johannes Schindelin,Kevin W. Eliceiri,3
+Johannes Schindelin,Mark Hiner,2
+Curtis Rueden,Kevin W. Eliceiri,4
+Curtis Rueden,Mark Hiner,2
+Kevin W. Eliceiri,Mark Hiner,2
+Matthew J. Page,Joanne E. McKenzie,2
+Matthew J. Page,Patrick M. Bossuyt,2
+Matthew J. Page,Isabelle Boutron,2
+Matthew J. Page,Tammy Hoffmann,2
+Matthew J. Page,Cynthia D. Mulrow,2
+Matthew J. Page,Larissa Shamseer,2
+Matthew J. Page,Elie A. Akl,2
+Matthew J. Page,Sue Brennan,2
+Matthew J. Page,Roger Chou,2
+Matthew J. Page,Julie Glanville,2
+Matthew J. Page,Jeremy Grimshaw,2
+Matthew J. Page,Asbjørn Hróbjartsson,2
+Matthew J. Page,Manoj M. Lalu,2
+Matthew J. Page,Tianjing Li,2
+Matthew J. Page,Elizabeth Loder,2
+Matthew J. Page,Evan Mayo‐Wilson,2
+Matthew J. Page,Steve McDonald,2
+Matthew J. Page,Luke A. McGuinness,2
+Matthew J. Page,Lesley Stewart,2
+Matthew J. Page,James Thomas,2
+Matthew J. Page,Andrea C. Tricco,2
+Matthew J. Page,Vivian Welch,2
+Matthew J. Page,Penny Whiting,2
+Joanne E. McKenzie,Patrick M. Bossuyt,2
+Joanne E. McKenzie,Isabelle Boutron,2
+Joanne E. McKenzie,Tammy Hoffmann,2
+Joanne E. McKenzie,Cynthia D. Mulrow,2
+Joanne E. McKenzie,Larissa Shamseer,2
+Joanne E. McKenzie,Elie A. Akl,2
+Joanne E. McKenzie,Sue Brennan,2
+Joanne E. McKenzie,Roger Chou,2
+Joanne E. McKenzie,Julie Glanville,2
+Joanne E. McKenzie,Jeremy Grimshaw,2
+Joanne E. McKenzie,Asbjørn Hróbjartsson,2
+Joanne E. McKenzie,Manoj M. Lalu,2
+Joanne E. McKenzie,Tianjing Li,2
+Joanne E. McKenzie,Elizabeth Loder,2
+Joanne E. McKenzie,Evan Mayo‐Wilson,2
+Joanne E. McKenzie,Steve McDonald,2
+Joanne E. McKenzie,Luke A. McGuinness,2
+Joanne E. McKenzie,Lesley Stewart,2
+Joanne E. McKenzie,James Thomas,2
+Joanne E. McKenzie,Andrea C. Tricco,2
+Joanne E. McKenzie,Vivian Welch,2
+Joanne E. McKenzie,Penny Whiting,2
+Patrick M. Bossuyt,Isabelle Boutron,2
+Patrick M. Bossuyt,Tammy Hoffmann,2
+Patrick M. Bossuyt,Cynthia D. Mulrow,2
+Patrick M. Bossuyt,Larissa Shamseer,2
+Patrick M. Bossuyt,Elie A. Akl,2
+Patrick M. Bossuyt,Sue Brennan,2
+Patrick M. Bossuyt,Roger Chou,2
+Patrick M. Bossuyt,Julie Glanville,2
+Patrick M. Bossuyt,Jeremy Grimshaw,2
+Patrick M. Bossuyt,Asbjørn Hróbjartsson,2
+Patrick M. Bossuyt,Manoj M. Lalu,2
+Patrick M. Bossuyt,Tianjing Li,2
+Patrick M. Bossuyt,Elizabeth Loder,2
+Patrick M. Bossuyt,Evan Mayo‐Wilson,2
+Patrick M. Bossuyt,Steve McDonald,2
+Patrick M. Bossuyt,Luke A. McGuinness,2
+Patrick M. Bossuyt,Lesley Stewart,2
+Patrick M. Bossuyt,James Thomas,2
+Patrick M. Bossuyt,Andrea C. Tricco,2
+Patrick M. Bossuyt,Vivian Welch,2
+Patrick M. Bossuyt,Penny Whiting,2
+Isabelle Boutron,Tammy Hoffmann,2
+Isabelle Boutron,Cynthia D. Mulrow,2
+Isabelle Boutron,Larissa Shamseer,2
+Isabelle Boutron,Elie A. Akl,2
+Isabelle Boutron,Sue Brennan,2
+Isabelle Boutron,Roger Chou,2
+Isabelle Boutron,Julie Glanville,2
+Isabelle Boutron,Jeremy Grimshaw,2
+Isabelle Boutron,Asbjørn Hróbjartsson,2
+Isabelle Boutron,Manoj M. Lalu,2
+Isabelle Boutron,Tianjing Li,2
+Isabelle Boutron,Elizabeth Loder,2
+Isabelle Boutron,Evan Mayo‐Wilson,2
+Isabelle Boutron,Steve McDonald,2
+Isabelle Boutron,Luke A. McGuinness,2
+Isabelle Boutron,Lesley Stewart,2
+Isabelle Boutron,James Thomas,2
+Isabelle Boutron,Andrea C. Tricco,2
+Isabelle Boutron,Vivian Welch,2
+Isabelle Boutron,Penny Whiting,2
+Tammy Hoffmann,Cynthia D. Mulrow,2
+Tammy Hoffmann,Larissa Shamseer,2
+Tammy Hoffmann,Elie A. Akl,2
+Tammy Hoffmann,Sue Brennan,2
+Tammy Hoffmann,Roger Chou,2
+Tammy Hoffmann,Julie Glanville,2
+Tammy Hoffmann,Jeremy Grimshaw,2
+Tammy Hoffmann,Asbjørn Hróbjartsson,2
+Tammy Hoffmann,Manoj M. Lalu,2
+Tammy Hoffmann,Tianjing Li,2
+Tammy Hoffmann,Elizabeth Loder,2
+Tammy Hoffmann,Evan Mayo‐Wilson,2
+Tammy Hoffmann,Steve McDonald,2
+Tammy Hoffmann,Luke A. McGuinness,2
+Tammy Hoffmann,Lesley Stewart,2
+Tammy Hoffmann,James Thomas,2
+Tammy Hoffmann,Andrea C. Tricco,2
+Tammy Hoffmann,Vivian Welch,2
+Tammy Hoffmann,Penny Whiting,2
+Cynthia D. Mulrow,Larissa Shamseer,2
+Cynthia D. Mulrow,Elie A. Akl,2
+Cynthia D. Mulrow,Sue Brennan,2
+Cynthia D. Mulrow,Roger Chou,2
+Cynthia D. Mulrow,Julie Glanville,2
+Cynthia D. Mulrow,Jeremy Grimshaw,2
+Cynthia D. Mulrow,Asbjørn Hróbjartsson,2
+Cynthia D. Mulrow,Manoj M. Lalu,2
+Cynthia D. Mulrow,Tianjing Li,2
+Cynthia D. Mulrow,Elizabeth Loder,2
+Cynthia D. Mulrow,Evan Mayo‐Wilson,2
+Cynthia D. Mulrow,Steve McDonald,2
+Cynthia D. Mulrow,Luke A. McGuinness,2
+Cynthia D. Mulrow,Lesley Stewart,2
+Cynthia D. Mulrow,James Thomas,2
+Cynthia D. Mulrow,Andrea C. Tricco,2
+Cynthia D. Mulrow,Vivian Welch,2
+Cynthia D. Mulrow,Penny Whiting,2
+Larissa Shamseer,Elie A. Akl,2
+Larissa Shamseer,Sue Brennan,2
+Larissa Shamseer,Roger Chou,2
+Larissa Shamseer,Julie Glanville,2
+Larissa Shamseer,Jeremy Grimshaw,2
+Larissa Shamseer,Asbjørn Hróbjartsson,2
+Larissa Shamseer,Manoj M. Lalu,2
+Larissa Shamseer,Tianjing Li,2
+Larissa Shamseer,Elizabeth Loder,2
+Larissa Shamseer,Evan Mayo‐Wilson,2
+Larissa Shamseer,Steve McDonald,2
+Larissa Shamseer,Luke A. McGuinness,2
+Larissa Shamseer,Lesley Stewart,2
+Larissa Shamseer,James Thomas,2
+Larissa Shamseer,Andrea C. Tricco,2
+Larissa Shamseer,Vivian Welch,2
+Larissa Shamseer,Penny Whiting,2
+Elie A. Akl,Sue Brennan,2
+Elie A. Akl,Roger Chou,2
+Elie A. Akl,Julie Glanville,2
+Elie A. Akl,Jeremy Grimshaw,2
+Elie A. Akl,Asbjørn Hróbjartsson,2
+Elie A. Akl,Manoj M. Lalu,2
+Elie A. Akl,Tianjing Li,2
+Elie A. Akl,Elizabeth Loder,2
+Elie A. Akl,Evan Mayo‐Wilson,2
+Elie A. Akl,Steve McDonald,2
+Elie A. Akl,Luke A. McGuinness,2
+Elie A. Akl,Lesley Stewart,2
+Elie A. Akl,James Thomas,2
+Elie A. Akl,Andrea C. Tricco,2
+Elie A. Akl,Vivian Welch,2
+Elie A. Akl,Penny Whiting,2
+Sue Brennan,Roger Chou,2
+Sue Brennan,Julie Glanville,2
+Sue Brennan,Jeremy Grimshaw,2
+Sue Brennan,Asbjørn Hróbjartsson,2
+Sue Brennan,Manoj M. Lalu,2
+Sue Brennan,Tianjing Li,2
+Sue Brennan,Elizabeth Loder,2
+Sue Brennan,Evan Mayo‐Wilson,2
+Sue Brennan,Steve McDonald,2
+Sue Brennan,Luke A. McGuinness,2
+Sue Brennan,Lesley Stewart,2
+Sue Brennan,James Thomas,2
+Sue Brennan,Andrea C. Tricco,2
+Sue Brennan,Vivian Welch,2
+Sue Brennan,Penny Whiting,2
+Roger Chou,Julie Glanville,2
+Roger Chou,Jeremy Grimshaw,2
+Roger Chou,Asbjørn Hróbjartsson,2
+Roger Chou,Manoj M. Lalu,2
+Roger Chou,Tianjing Li,2
+Roger Chou,Elizabeth Loder,2
+Roger Chou,Evan Mayo‐Wilson,2
+Roger Chou,Steve McDonald,2
+Roger Chou,Luke A. McGuinness,2
+Roger Chou,Lesley Stewart,2
+Roger Chou,James Thomas,2
+Roger Chou,Andrea C. Tricco,2
+Roger Chou,Vivian Welch,2
+Roger Chou,Penny Whiting,2
+Julie Glanville,Jeremy Grimshaw,2
+Julie Glanville,Asbjørn Hróbjartsson,2
+Julie Glanville,Manoj M. Lalu,2
+Julie Glanville,Tianjing Li,2
+Julie Glanville,Elizabeth Loder,2
+Julie Glanville,Evan Mayo‐Wilson,2
+Julie Glanville,Steve McDonald,2
+Julie Glanville,Luke A. McGuinness,2
+Julie Glanville,Lesley Stewart,2
+Julie Glanville,James Thomas,2
+Julie Glanville,Andrea C. Tricco,2
+Julie Glanville,Vivian Welch,2
+Julie Glanville,Penny Whiting,2
+Jeremy Grimshaw,Asbjørn Hróbjartsson,2
+Jeremy Grimshaw,Manoj M. Lalu,2
+Jeremy Grimshaw,Tianjing Li,2
+Jeremy Grimshaw,Elizabeth Loder,2
+Jeremy Grimshaw,Evan Mayo‐Wilson,2
+Jeremy Grimshaw,Steve McDonald,2
+Jeremy Grimshaw,Luke A. McGuinness,2
+Jeremy Grimshaw,Lesley Stewart,2
+Jeremy Grimshaw,James Thomas,2
+Jeremy Grimshaw,Andrea C. Tricco,2
+Jeremy Grimshaw,Vivian Welch,2
+Jeremy Grimshaw,Penny Whiting,2
+Asbjørn Hróbjartsson,Manoj M. Lalu,2
+Asbjørn Hróbjartsson,Tianjing Li,2
+Asbjørn Hróbjartsson,Elizabeth Loder,2
+Asbjørn Hróbjartsson,Evan Mayo‐Wilson,2
+Asbjørn Hróbjartsson,Steve McDonald,2
+Asbjørn Hróbjartsson,Luke A. McGuinness,2
+Asbjørn Hróbjartsson,Lesley Stewart,2
+Asbjørn Hróbjartsson,James Thomas,2
+Asbjørn Hróbjartsson,Andrea C. Tricco,2
+Asbjørn Hróbjartsson,Vivian Welch,2
+Asbjørn Hróbjartsson,Penny Whiting,2
+Manoj M. Lalu,Tianjing Li,2
+Manoj M. Lalu,Elizabeth Loder,2
+Manoj M. Lalu,Evan Mayo‐Wilson,2
+Manoj M. Lalu,Steve McDonald,2
+Manoj M. Lalu,Luke A. McGuinness,2
+Manoj M. Lalu,Lesley Stewart,2
+Manoj M. Lalu,James Thomas,2
+Manoj M. Lalu,Andrea C. Tricco,2
+Manoj M. Lalu,Vivian Welch,2
+Manoj M. Lalu,Penny Whiting,2
+Tianjing Li,Elizabeth Loder,2
+Tianjing Li,Evan Mayo‐Wilson,2
+Tianjing Li,Steve McDonald,2
+Tianjing Li,Luke A. McGuinness,2
+Tianjing Li,Lesley Stewart,2
+Tianjing Li,James Thomas,2
+Tianjing Li,Andrea C. Tricco,2
+Tianjing Li,Vivian Welch,2
+Tianjing Li,Penny Whiting,2
+Elizabeth Loder,Evan Mayo‐Wilson,2
+Elizabeth Loder,Steve McDonald,2
+Elizabeth Loder,Luke A. McGuinness,2
+Elizabeth Loder,Lesley Stewart,2
+Elizabeth Loder,James Thomas,2
+Elizabeth Loder,Andrea C. Tricco,2
+Elizabeth Loder,Vivian Welch,2
+Elizabeth Loder,Penny Whiting,2
+Evan Mayo‐Wilson,Steve McDonald,2
+Evan Mayo‐Wilson,Luke A. McGuinness,2
+Evan Mayo‐Wilson,Lesley Stewart,2
+Evan Mayo‐Wilson,James Thomas,2
+Evan Mayo‐Wilson,Andrea C. Tricco,2
+Evan Mayo‐Wilson,Vivian Welch,2
+Evan Mayo‐Wilson,Penny Whiting,2
+Steve McDonald,Luke A. McGuinness,2
+Steve McDonald,Lesley Stewart,2
+Steve McDonald,James Thomas,2
+Steve McDonald,Andrea C. Tricco,2
+Steve McDonald,Vivian Welch,2
+Steve McDonald,Penny Whiting,2
+Luke A. McGuinness,Lesley Stewart,2
+Luke A. McGuinness,James Thomas,2
+Luke A. McGuinness,Andrea C. Tricco,2
+Luke A. McGuinness,Vivian Welch,2
+Luke A. McGuinness,Penny Whiting,2
+Lesley Stewart,James Thomas,2
+Lesley Stewart,Andrea C. Tricco,2
+Lesley Stewart,Vivian Welch,2
+Lesley Stewart,Penny Whiting,2
+James Thomas,Andrea C. Tricco,2
+James Thomas,Vivian Welch,2
+James Thomas,Penny Whiting,2
+Andrea C. Tricco,Vivian Welch,2
+Andrea C. Tricco,Penny Whiting,2
+Vivian Welch,Penny Whiting,2
+Julian P. T. Higgins,Jonathan J Deeks,4
+Julian P. T. Higgins,Anna Chaimani,2
+Julian P. T. Higgins,Georgia Salanti,3
+Anselm L. Strauss,Juliet Corbin,2
+Jiawei Han,Micheline Kamber,3
+Jiawei Han,Jian Pei,2
+Micheline Kamber,Jian Pei,2
+Andrew D Oxman,Gordon Guyatt,3
+Andrew D Oxman,Gunn Elisabeth Vist,2
+Andrew D Oxman,Regina Kunz,2
+Andrew D Oxman,Yngve Falck–Ytter,2
+Andrew D Oxman,Holger J. Schünemann,3
+Ian H. Witten,Eibe Frank,2
+Trevor Hastie,Robert Tibshirani,4
+Trevor Hastie,Jerome H. Friedman,2
+Robert Tibshirani,Jerome H. Friedman,2
+Eric S. Lander,Jill P. Mesirov,2
+Jill P. Mesirov,James Robinson,3
+Jill P. Mesirov,Helga Thorvaldsdóttir,3
+Asif Chinwalla,Robert S. Fulton,2
+Asif Chinwalla,Sandra W. Clifton,2
+Robert S. Fulton,Sandra W. Clifton,2
+Gordon Guyatt,Gunn Elisabeth Vist,2
+Gordon Guyatt,Regina Kunz,2
+Gordon Guyatt,Yngve Falck–Ytter,2
+Gordon Guyatt,Holger J. Schünemann,3
+Gunn Elisabeth Vist,Regina Kunz,2
+Gunn Elisabeth Vist,Yngve Falck–Ytter,2
+Gunn Elisabeth Vist,Holger J. Schünemann,2
+Regina Kunz,Yngve Falck–Ytter,2
+Regina Kunz,Holger J. Schünemann,2
+Yngve Falck–Ytter,Holger J. Schünemann,2
+Eric J. Alm,Curtis Huttenhower,2
+Andrés Mauricio Caraballo‐Rodríguez,Ricardo Silva,3
+Andrés Mauricio Caraballo‐Rodríguez,Pieter C. Dorrestein,2
+Andrés Mauricio Caraballo‐Rodríguez,Madeleine Ernst,2
+Andrés Mauricio Caraballo‐Rodríguez,Julia M. Gauglitz,2
+Andrés Mauricio Caraballo‐Rodríguez,Alan K. Jarmusch,2
+Andrés Mauricio Caraballo‐Rodríguez,Kyo Bin Kang,2
+Andrés Mauricio Caraballo‐Rodríguez,Irina Koester,2
+Andrés Mauricio Caraballo‐Rodríguez,Alexey V. Melnik,2
+Andrés Mauricio Caraballo‐Rodríguez,Louis‐Félix Nothias,2
+Andrés Mauricio Caraballo‐Rodríguez,Daniel Petras,2
+Andrés Mauricio Caraballo‐Rodríguez,Anupriya Tripathi,2
+Andrés Mauricio Caraballo‐Rodríguez,Justin J. J. van der Hooft,2
+Andrés Mauricio Caraballo‐Rodríguez,Fernando Vargas,2
+Andrés Mauricio Caraballo‐Rodríguez,Mingxun Wang,2
+Andrés Mauricio Caraballo‐Rodríguez,Vanessa V. Phelan,2
+Andrés Mauricio Caraballo‐Rodríguez,Neha Garg,2
+Andrés Mauricio Caraballo‐Rodríguez,Robert A. Quinn,2
+Andrés Mauricio Caraballo‐Rodríguez,Hosein Mohimani,2
+Andrés Mauricio Caraballo‐Rodríguez,Pierre‐Marie Allard,2
+Ricardo Silva,Pieter C. Dorrestein,2
+Ricardo Silva,Madeleine Ernst,2
+Ricardo Silva,Julia M. Gauglitz,2
+Ricardo Silva,Alan K. Jarmusch,2
+Ricardo Silva,Kyo Bin Kang,2
+Ricardo Silva,Irina Koester,2
+Ricardo Silva,Alexey V. Melnik,2
+Ricardo Silva,Louis‐Félix Nothias,2
+Ricardo Silva,Daniel Petras,2
+Ricardo Silva,Anupriya Tripathi,2
+Ricardo Silva,Justin J. J. van der Hooft,2
+Ricardo Silva,Fernando Vargas,2
+Ricardo Silva,Mingxun Wang,2
+Ricardo Silva,Vanessa V. Phelan,2
+Ricardo Silva,Neha Garg,2
+Ricardo Silva,Robert A. Quinn,2
+Ricardo Silva,Hosein Mohimani,2
+Ricardo Silva,Pierre‐Marie Allard,2
+Pieter C. Dorrestein,Madeleine Ernst,2
+Pieter C. Dorrestein,Julia M. Gauglitz,2
+Pieter C. Dorrestein,Alan K. Jarmusch,2
+Pieter C. Dorrestein,Kyo Bin Kang,2
+Pieter C. Dorrestein,Irina Koester,2
+Pieter C. Dorrestein,Louis‐Félix Nothias,2
+Pieter C. Dorrestein,Daniel Petras,2
+Pieter C. Dorrestein,Anupriya Tripathi,2
+Pieter C. Dorrestein,Justin J. J. van der Hooft,2
+Pieter C. Dorrestein,Fernando Vargas,2
+Madeleine Ernst,Julia M. Gauglitz,2
+Madeleine Ernst,Alan K. Jarmusch,2
+Madeleine Ernst,Kyo Bin Kang,2
+Madeleine Ernst,Irina Koester,2
+Madeleine Ernst,Louis‐Félix Nothias,2
+Madeleine Ernst,Daniel Petras,2
+Madeleine Ernst,Anupriya Tripathi,2
+Madeleine Ernst,Justin J. J. van der Hooft,2
+Madeleine Ernst,Fernando Vargas,2
+Julia M. Gauglitz,Alan K. Jarmusch,2
+Julia M. Gauglitz,Kyo Bin Kang,2
+Julia M. Gauglitz,Irina Koester,2
+Julia M. Gauglitz,Louis‐Félix Nothias,2
+Julia M. Gauglitz,Daniel Petras,2
+Julia M. Gauglitz,Anupriya Tripathi,2
+Julia M. Gauglitz,Justin J. J. van der Hooft,2
+Julia M. Gauglitz,Fernando Vargas,2
+Antonio González,Dan Knights,2
+Antonio González,Yoshiki Vázquez‐Baeza,2
+Antonio González,Rob Knight,2
+Curtis Huttenhower,Lauren J. McIver,2
+Alan K. Jarmusch,Kyo Bin Kang,2
+Alan K. Jarmusch,Irina Koester,2
+Alan K. Jarmusch,Louis‐Félix Nothias,2
+Alan K. Jarmusch,Daniel Petras,2
+Alan K. Jarmusch,Anupriya Tripathi,2
+Alan K. Jarmusch,Justin J. J. van der Hooft,2
+Alan K. Jarmusch,Fernando Vargas,2
+Kyo Bin Kang,Irina Koester,2
+Kyo Bin Kang,Louis‐Félix Nothias,2
+Kyo Bin Kang,Daniel Petras,2
+Kyo Bin Kang,Anupriya Tripathi,2
+Kyo Bin Kang,Justin J. J. van der Hooft,2
+Kyo Bin Kang,Fernando Vargas,2
+Scott T. Kelley,Dan Knights,2
+Dan Knights,Rob Knight,2
+Irina Koester,Louis‐Félix Nothias,2
+Irina Koester,Daniel Petras,2
+Irina Koester,Anupriya Tripathi,2
+Irina Koester,Justin J. J. van der Hooft,2
+Irina Koester,Fernando Vargas,2
+Louis‐Félix Nothias,Daniel Petras,2
+Louis‐Félix Nothias,Anupriya Tripathi,2
+Louis‐Félix Nothias,Justin J. J. van der Hooft,2
+Louis‐Félix Nothias,Fernando Vargas,2
+Daniel Petras,Anupriya Tripathi,2
+Daniel Petras,Justin J. J. van der Hooft,2
+Daniel Petras,Fernando Vargas,2
+Anupriya Tripathi,Justin J. J. van der Hooft,2
+Anupriya Tripathi,Fernando Vargas,2
+Justin J. J. van der Hooft,Fernando Vargas,2
+Stanley Wasserman,Katherine Faust,2
+Nees Jan van Eck,Ludo Waltman,3
+Greg Guest,Emily Namey,2
+Luigi Atzori,Antonio Iera,2
+Luigi Atzori,Giacomo Morabito,2
+Antonio Iera,Giacomo Morabito,2
+James Robinson,Helga Thorvaldsdóttir,3
+Gad Getz,Vésteinn Thórsson,2
+Philippe Rocca‐Serra,Susanna‐Assunta Sansone,2
+Susanna‐Assunta Sansone,Michael Ashburner,2
+Susanna‐Assunta Sansone,Suzanna Lewis,2
+Brad T. Sherman,Richard A. Lempicki,2
+Nello Cristianini,John Shawe‐Taylor,3
+Jianjiong Gao,Benjamin Groß,2
+Jianjiong Gao,Ethan Cerami,2
+Jianjiong Gao,Nikolaus Schultz,2
+Benjamin Groß,Ethan Cerami,2
+Benjamin Groß,Nikolaus Schultz,2
+S. Onur Sumer,Chris Sander,2
+S. Onur Sumer,Nikolaus Schultz,2
+S. Onur Sumer,Vésteinn Thórsson,2
+Ethan Cerami,Nikolaus Schultz,2
+Chris Sander,Nikolaus Schultz,2
+Chris Sander,Vésteinn Thórsson,2
+Nikolaus Schultz,Larsson Omberg,2
+Nikolaus Schultz,Vésteinn Thórsson,2
+Nikolaus Schultz,Gordon B. Mills,2
+Nikolaus Schultz,Debyani Chakravarty,2
+Nikolaus Schultz,Zachary Heins,2
+Nikolaus Schultz,Ritika Kundra,2
+Nikolaus Schultz,Marc Ladanyi,2
+Stephen M. Smith,Mark Jenkinson,3
+Stephen M. Smith,Mark W. Woolrich,2
+Stephen M. Smith,Christian F. Beckmann,2
+Stephen M. Smith,Timothy E.J. Behrens,4
+Stephen M. Smith,David C. Van Essen,2
+Stephen M. Smith,Essa Yacoub,2
+Stephen M. Smith,Kâmil Uğurbil,2
+Mark Jenkinson,Mark W. Woolrich,2
+Mark Jenkinson,Christian F. Beckmann,2
+Mark Jenkinson,Timothy E.J. Behrens,3
+Mark W. Woolrich,Christian F. Beckmann,2
+Mark W. Woolrich,Timothy E.J. Behrens,2
+Christian F. Beckmann,Timothy E.J. Behrens,2
+Timothy E.J. Behrens,David C. Van Essen,2
+Timothy E.J. Behrens,Essa Yacoub,2
+Timothy E.J. Behrens,Kâmil Uğurbil,2
+H. Eugene Stanley,Shlomo Havlin,2
+John W. Tukey,Frederick Mosteller,2
+Anil K. Jain,Sharath Pankanti,2
+Laurent Excoffier,Guillaume Laval,2
+Laurent Excoffier,Stefan Schneider,2
+Guillaume Laval,Stefan Schneider,2
+Sameer Singh,Carlos Guestrin,2
+Airlie J. McCoy,Randy J. Read,2
+Robert Gentleman,Vincent J. Carey,2
+Robert Gentleman,Wolfgang Huber,2
+Robert Gentleman,Rafael A. Irizarry,2
+Robert Gentleman,Gordon K. Smyth,2
+Vincent J. Carey,Wolfgang Huber,2
+Vincent J. Carey,Rafael A. Irizarry,2
+Vincent J. Carey,Gordon K. Smyth,2
+Wolfgang Huber,Rafael A. Irizarry,2
+Wolfgang Huber,Gordon K. Smyth,2
+Rafael A. Irizarry,Gordon K. Smyth,2
+Virginia Braun,Victoria Clarke,4
+Chengjie Chen,Hao Chen,2
+Chengjie Chen,Yehua He,2
+Chengjie Chen,Rui Xia,2
+Hao Chen,Yehua He,2
+Hao Chen,Rui Xia,2
+Yehua He,Rui Xia,2
+William DeLone,Ephraim R. McLean,2
+William H. Press,Brian P. Flannery,3
+William H. Press,Saul A. Teukolsky,3
+William H. Press,William T. Vetterling,3
+Brian P. Flannery,Saul A. Teukolsky,3
+Brian P. Flannery,William T. Vetterling,3
+Saul A. Teukolsky,William T. Vetterling,3
+Vipin Kumar,Pang‐Ning Tan,2
+Gediminas Adomavičius,Alexander Tuzhilin,2
+Connor Shorten,Taghi M. Khoshgoftaar,2
+Tanya Barrett,Pierre Ledoux,2
+Tanya Barrett,Irene F. Kim,2
+Tanya Barrett,Maxim Tomashevsky,2
+Tanya Barrett,Kimberly A. Marshall,2
+Tanya Barrett,Katherine Phillippy,2
+Tanya Barrett,Michelle Holko,2
+Tanya Barrett,Andrey Yefanov,2
+Pierre Ledoux,Irene F. Kim,2
+Pierre Ledoux,Maxim Tomashevsky,2
+Pierre Ledoux,Kimberly A. Marshall,2
+Pierre Ledoux,Katherine Phillippy,2
+Pierre Ledoux,Michelle Holko,2
+Pierre Ledoux,Andrey Yefanov,2
+Irene F. Kim,Maxim Tomashevsky,2
+Irene F. Kim,Kimberly A. Marshall,2
+Irene F. Kim,Katherine Phillippy,2
+Irene F. Kim,Michelle Holko,2
+Irene F. Kim,Andrey Yefanov,2
+Maxim Tomashevsky,Kimberly A. Marshall,2
+Maxim Tomashevsky,Katherine Phillippy,2
+Maxim Tomashevsky,Michelle Holko,2
+Maxim Tomashevsky,Andrey Yefanov,2
+Kimberly A. Marshall,Katherine Phillippy,2
+Kimberly A. Marshall,Michelle Holko,2
+Kimberly A. Marshall,Andrey Yefanov,2
+Katherine Phillippy,Michelle Holko,2
+Katherine Phillippy,Andrey Yefanov,2
+Michelle Holko,Andrey Yefanov,2
+Anna B. Costello,Jason W. Osborne,2
+Catherine H. Graham,Simon Ferrier,2
+Catherine H. Graham,Craig Moritz,2
+Catherine H. Graham,A. Townsend Peterson,2
+Simon Ferrier,Craig Moritz,2
+Simon Ferrier,A. Townsend Peterson,2
+Antoine Guisan,Niklaus E. Zimmermann,2
+Craig Moritz,A. Townsend Peterson,2
+Miguel Nakamura,Jorge Soberón,2
+Francis S. Collins,Alan E. Guttmacher,2
+David B. Goldstein,Mark I. McCarthy,2
+David B. Goldstein,Lon R. Cardon,2
+Lucia A. Hindorff,Annalisa Buniello,2
+Lucia A. Hindorff,Jacqueline MacArthur,3
+Lucia A. Hindorff,María Cerezo,3
+Lucia A. Hindorff,Laura W. Harris,2
+Lucia A. Hindorff,James Hayhurst,2
+Lucia A. Hindorff,Aoife McMahon,3
+Lucia A. Hindorff,Joannella Morales,2
+Lucia A. Hindorff,Elliot Sollis,2
+Lucia A. Hindorff,Patricia L. Whetzel,2
+Lucia A. Hindorff,Peggy Hall,3
+Lucia A. Hindorff,Heather Junkins,2
+Lucia A. Hindorff,Paul Flicek,2
+Lucia A. Hindorff,Tony Burdett,2
+Lucia A. Hindorff,Fiona Cunningham,3
+Lucia A. Hindorff,Helen Parkinson,3
+Lucia A. Hindorff,Laurent Gil,2
+Lucia A. Hindorff,Zoë May Pendlington,2
+Mark I. McCarthy,Lon R. Cardon,2
+Mark I. McCarthy,Peter M. Visscher,2
+Catherine Pope,Nicholas Mays,2
+A. Colin Cameron,Pravin K. Trivedi,3
+Alan R. Hevner,Samir Chatterjee,2
+Christian M. Ringle,Marko Sarstedt,2
+Matthias Egger,George Davey Smith,2
+Minqing Hu,Bing Liu,3
+Bing Liu,Lei Zhang,3
+Sudhir Kumar,Joel T. Dudley,2
+Ala Al‐Fuqaha,Mohsen Guizani,2
+Ala Al‐Fuqaha,Mehdi Mohammadi,2
+Mohsen Guizani,Mehdi Mohammadi,2
+John W. Creswell,Michael D. Fetters,2
+Oliver P. John,Harry T. Reis,5
+Oliver P. John,John A. Bargh,2
+Reinhard F. Stocker,Gian‐Kasper Plattner,2
+Reinhard F. Stocker,T. F. Stocker,2
+Reinhard F. Stocker,Pauline M. Midgley,2
+D Qin,Gian‐Kasper Plattner,2
+D Qin,T. F. Stocker,2
+D Qin,Pauline M. Midgley,2
+Gian‐Kasper Plattner,Melinda Tignor,2
+Gian‐Kasper Plattner,Steve Allen,2
+Gian‐Kasper Plattner,Judith Boschung,2
+Gian‐Kasper Plattner,T. F. Stocker,4
+Gian‐Kasper Plattner,S. Allen,2
+Gian‐Kasper Plattner,Alexander Nauels,2
+Gian‐Kasper Plattner,Yubin Xia,2
+Gian‐Kasper Plattner,Vincent Bex,2
+Gian‐Kasper Plattner,Pauline M. Midgley,4
+Gian‐Kasper Plattner,Meredith Collins,2
+Gian‐Kasper Plattner,Reto Knutti,2
+Gian‐Kasper Plattner,Julie M. Arblaster,2
+Gian‐Kasper Plattner,Jean‐Louis Dufresne,2
+Gian‐Kasper Plattner,Thierry Fichefet,2
+Gian‐Kasper Plattner,Pierre Friedlingstein,2
+Gian‐Kasper Plattner,Michael Wehner,2
+Gian‐Kasper Plattner,Thomas F. Stocker,2
+Gian‐Kasper Plattner,Simon J. Allen,2
+Gian‐Kasper Plattner,F. M. Midgley,2
+Gian‐Kasper Plattner,Allen Sk,2
+Gian‐Kasper Plattner,SG Allen,2
+Melinda Tignor,T. F. Stocker,2
+Melinda Tignor,Pauline M. Midgley,2
+Steve Allen,T. F. Stocker,2
+Steve Allen,Pauline M. Midgley,2
+Judith Boschung,T. F. Stocker,2
+Judith Boschung,Pauline M. Midgley,2
+T. F. Stocker,S. Allen,2
+T. F. Stocker,Alexander Nauels,2
+T. F. Stocker,Yubin Xia,2
+T. F. Stocker,Vincent Bex,2
+T. F. Stocker,Pauline M. Midgley,4
+T. F. Stocker,Meredith Collins,2
+T. F. Stocker,Reto Knutti,2
+T. F. Stocker,Julie M. Arblaster,2
+T. F. Stocker,Jean‐Louis Dufresne,2
+T. F. Stocker,Thierry Fichefet,2
+T. F. Stocker,Pierre Friedlingstein,2
+T. F. Stocker,Michael Wehner,2
+T. F. Stocker,Thomas F. Stocker,2
+T. F. Stocker,Simon J. Allen,2
+T. F. Stocker,F. M. Midgley,2
+T. F. Stocker,Allen Sk,2
+T. F. Stocker,SG Allen,2
+S. Allen,Pauline M. Midgley,2
+Alexander Nauels,Pauline M. Midgley,2
+Yubin Xia,Pauline M. Midgley,2
+Vincent Bex,Pauline M. Midgley,2
+Pauline M. Midgley,Meredith Collins,2
+Pauline M. Midgley,Reto Knutti,2
+Pauline M. Midgley,Julie M. Arblaster,2
+Pauline M. Midgley,Jean‐Louis Dufresne,2
+Pauline M. Midgley,Thierry Fichefet,2
+Pauline M. Midgley,Pierre Friedlingstein,2
+Pauline M. Midgley,Michael Wehner,2
+Pauline M. Midgley,Thomas F. Stocker,2
+Pauline M. Midgley,Simon J. Allen,2
+Pauline M. Midgley,F. M. Midgley,2
+Pauline M. Midgley,Allen Sk,2
+Pauline M. Midgley,SG Allen,2
+Yasset Pérez‐Riverol,Attila Csordás,2
+Yasset Pérez‐Riverol,Johannes Griss,2
+Yasset Pérez‐Riverol,Juan Antonio Vizcaíno,2
+Attila Csordás,Johannes Griss,2
+Attila Csordás,Gerhard Mayer,2
+Attila Csordás,Martin Eisenacher,2
+Attila Csordás,Juan Antonio Vizcaíno,3
+Attila Csordás,Rui Wang,2
+Attila Csordás,Florian Reisinger,2
+Attila Csordás,Daniel Ríos,2
+Attila Csordás,José A. Dianes,2
+Attila Csordás,Henning Hermjakob,2
+Johannes Griss,Juan Antonio Vizcaíno,2
+Gerhard Mayer,Martin Eisenacher,2
+Gerhard Mayer,Juan Antonio Vizcaíno,2
+Martin Eisenacher,Juan Antonio Vizcaíno,2
+Juan Antonio Vizcaíno,Rui Wang,2
+Juan Antonio Vizcaíno,Florian Reisinger,2
+Juan Antonio Vizcaíno,Daniel Ríos,2
+Juan Antonio Vizcaíno,José A. Dianes,2
+Juan Antonio Vizcaíno,Henning Hermjakob,2
+Carol Kilkenny,William J. Browne,2
+Carol Kilkenny,Innes C. Cuthill,2
+Carol Kilkenny,Michael Emerson,2
+William J. Browne,Innes C. Cuthill,6
+William J. Browne,Michael Emerson,6
+William J. Browne,Nathalie Percie du Sert,4
+William J. Browne,Viki Hurst,4
+William J. Browne,Amrita Ahluwalia,4
+William J. Browne,Sabina Alam,4
+William J. Browne,Marc T. Avey,4
+William J. Browne,Monya Baker,4
+William J. Browne,Alejandra Clark,4
+William J. Browne,Ulrich Dirnagl,4
+William J. Browne,Paul Garner,4
+William J. Browne,Stephen T. Holgate,4
+William J. Browne,David W. Howells,4
+William J. Browne,Natasha A. Karp,4
+William J. Browne,Stanley E. Lazic,4
+William J. Browne,Katie Lidster,4
+William J. Browne,Catriona J. MacCallum,4
+William J. Browne,Malcolm Macleod,4
+William J. Browne,Esther J. Pearl,4
+William J. Browne,Ole H. Petersen,4
+William J. Browne,Frances Rawle,4
+William J. Browne,Penny S. Reynolds,4
+William J. Browne,Kieron Rooney,4
+William J. Browne,Emily S. Sena,4
+William J. Browne,Shai D. Silberberg,4
+William J. Browne,Thomas Steckler,4
+William J. Browne,Hanno Würbel,4
+Innes C. Cuthill,Michael Emerson,6
+Innes C. Cuthill,Nathalie Percie du Sert,4
+Innes C. Cuthill,Viki Hurst,4
+Innes C. Cuthill,Amrita Ahluwalia,4
+Innes C. Cuthill,Sabina Alam,4
+Innes C. Cuthill,Marc T. Avey,4
+Innes C. Cuthill,Monya Baker,4
+Innes C. Cuthill,Alejandra Clark,4
+Innes C. Cuthill,Ulrich Dirnagl,4
+Innes C. Cuthill,Paul Garner,4
+Innes C. Cuthill,Stephen T. Holgate,4
+Innes C. Cuthill,David W. Howells,4
+Innes C. Cuthill,Natasha A. Karp,4
+Innes C. Cuthill,Stanley E. Lazic,4
+Innes C. Cuthill,Katie Lidster,4
+Innes C. Cuthill,Catriona J. MacCallum,4
+Innes C. Cuthill,Malcolm Macleod,4
+Innes C. Cuthill,Esther J. Pearl,4
+Innes C. Cuthill,Ole H. Petersen,4
+Innes C. Cuthill,Frances Rawle,4
+Innes C. Cuthill,Penny S. Reynolds,4
+Innes C. Cuthill,Kieron Rooney,4
+Innes C. Cuthill,Emily S. Sena,4
+Innes C. Cuthill,Shai D. Silberberg,4
+Innes C. Cuthill,Thomas Steckler,4
+Innes C. Cuthill,Hanno Würbel,4
+Michael Emerson,Nathalie Percie du Sert,4
+Michael Emerson,Viki Hurst,4
+Michael Emerson,Amrita Ahluwalia,4
+Michael Emerson,Sabina Alam,4
+Michael Emerson,Marc T. Avey,4
+Michael Emerson,Monya Baker,4
+Michael Emerson,Alejandra Clark,4
+Michael Emerson,Ulrich Dirnagl,4
+Michael Emerson,Paul Garner,4
+Michael Emerson,Stephen T. Holgate,4
+Michael Emerson,David W. Howells,4
+Michael Emerson,Natasha A. Karp,4
+Michael Emerson,Stanley E. Lazic,4
+Michael Emerson,Katie Lidster,4
+Michael Emerson,Catriona J. MacCallum,4
+Michael Emerson,Malcolm Macleod,4
+Michael Emerson,Esther J. Pearl,4
+Michael Emerson,Ole H. Petersen,4
+Michael Emerson,Frances Rawle,4
+Michael Emerson,Penny S. Reynolds,4
+Michael Emerson,Kieron Rooney,4
+Michael Emerson,Emily S. Sena,4
+Michael Emerson,Shai D. Silberberg,4
+Michael Emerson,Thomas Steckler,4
+Michael Emerson,Hanno Würbel,4
+Salvador García,Francisco Herrera,2
+Francisco Herrera,Manuel J. Cobo,3
+Francisco Herrera,A.G. López‐Herrera,3
+Francisco Herrera,Enrique Herrera–Viedma,3
+D. R. Cox,David Oakes,2
+Keith F. Widaman,Harry T. Reis,5
+Keith F. Widaman,John A. Bargh,2
+Michael J. Pencina,Ralph B. D' Agostino,2
+Ralph B. D' Agostino,Ramachandran S. Vasan,2
+Rajkumar Buyya,Chee Shin Yeo,2
+Rajkumar Buyya,Srikumar Venugopal,2
+Chee Shin Yeo,Srikumar Venugopal,2
+Steven W. Kembel,David D. Ackerly,2
+Steven W. Kembel,Campbell O. Webb,2
+David D. Ackerly,Campbell O. Webb,2
+David C. Van Essen,Essa Yacoub,2
+David C. Van Essen,Kâmil Uğurbil,2
+Essa Yacoub,Kâmil Uğurbil,2
+Gergely Palla,Tamás Vicsek,2
+H. Russell Bernard,Gery W. Ryan,2
+Elisabeth Gasteiger,Delphine Baratin,2
+Elisabeth Gasteiger,Edouard de Castro,2
+Elisabeth Gasteiger,Nicole Redaschi,2
+Laurence Moore,Janis Baird,2
+Alicia O’Cathain,Elizabeth Murphy,2
+Alicia O’Cathain,Jon Nicholl,2
+Alex Bateman,Edouard de Castro,2
+Alex Bateman,Catherine Rivoire,2
+Alex Bateman,Christian Sigrist,2
+Sandra Orchard,Penelope Garmiri,2
+Sandra Orchard,Rizwan Ishtiaq,2
+Penelope Garmiri,Rizwan Ishtiaq,2
+Alan Bridge,Lucila Aimo,2
+Alan Bridge,Kristian B. Axelsen,2
+Alan Bridge,Marc Feuermann,2
+Alan Bridge,Pascale Gaudet,2
+Alan Bridge,Nevila Hyka‐Nouspikel,2
+Alan Bridge,Anne Morgat,2
+Alan Bridge,Suzi Aleksander,2
+Alan Bridge,J. Michael Cherry,2
+Alan Bridge,Harold Drabkin,2
+Alan Bridge,David P. Hill,2
+Alan Bridge,Pankaj Jaiswal,2
+Lucila Aimo,Kristian B. Axelsen,2
+Lucila Aimo,Marc Feuermann,2
+Lucila Aimo,Pascale Gaudet,2
+Lucila Aimo,Nevila Hyka‐Nouspikel,2
+Lucila Aimo,Anne Morgat,2
+Lucila Aimo,Suzi Aleksander,2
+Lucila Aimo,J. Michael Cherry,2
+Lucila Aimo,Harold Drabkin,2
+Lucila Aimo,David P. Hill,2
+Lucila Aimo,Pankaj Jaiswal,2
+Kristian B. Axelsen,Marc Feuermann,2
+Kristian B. Axelsen,Pascale Gaudet,2
+Kristian B. Axelsen,Nevila Hyka‐Nouspikel,2
+Kristian B. Axelsen,Anne Morgat,2
+Kristian B. Axelsen,Suzi Aleksander,2
+Kristian B. Axelsen,J. Michael Cherry,2
+Kristian B. Axelsen,Harold Drabkin,2
+Kristian B. Axelsen,David P. Hill,2
+Kristian B. Axelsen,Pankaj Jaiswal,2
+Delphine Baratin,Edouard de Castro,2
+Delphine Baratin,Nicole Redaschi,2
+Edouard de Castro,Nicole Redaschi,2
+Edouard de Castro,Catherine Rivoire,2
+Edouard de Castro,Christian Sigrist,2
+Marc Feuermann,Pascale Gaudet,2
+Marc Feuermann,Nevila Hyka‐Nouspikel,2
+Marc Feuermann,Anne Morgat,2
+Marc Feuermann,Suzi Aleksander,2
+Marc Feuermann,J. Michael Cherry,2
+Marc Feuermann,Harold Drabkin,2
+Marc Feuermann,David P. Hill,2
+Marc Feuermann,Pankaj Jaiswal,2
+Pascale Gaudet,Nevila Hyka‐Nouspikel,2
+Pascale Gaudet,Anne Morgat,2
+Pascale Gaudet,Chris Mungall,2
+Pascale Gaudet,Judith A. Blake,2
+Pascale Gaudet,M. Eileen Dolan,2
+Pascale Gaudet,Harold Drabkin,3
+Pascale Gaudet,David P. Hill,3
+Pascale Gaudet,J. Michael Cherry,3
+Pascale Gaudet,Karen Christie,2
+Pascale Gaudet,Stacia R. Engel,2
+Pascale Gaudet,Robert S Nash,2
+Pascale Gaudet,Tanya Berardini,2
+Pascale Gaudet,Rex L. Chisholm,2
+Pascale Gaudet,Paul W. Sternberg,2
+Pascale Gaudet,Valerie Wood,2
+Pascale Gaudet,Pankaj Jaiswal,3
+Pascale Gaudet,Suzi Aleksander,2
+Nevila Hyka‐Nouspikel,Anne Morgat,2
+Nevila Hyka‐Nouspikel,Suzi Aleksander,2
+Nevila Hyka‐Nouspikel,J. Michael Cherry,2
+Nevila Hyka‐Nouspikel,Harold Drabkin,2
+Nevila Hyka‐Nouspikel,David P. Hill,2
+Nevila Hyka‐Nouspikel,Pankaj Jaiswal,2
+Anne Morgat,Suzi Aleksander,2
+Anne Morgat,J. Michael Cherry,2
+Anne Morgat,Harold Drabkin,2
+Anne Morgat,David P. Hill,2
+Anne Morgat,Pankaj Jaiswal,2
+Catherine Rivoire,Christian Sigrist,2
+Anind K. Dey,Gregory D. Abowd,5
+Anind K. Dey,Nigel Davies,2
+Anind K. Dey,Pete Steggles,2
+Anind K. Dey,Daniel Salber,2
+Todd Z. DeSantis,Gary L. Andersen,2
+Matthias Bernt,Enis Afgan,2
+Matthias Bernt,Anton Nekrutenko,2
+Matthias Bernt,Björn Grüning,2
+Matthias Bernt,Daniel Blankenberg,2
+Matthias Bernt,Jeremy Goecks,2
+Matthias Bernt,Michael C. Schatz,2
+Li Da Xu,Shancang Li,2
+Usama M. Fayyad,Gregory Piatetsky-Shapiro,2
+Usama M. Fayyad,Padhraic Smyth,2
+Gregory Piatetsky-Shapiro,Padhraic Smyth,2
+Donna L. Hoffman,Thomas P. Novak,2
+Christian Bizer,Tom Heath,3
+Midori A. Harris,Chris Mungall,2
+Midori A. Harris,Judith A. Blake,2
+Midori A. Harris,M. Eileen Dolan,2
+Midori A. Harris,Harold Drabkin,2
+Midori A. Harris,David P. Hill,2
+Midori A. Harris,J. Michael Cherry,2
+Midori A. Harris,Karen Christie,2
+Midori A. Harris,Stacia R. Engel,2
+Midori A. Harris,Rex L. Chisholm,2
+Midori A. Harris,Valerie Wood,2
+Amelia Ireland,Michael Ashburner,2
+Amelia Ireland,Karen Eilbeck,2
+Amelia Ireland,Chris Mungall,2
+Michael Ashburner,Karen Eilbeck,2
+Michael Ashburner,Chris Mungall,2
+Michael Ashburner,Suzanna Lewis,2
+Karen Eilbeck,Chris Mungall,2
+Chris Mungall,Judith A. Blake,3
+Chris Mungall,M. Eileen Dolan,3
+Chris Mungall,Harold Drabkin,4
+Chris Mungall,David P. Hill,4
+Chris Mungall,J. Michael Cherry,4
+Chris Mungall,Karen Christie,3
+Chris Mungall,Stacia R. Engel,3
+Chris Mungall,Robert S Nash,2
+Chris Mungall,Tanya Berardini,2
+Chris Mungall,Rex L. Chisholm,3
+Chris Mungall,Paul W. Sternberg,2
+Chris Mungall,Valerie Wood,3
+Chris Mungall,Pankaj Jaiswal,3
+Chris Mungall,Seth Carbon,2
+Chris Mungall,Nomi L. Harris,2
+Chris Mungall,Petra Fey,2
+Chris Mungall,Paul D. Thomas,2
+Chris Mungall,Dustin Ebert,2
+Chris Mungall,Huaiyu Mi,2
+Chris Mungall,Tremayne Mushayahama,2
+Chris Mungall,Deborah A. Siegele,2
+Chris Mungall,Giulia Antonazzo,2
+Chris Mungall,Helen Attrill,2
+Chris Mungall,Steven J Marygold,2
+Chris Mungall,Gil dos Santos,2
+Chris Mungall,Christopher J. Tabone,2
+Chris Mungall,Pinglei Zhou,2
+Chris Mungall,Victor Strelets,2
+Chris Mungall,Jim Thurmond,2
+Chris Mungall,Colin Logie,2
+Chris Mungall,Ruth C. Lovering,2
+Chris Mungall,Shirin C C Saverimuttu,2
+Chris Mungall,Renzhi Su,2
+Chris Mungall,Kate E. Thurlow,2
+Chris Mungall,Michelle Giglio,2
+Chris Mungall,Suvarna Nadendla,2
+Chris Mungall,Li Ni,2
+Chris Mungall,Dmitry Sitnikov,2
+Chris Mungall,Kim Rutherford,2
+Chris Mungall,Melinda R. Dwinell,2
+Chris Mungall,G. Thomas Hayman,2
+Chris Mungall,Mary L. Kaldunski,2
+Chris Mungall,Anne E. Kwitek,2
+Chris Mungall,Stanley J. F. Laulederkind,2
+Chris Mungall,Marek Tutaj,2
+Chris Mungall,Mahima Vedi,2
+Chris Mungall,Shur‐Jen Wang,2
+Chris Mungall,Peter D’Eustachio,2
+Chris Mungall,James P. Balhoff,2
+Chris Mungall,Suzi Aleksander,3
+Chris Mungall,Kalpana Karra,2
+Judith A. Blake,M. Eileen Dolan,3
+Judith A. Blake,Harold Drabkin,4
+Judith A. Blake,David P. Hill,4
+Judith A. Blake,J. Michael Cherry,4
+Judith A. Blake,Karen Christie,3
+Judith A. Blake,Stacia R. Engel,3
+Judith A. Blake,Robert S Nash,2
+Judith A. Blake,Tanya Berardini,2
+Judith A. Blake,Rex L. Chisholm,3
+Judith A. Blake,Paul W. Sternberg,2
+Judith A. Blake,Valerie Wood,3
+Judith A. Blake,Pankaj Jaiswal,3
+Judith A. Blake,Seth Carbon,2
+Judith A. Blake,Nomi L. Harris,2
+Judith A. Blake,Petra Fey,2
+Judith A. Blake,Paul D. Thomas,2
+Judith A. Blake,Dustin Ebert,2
+Judith A. Blake,Huaiyu Mi,2
+Judith A. Blake,Tremayne Mushayahama,2
+Judith A. Blake,Deborah A. Siegele,2
+Judith A. Blake,Giulia Antonazzo,2
+Judith A. Blake,Helen Attrill,2
+Judith A. Blake,Steven J Marygold,2
+Judith A. Blake,Gil dos Santos,2
+Judith A. Blake,Christopher J. Tabone,2
+Judith A. Blake,Pinglei Zhou,2
+Judith A. Blake,Victor Strelets,2
+Judith A. Blake,Jim Thurmond,2
+Judith A. Blake,Colin Logie,2
+Judith A. Blake,Ruth C. Lovering,2
+Judith A. Blake,Shirin C C Saverimuttu,2
+Judith A. Blake,Renzhi Su,2
+Judith A. Blake,Kate E. Thurlow,2
+Judith A. Blake,Michelle Giglio,2
+Judith A. Blake,Suvarna Nadendla,2
+Judith A. Blake,Li Ni,2
+Judith A. Blake,Dmitry Sitnikov,2
+Judith A. Blake,Kim Rutherford,2
+Judith A. Blake,Melinda R. Dwinell,2
+Judith A. Blake,G. Thomas Hayman,2
+Judith A. Blake,Mary L. Kaldunski,2
+Judith A. Blake,Anne E. Kwitek,2
+Judith A. Blake,Stanley J. F. Laulederkind,2
+Judith A. Blake,Marek Tutaj,2
+Judith A. Blake,Mahima Vedi,2
+Judith A. Blake,Shur‐Jen Wang,2
+Judith A. Blake,Peter D’Eustachio,2
+Judith A. Blake,James P. Balhoff,2
+Judith A. Blake,Suzi Aleksander,3
+Judith A. Blake,Kalpana Karra,2
+M. Eileen Dolan,Harold Drabkin,4
+M. Eileen Dolan,David P. Hill,4
+M. Eileen Dolan,J. Michael Cherry,4
+M. Eileen Dolan,Karen Christie,3
+M. Eileen Dolan,Stacia R. Engel,3
+M. Eileen Dolan,Robert S Nash,2
+M. Eileen Dolan,Tanya Berardini,2
+M. Eileen Dolan,Rex L. Chisholm,3
+M. Eileen Dolan,Paul W. Sternberg,2
+M. Eileen Dolan,Valerie Wood,3
+M. Eileen Dolan,Pankaj Jaiswal,3
+M. Eileen Dolan,Seth Carbon,2
+M. Eileen Dolan,Nomi L. Harris,2
+M. Eileen Dolan,Petra Fey,2
+M. Eileen Dolan,Paul D. Thomas,2
+M. Eileen Dolan,Dustin Ebert,2
+M. Eileen Dolan,Huaiyu Mi,2
+M. Eileen Dolan,Tremayne Mushayahama,2
+M. Eileen Dolan,Deborah A. Siegele,2
+M. Eileen Dolan,Giulia Antonazzo,2
+M. Eileen Dolan,Helen Attrill,2
+M. Eileen Dolan,Steven J Marygold,2
+M. Eileen Dolan,Gil dos Santos,2
+M. Eileen Dolan,Christopher J. Tabone,2
+M. Eileen Dolan,Pinglei Zhou,2
+M. Eileen Dolan,Victor Strelets,2
+M. Eileen Dolan,Jim Thurmond,2
+M. Eileen Dolan,Colin Logie,2
+M. Eileen Dolan,Ruth C. Lovering,2
+M. Eileen Dolan,Shirin C C Saverimuttu,2
+M. Eileen Dolan,Renzhi Su,2
+M. Eileen Dolan,Kate E. Thurlow,2
+M. Eileen Dolan,Michelle Giglio,2
+M. Eileen Dolan,Suvarna Nadendla,2
+M. Eileen Dolan,Li Ni,2
+M. Eileen Dolan,Dmitry Sitnikov,2
+M. Eileen Dolan,Kim Rutherford,2
+M. Eileen Dolan,Melinda R. Dwinell,2
+M. Eileen Dolan,G. Thomas Hayman,2
+M. Eileen Dolan,Mary L. Kaldunski,2
+M. Eileen Dolan,Anne E. Kwitek,2
+M. Eileen Dolan,Stanley J. F. Laulederkind,2
+M. Eileen Dolan,Marek Tutaj,2
+M. Eileen Dolan,Mahima Vedi,2
+M. Eileen Dolan,Shur‐Jen Wang,2
+M. Eileen Dolan,Peter D’Eustachio,2
+M. Eileen Dolan,James P. Balhoff,2
+M. Eileen Dolan,Suzi Aleksander,3
+M. Eileen Dolan,Kalpana Karra,2
+Harold Drabkin,David P. Hill,6
+Harold Drabkin,J. Michael Cherry,6
+Harold Drabkin,Karen Christie,4
+Harold Drabkin,Stacia R. Engel,4
+Harold Drabkin,Robert S Nash,3
+Harold Drabkin,Tanya Berardini,3
+Harold Drabkin,Rex L. Chisholm,4
+Harold Drabkin,Paul W. Sternberg,3
+Harold Drabkin,Valerie Wood,4
+Harold Drabkin,Pankaj Jaiswal,5
+Harold Drabkin,Seth Carbon,3
+Harold Drabkin,Nomi L. Harris,3
+Harold Drabkin,Petra Fey,3
+Harold Drabkin,Paul D. Thomas,3
+Harold Drabkin,Dustin Ebert,3
+Harold Drabkin,Huaiyu Mi,3
+Harold Drabkin,Tremayne Mushayahama,3
+Harold Drabkin,Deborah A. Siegele,3
+Harold Drabkin,Giulia Antonazzo,3
+Harold Drabkin,Helen Attrill,3
+Harold Drabkin,Steven J Marygold,3
+Harold Drabkin,Gil dos Santos,3
+Harold Drabkin,Christopher J. Tabone,3
+Harold Drabkin,Pinglei Zhou,3
+Harold Drabkin,Victor Strelets,3
+Harold Drabkin,Jim Thurmond,3
+Harold Drabkin,Colin Logie,3
+Harold Drabkin,Ruth C. Lovering,3
+Harold Drabkin,Shirin C C Saverimuttu,3
+Harold Drabkin,Renzhi Su,3
+Harold Drabkin,Kate E. Thurlow,3
+Harold Drabkin,Michelle Giglio,3
+Harold Drabkin,Suvarna Nadendla,3
+Harold Drabkin,Li Ni,3
+Harold Drabkin,Dmitry Sitnikov,3
+Harold Drabkin,Kim Rutherford,3
+Harold Drabkin,Melinda R. Dwinell,3
+Harold Drabkin,G. Thomas Hayman,3
+Harold Drabkin,Mary L. Kaldunski,3
+Harold Drabkin,Anne E. Kwitek,3
+Harold Drabkin,Stanley J. F. Laulederkind,3
+Harold Drabkin,Marek Tutaj,3
+Harold Drabkin,Mahima Vedi,3
+Harold Drabkin,Shur‐Jen Wang,3
+Harold Drabkin,Peter D’Eustachio,3
+Harold Drabkin,James P. Balhoff,3
+Harold Drabkin,Suzi Aleksander,5
+Harold Drabkin,Kalpana Karra,3
+Harold Drabkin,Raymond Lee,2
+Harold Drabkin,Sierra Moxon,2
+Harold Drabkin,Anushya Muruganugan,2
+Harold Drabkin,Kimberly Van Auken,2
+Harold Drabkin,Jolene Ramsey,2
+Harold Drabkin,Maria Cristina Aspromonte,2
+Harold Drabkin,María Victoria Nugnes,2
+Harold Drabkin,Federica Quaglia,2
+Harold Drabkin,Silvio C. E. Tosatto,2
+Harold Drabkin,Saadullah H. Ahmed,2
+Harold Drabkin,Praoparn Asanitthong,2
+Harold Drabkin,Diana Luna Buitrago,2
+Harold Drabkin,Meltem N Erdol,2
+Harold Drabkin,Matthew Gage,2
+Harold Drabkin,Mohamed Ali Kadhum,2
+Harold Drabkin,Kan Yan Chloe Li,2
+Harold Drabkin,Miao Long,2
+Harold Drabkin,Aleksandra Michalak,2
+Harold Drabkin,Angeline Pesala,2
+Harold Drabkin,Armalya Pritazahra,2
+Harold Drabkin,Snezhana Oliferenko,2
+Harold Drabkin,Lori E Corbani,2
+Harold Drabkin,Cynthia L. Smith,2
+Harold Drabkin,Alayne Cuzick,2
+Harold Drabkin,James Seager,2
+Harold Drabkin,Laurel Cooper,2
+Harold Drabkin,Justin Elser,2
+Harold Drabkin,Parul Gupta,2
+Harold Drabkin,Sushma Naithani,2
+Harold Drabkin,Manuel Lera-Ramírez,2
+Harold Drabkin,Jeffrey L De Pons,2
+Harold Drabkin,Stuart R. Miyasato,2
+Harold Drabkin,Marek S. Skrzypek,2
+Harold Drabkin,Shuai Weng,2
+Harold Drabkin,Edith D. Wong,2
+Harold Drabkin,Erika Bakker,2
+David P. Hill,J. Michael Cherry,6
+David P. Hill,Karen Christie,4
+David P. Hill,Stacia R. Engel,4
+David P. Hill,Robert S Nash,3
+David P. Hill,Tanya Berardini,3
+David P. Hill,Rex L. Chisholm,4
+David P. Hill,Paul W. Sternberg,3
+David P. Hill,Valerie Wood,4
+David P. Hill,Pankaj Jaiswal,5
+David P. Hill,Seth Carbon,3
+David P. Hill,Nomi L. Harris,3
+David P. Hill,Petra Fey,3
+David P. Hill,Paul D. Thomas,3
+David P. Hill,Dustin Ebert,3
+David P. Hill,Huaiyu Mi,3
+David P. Hill,Tremayne Mushayahama,3
+David P. Hill,Deborah A. Siegele,3
+David P. Hill,Giulia Antonazzo,3
+David P. Hill,Helen Attrill,3
+David P. Hill,Steven J Marygold,3
+David P. Hill,Gil dos Santos,3
+David P. Hill,Christopher J. Tabone,3
+David P. Hill,Pinglei Zhou,3
+David P. Hill,Victor Strelets,3
+David P. Hill,Jim Thurmond,3
+David P. Hill,Colin Logie,3
+David P. Hill,Ruth C. Lovering,3
+David P. Hill,Shirin C C Saverimuttu,3
+David P. Hill,Renzhi Su,3
+David P. Hill,Kate E. Thurlow,3
+David P. Hill,Michelle Giglio,3
+David P. Hill,Suvarna Nadendla,3
+David P. Hill,Li Ni,3
+David P. Hill,Dmitry Sitnikov,3
+David P. Hill,Kim Rutherford,3
+David P. Hill,Melinda R. Dwinell,3
+David P. Hill,G. Thomas Hayman,3
+David P. Hill,Mary L. Kaldunski,3
+David P. Hill,Anne E. Kwitek,3
+David P. Hill,Stanley J. F. Laulederkind,3
+David P. Hill,Marek Tutaj,3
+David P. Hill,Mahima Vedi,3
+David P. Hill,Shur‐Jen Wang,3
+David P. Hill,Peter D’Eustachio,3
+David P. Hill,James P. Balhoff,3
+David P. Hill,Suzi Aleksander,5
+David P. Hill,Kalpana Karra,3
+David P. Hill,Raymond Lee,2
+David P. Hill,Sierra Moxon,2
+David P. Hill,Anushya Muruganugan,2
+David P. Hill,Kimberly Van Auken,2
+David P. Hill,Jolene Ramsey,2
+David P. Hill,Maria Cristina Aspromonte,2
+David P. Hill,María Victoria Nugnes,2
+David P. Hill,Federica Quaglia,2
+David P. Hill,Silvio C. E. Tosatto,2
+David P. Hill,Saadullah H. Ahmed,2
+David P. Hill,Praoparn Asanitthong,2
+David P. Hill,Diana Luna Buitrago,2
+David P. Hill,Meltem N Erdol,2
+David P. Hill,Matthew Gage,2
+David P. Hill,Mohamed Ali Kadhum,2
+David P. Hill,Kan Yan Chloe Li,2
+David P. Hill,Miao Long,2
+David P. Hill,Aleksandra Michalak,2
+David P. Hill,Angeline Pesala,2
+David P. Hill,Armalya Pritazahra,2
+David P. Hill,Snezhana Oliferenko,2
+David P. Hill,Lori E Corbani,2
+David P. Hill,Cynthia L. Smith,2
+David P. Hill,Alayne Cuzick,2
+David P. Hill,James Seager,2
+David P. Hill,Laurel Cooper,2
+David P. Hill,Justin Elser,2
+David P. Hill,Parul Gupta,2
+David P. Hill,Sushma Naithani,2
+David P. Hill,Manuel Lera-Ramírez,2
+David P. Hill,Jeffrey L De Pons,2
+David P. Hill,Stuart R. Miyasato,2
+David P. Hill,Marek S. Skrzypek,2
+David P. Hill,Shuai Weng,2
+David P. Hill,Edith D. Wong,2
+David P. Hill,Erika Bakker,2
+J. Michael Cherry,Karen Christie,4
+J. Michael Cherry,Stacia R. Engel,4
+J. Michael Cherry,Robert S Nash,3
+J. Michael Cherry,Tanya Berardini,3
+J. Michael Cherry,Rex L. Chisholm,4
+J. Michael Cherry,Paul W. Sternberg,3
+J. Michael Cherry,Valerie Wood,4
+J. Michael Cherry,Pankaj Jaiswal,5
+J. Michael Cherry,Seth Carbon,3
+J. Michael Cherry,Nomi L. Harris,3
+J. Michael Cherry,Petra Fey,3
+J. Michael Cherry,Paul D. Thomas,3
+J. Michael Cherry,Dustin Ebert,3
+J. Michael Cherry,Huaiyu Mi,3
+J. Michael Cherry,Tremayne Mushayahama,3
+J. Michael Cherry,Deborah A. Siegele,3
+J. Michael Cherry,Giulia Antonazzo,3
+J. Michael Cherry,Helen Attrill,3
+J. Michael Cherry,Steven J Marygold,3
+J. Michael Cherry,Gil dos Santos,3
+J. Michael Cherry,Christopher J. Tabone,3
+J. Michael Cherry,Pinglei Zhou,3
+J. Michael Cherry,Victor Strelets,3
+J. Michael Cherry,Jim Thurmond,3
+J. Michael Cherry,Colin Logie,3
+J. Michael Cherry,Ruth C. Lovering,3
+J. Michael Cherry,Shirin C C Saverimuttu,3
+J. Michael Cherry,Renzhi Su,3
+J. Michael Cherry,Kate E. Thurlow,3
+J. Michael Cherry,Michelle Giglio,3
+J. Michael Cherry,Suvarna Nadendla,3
+J. Michael Cherry,Li Ni,3
+J. Michael Cherry,Dmitry Sitnikov,3
+J. Michael Cherry,Kim Rutherford,3
+J. Michael Cherry,Melinda R. Dwinell,3
+J. Michael Cherry,G. Thomas Hayman,3
+J. Michael Cherry,Mary L. Kaldunski,3
+J. Michael Cherry,Anne E. Kwitek,3
+J. Michael Cherry,Stanley J. F. Laulederkind,3
+J. Michael Cherry,Marek Tutaj,3
+J. Michael Cherry,Mahima Vedi,3
+J. Michael Cherry,Shur‐Jen Wang,3
+J. Michael Cherry,Peter D’Eustachio,3
+J. Michael Cherry,James P. Balhoff,3
+J. Michael Cherry,Suzi Aleksander,5
+J. Michael Cherry,Kalpana Karra,3
+J. Michael Cherry,Raymond Lee,2
+J. Michael Cherry,Sierra Moxon,2
+J. Michael Cherry,Anushya Muruganugan,2
+J. Michael Cherry,Kimberly Van Auken,2
+J. Michael Cherry,Jolene Ramsey,2
+J. Michael Cherry,Maria Cristina Aspromonte,2
+J. Michael Cherry,María Victoria Nugnes,2
+J. Michael Cherry,Federica Quaglia,2
+J. Michael Cherry,Silvio C. E. Tosatto,2
+J. Michael Cherry,Saadullah H. Ahmed,2
+J. Michael Cherry,Praoparn Asanitthong,2
+J. Michael Cherry,Diana Luna Buitrago,2
+J. Michael Cherry,Meltem N Erdol,2
+J. Michael Cherry,Matthew Gage,2
+J. Michael Cherry,Mohamed Ali Kadhum,2
+J. Michael Cherry,Kan Yan Chloe Li,2
+J. Michael Cherry,Miao Long,2
+J. Michael Cherry,Aleksandra Michalak,2
+J. Michael Cherry,Angeline Pesala,2
+J. Michael Cherry,Armalya Pritazahra,2
+J. Michael Cherry,Snezhana Oliferenko,2
+J. Michael Cherry,Lori E Corbani,2
+J. Michael Cherry,Cynthia L. Smith,2
+J. Michael Cherry,Alayne Cuzick,2
+J. Michael Cherry,James Seager,2
+J. Michael Cherry,Laurel Cooper,2
+J. Michael Cherry,Justin Elser,2
+J. Michael Cherry,Parul Gupta,2
+J. Michael Cherry,Sushma Naithani,2
+J. Michael Cherry,Manuel Lera-Ramírez,2
+J. Michael Cherry,Jeffrey L De Pons,2
+J. Michael Cherry,Stuart R. Miyasato,2
+J. Michael Cherry,Marek S. Skrzypek,2
+J. Michael Cherry,Shuai Weng,2
+J. Michael Cherry,Edith D. Wong,2
+J. Michael Cherry,Erika Bakker,2
+Karen Christie,Stacia R. Engel,3
+Karen Christie,Robert S Nash,2
+Karen Christie,Tanya Berardini,2
+Karen Christie,Rex L. Chisholm,3
+Karen Christie,Paul W. Sternberg,2
+Karen Christie,Valerie Wood,3
+Karen Christie,Pankaj Jaiswal,3
+Karen Christie,Seth Carbon,2
+Karen Christie,Nomi L. Harris,2
+Karen Christie,Petra Fey,2
+Karen Christie,Paul D. Thomas,2
+Karen Christie,Dustin Ebert,2
+Karen Christie,Huaiyu Mi,2
+Karen Christie,Tremayne Mushayahama,2
+Karen Christie,Deborah A. Siegele,2
+Karen Christie,Giulia Antonazzo,2
+Karen Christie,Helen Attrill,2
+Karen Christie,Steven J Marygold,2
+Karen Christie,Gil dos Santos,2
+Karen Christie,Christopher J. Tabone,2
+Karen Christie,Pinglei Zhou,2
+Karen Christie,Victor Strelets,2
+Karen Christie,Jim Thurmond,2
+Karen Christie,Colin Logie,2
+Karen Christie,Ruth C. Lovering,2
+Karen Christie,Shirin C C Saverimuttu,2
+Karen Christie,Renzhi Su,2
+Karen Christie,Kate E. Thurlow,2
+Karen Christie,Michelle Giglio,2
+Karen Christie,Suvarna Nadendla,2
+Karen Christie,Li Ni,2
+Karen Christie,Dmitry Sitnikov,2
+Karen Christie,Kim Rutherford,2
+Karen Christie,Melinda R. Dwinell,2
+Karen Christie,G. Thomas Hayman,2
+Karen Christie,Mary L. Kaldunski,2
+Karen Christie,Anne E. Kwitek,2
+Karen Christie,Stanley J. F. Laulederkind,2
+Karen Christie,Marek Tutaj,2
+Karen Christie,Mahima Vedi,2
+Karen Christie,Shur‐Jen Wang,2
+Karen Christie,Peter D’Eustachio,2
+Karen Christie,James P. Balhoff,2
+Karen Christie,Suzi Aleksander,3
+Karen Christie,Kalpana Karra,2
+Stacia R. Engel,Robert S Nash,2
+Stacia R. Engel,Tanya Berardini,2
+Stacia R. Engel,Rex L. Chisholm,3
+Stacia R. Engel,Paul W. Sternberg,2
+Stacia R. Engel,Valerie Wood,3
+Stacia R. Engel,Pankaj Jaiswal,3
+Stacia R. Engel,Seth Carbon,2
+Stacia R. Engel,Nomi L. Harris,2
+Stacia R. Engel,Petra Fey,2
+Stacia R. Engel,Paul D. Thomas,2
+Stacia R. Engel,Dustin Ebert,2
+Stacia R. Engel,Huaiyu Mi,2
+Stacia R. Engel,Tremayne Mushayahama,2
+Stacia R. Engel,Deborah A. Siegele,2
+Stacia R. Engel,Giulia Antonazzo,2
+Stacia R. Engel,Helen Attrill,2
+Stacia R. Engel,Steven J Marygold,2
+Stacia R. Engel,Gil dos Santos,2
+Stacia R. Engel,Christopher J. Tabone,2
+Stacia R. Engel,Pinglei Zhou,2
+Stacia R. Engel,Victor Strelets,2
+Stacia R. Engel,Jim Thurmond,2
+Stacia R. Engel,Colin Logie,2
+Stacia R. Engel,Ruth C. Lovering,2
+Stacia R. Engel,Shirin C C Saverimuttu,2
+Stacia R. Engel,Renzhi Su,2
+Stacia R. Engel,Kate E. Thurlow,2
+Stacia R. Engel,Michelle Giglio,2
+Stacia R. Engel,Suvarna Nadendla,2
+Stacia R. Engel,Li Ni,2
+Stacia R. Engel,Dmitry Sitnikov,2
+Stacia R. Engel,Kim Rutherford,2
+Stacia R. Engel,Melinda R. Dwinell,2
+Stacia R. Engel,G. Thomas Hayman,2
+Stacia R. Engel,Mary L. Kaldunski,2
+Stacia R. Engel,Anne E. Kwitek,2
+Stacia R. Engel,Stanley J. F. Laulederkind,2
+Stacia R. Engel,Marek Tutaj,2
+Stacia R. Engel,Mahima Vedi,2
+Stacia R. Engel,Shur‐Jen Wang,2
+Stacia R. Engel,Peter D’Eustachio,2
+Stacia R. Engel,James P. Balhoff,2
+Stacia R. Engel,Suzi Aleksander,3
+Stacia R. Engel,Kalpana Karra,2
+Robert S Nash,Tanya Berardini,2
+Robert S Nash,Rex L. Chisholm,2
+Robert S Nash,Paul W. Sternberg,2
+Robert S Nash,Valerie Wood,2
+Robert S Nash,Pankaj Jaiswal,3
+Robert S Nash,Suzi Aleksander,2
+Tanya Berardini,Rex L. Chisholm,2
+Tanya Berardini,Paul W. Sternberg,2
+Tanya Berardini,Valerie Wood,2
+Tanya Berardini,Pankaj Jaiswal,3
+Tanya Berardini,Suzi Aleksander,2
+Daniel Barrell,Daniel R. Zerbino,4
+Daniel Barrell,Wasiu Akanni,2
+Daniel Barrell,M Ridwan Amode,4
+Daniel Barrell,Konstantinos Billis,4
+Daniel Barrell,Carla Cummins,2
+Daniel Barrell,Carlos García Girón,4
+Daniel Barrell,Laurent Gil,4
+Daniel Barrell,Leo I. Gordon,4
+Daniel Barrell,Thibaut Hourlier,4
+Daniel Barrell,Sophie H. Janacek,3
+Daniel Barrell,Thomas Juettemann,4
+Daniel Barrell,Ilias Lavidas,2
+Daniel Barrell,Thomas Maurel,4
+Daniel Barrell,William McLaren,4
+Daniel Barrell,Daniel N. Murphy,4
+Daniel Barrell,Michael Nuhn,2
+Daniel Barrell,Anne Parker,4
+Daniel Barrell,Mateus Patrício,3
+Daniel Barrell,Harpreet Singh Riat,4
+Daniel Barrell,Dan Sheppard,4
+Daniel Barrell,Kieron Taylor,4
+Daniel Barrell,Anja Thormann,4
+Daniel Barrell,Alessandro Vullo,4
+Daniel Barrell,Amonida Zadissa,4
+Daniel Barrell,Sarah Hunt,4
+Daniel Barrell,Fergal J. Martin,4
+Daniel Barrell,Matthieu Muffato,4
+Daniel Barrell,Emily Perry,3
+Daniel Barrell,Magali Ruffier,4
+Daniel Barrell,Stephen J. Trevanion,4
+Daniel Barrell,Bronwen Aken,4
+Daniel Barrell,Fiona Cunningham,4
+Daniel Barrell,Andrew Yates,4
+Daniel Barrell,Paul Flicek,4
+Daniel Barrell,Denise Carvalho‐Silva,3
+Daniel Barrell,Peter Clapham,3
+Daniel Barrell,Stephen Fitzgerald,3
+Daniel Barrell,Nathan Johnson,3
+Daniel Barrell,Stephen Keenan,3
+Daniel Barrell,Rishi Nag,3
+Daniel Barrell,Miguel Pignatelli,3
+Daniel Barrell,Steven P. Wilder,3
+Daniel Barrell,Ewan Birney,3
+Daniel Barrell,Jennifer Harrow,3
+Daniel Barrell,Giulietta Spudich,3
+Daniel Barrell,Kathryn Beal,2
+Daniel Barrell,Simon Brent,2
+Daniel Barrell,Guy Coates,2
+Daniel Barrell,Andreas Kähäri,2
+Daniel Barrell,Bert Overduin,2
+Daniel Barrell,Rhoda Kinsella,2
+Daniel Barrell,Stephen M. J. Searle,2
+Rex L. Chisholm,Paul W. Sternberg,2
+Rex L. Chisholm,Valerie Wood,3
+Rex L. Chisholm,Pankaj Jaiswal,3
+Rex L. Chisholm,Seth Carbon,2
+Rex L. Chisholm,Nomi L. Harris,2
+Rex L. Chisholm,Petra Fey,2
+Rex L. Chisholm,Paul D. Thomas,2
+Rex L. Chisholm,Dustin Ebert,2
+Rex L. Chisholm,Huaiyu Mi,2
+Rex L. Chisholm,Tremayne Mushayahama,2
+Rex L. Chisholm,Deborah A. Siegele,2
+Rex L. Chisholm,Giulia Antonazzo,2
+Rex L. Chisholm,Helen Attrill,2
+Rex L. Chisholm,Steven J Marygold,2
+Rex L. Chisholm,Gil dos Santos,2
+Rex L. Chisholm,Christopher J. Tabone,2
+Rex L. Chisholm,Pinglei Zhou,2
+Rex L. Chisholm,Victor Strelets,2
+Rex L. Chisholm,Jim Thurmond,2
+Rex L. Chisholm,Colin Logie,2
+Rex L. Chisholm,Ruth C. Lovering,2
+Rex L. Chisholm,Shirin C C Saverimuttu,2
+Rex L. Chisholm,Renzhi Su,2
+Rex L. Chisholm,Kate E. Thurlow,2
+Rex L. Chisholm,Michelle Giglio,2
+Rex L. Chisholm,Suvarna Nadendla,2
+Rex L. Chisholm,Li Ni,2
+Rex L. Chisholm,Dmitry Sitnikov,2
+Rex L. Chisholm,Kim Rutherford,2
+Rex L. Chisholm,Melinda R. Dwinell,2
+Rex L. Chisholm,G. Thomas Hayman,2
+Rex L. Chisholm,Mary L. Kaldunski,2
+Rex L. Chisholm,Anne E. Kwitek,2
+Rex L. Chisholm,Stanley J. F. Laulederkind,2
+Rex L. Chisholm,Marek Tutaj,2
+Rex L. Chisholm,Mahima Vedi,2
+Rex L. Chisholm,Shur‐Jen Wang,2
+Rex L. Chisholm,Peter D’Eustachio,2
+Rex L. Chisholm,James P. Balhoff,2
+Rex L. Chisholm,Suzi Aleksander,3
+Rex L. Chisholm,Kalpana Karra,2
+Paul W. Sternberg,Valerie Wood,2
+Paul W. Sternberg,Pankaj Jaiswal,3
+Paul W. Sternberg,Suzi Aleksander,2
+Valerie Wood,Pankaj Jaiswal,3
+Valerie Wood,Seth Carbon,2
+Valerie Wood,Nomi L. Harris,2
+Valerie Wood,Petra Fey,2
+Valerie Wood,Paul D. Thomas,2
+Valerie Wood,Dustin Ebert,2
+Valerie Wood,Huaiyu Mi,2
+Valerie Wood,Tremayne Mushayahama,2
+Valerie Wood,Deborah A. Siegele,2
+Valerie Wood,Giulia Antonazzo,2
+Valerie Wood,Helen Attrill,2
+Valerie Wood,Steven J Marygold,2
+Valerie Wood,Gil dos Santos,2
+Valerie Wood,Christopher J. Tabone,2
+Valerie Wood,Pinglei Zhou,2
+Valerie Wood,Victor Strelets,2
+Valerie Wood,Jim Thurmond,2
+Valerie Wood,Colin Logie,2
+Valerie Wood,Ruth C. Lovering,2
+Valerie Wood,Shirin C C Saverimuttu,2
+Valerie Wood,Renzhi Su,2
+Valerie Wood,Kate E. Thurlow,2
+Valerie Wood,Michelle Giglio,2
+Valerie Wood,Suvarna Nadendla,2
+Valerie Wood,Li Ni,2
+Valerie Wood,Dmitry Sitnikov,2
+Valerie Wood,Kim Rutherford,2
+Valerie Wood,Melinda R. Dwinell,2
+Valerie Wood,G. Thomas Hayman,2
+Valerie Wood,Mary L. Kaldunski,2
+Valerie Wood,Anne E. Kwitek,2
+Valerie Wood,Stanley J. F. Laulederkind,2
+Valerie Wood,Marek Tutaj,2
+Valerie Wood,Mahima Vedi,2
+Valerie Wood,Shur‐Jen Wang,2
+Valerie Wood,Peter D’Eustachio,2
+Valerie Wood,James P. Balhoff,2
+Valerie Wood,Suzi Aleksander,3
+Valerie Wood,Kalpana Karra,2
+Pankaj Jaiswal,Suzi Aleksander,4
+Pankaj Jaiswal,James P. Balhoff,2
+Pankaj Jaiswal,Seth Carbon,2
+Pankaj Jaiswal,Dustin Ebert,2
+Pankaj Jaiswal,Nomi L. Harris,2
+Pankaj Jaiswal,Raymond Lee,2
+Pankaj Jaiswal,Huaiyu Mi,2
+Pankaj Jaiswal,Sierra Moxon,2
+Pankaj Jaiswal,Anushya Muruganugan,2
+Pankaj Jaiswal,Tremayne Mushayahama,2
+Pankaj Jaiswal,Paul D. Thomas,2
+Pankaj Jaiswal,Kimberly Van Auken,2
+Pankaj Jaiswal,Jolene Ramsey,2
+Pankaj Jaiswal,Deborah A. Siegele,2
+Pankaj Jaiswal,Petra Fey,2
+Pankaj Jaiswal,Maria Cristina Aspromonte,2
+Pankaj Jaiswal,María Victoria Nugnes,2
+Pankaj Jaiswal,Federica Quaglia,2
+Pankaj Jaiswal,Silvio C. E. Tosatto,2
+Pankaj Jaiswal,Michelle Giglio,2
+Pankaj Jaiswal,Suvarna Nadendla,2
+Pankaj Jaiswal,Giulia Antonazzo,2
+Pankaj Jaiswal,Helen Attrill,2
+Pankaj Jaiswal,Gil dos Santos,2
+Pankaj Jaiswal,Steven J Marygold,2
+Pankaj Jaiswal,Victor Strelets,2
+Pankaj Jaiswal,Christopher J. Tabone,2
+Pankaj Jaiswal,Jim Thurmond,2
+Pankaj Jaiswal,Pinglei Zhou,2
+Pankaj Jaiswal,Saadullah H. Ahmed,2
+Pankaj Jaiswal,Praoparn Asanitthong,2
+Pankaj Jaiswal,Diana Luna Buitrago,2
+Pankaj Jaiswal,Meltem N Erdol,2
+Pankaj Jaiswal,Matthew Gage,2
+Pankaj Jaiswal,Mohamed Ali Kadhum,2
+Pankaj Jaiswal,Kan Yan Chloe Li,2
+Pankaj Jaiswal,Miao Long,2
+Pankaj Jaiswal,Aleksandra Michalak,2
+Pankaj Jaiswal,Angeline Pesala,2
+Pankaj Jaiswal,Armalya Pritazahra,2
+Pankaj Jaiswal,Shirin C C Saverimuttu,2
+Pankaj Jaiswal,Renzhi Su,2
+Pankaj Jaiswal,Kate E. Thurlow,2
+Pankaj Jaiswal,Ruth C. Lovering,2
+Pankaj Jaiswal,Colin Logie,2
+Pankaj Jaiswal,Snezhana Oliferenko,2
+Pankaj Jaiswal,Lori E Corbani,2
+Pankaj Jaiswal,Li Ni,2
+Pankaj Jaiswal,Dmitry Sitnikov,2
+Pankaj Jaiswal,Cynthia L. Smith,2
+Pankaj Jaiswal,Alayne Cuzick,2
+Pankaj Jaiswal,James Seager,2
+Pankaj Jaiswal,Laurel Cooper,2
+Pankaj Jaiswal,Justin Elser,2
+Pankaj Jaiswal,Parul Gupta,2
+Pankaj Jaiswal,Sushma Naithani,2
+Pankaj Jaiswal,Manuel Lera-Ramírez,2
+Pankaj Jaiswal,Kim Rutherford,2
+Pankaj Jaiswal,Jeffrey L De Pons,2
+Pankaj Jaiswal,Melinda R. Dwinell,2
+Pankaj Jaiswal,G. Thomas Hayman,2
+Pankaj Jaiswal,Mary L. Kaldunski,2
+Pankaj Jaiswal,Anne E. Kwitek,2
+Pankaj Jaiswal,Stanley J. F. Laulederkind,2
+Pankaj Jaiswal,Marek Tutaj,2
+Pankaj Jaiswal,Mahima Vedi,2
+Pankaj Jaiswal,Shur‐Jen Wang,2
+Pankaj Jaiswal,Peter D’Eustachio,2
+Pankaj Jaiswal,Kalpana Karra,2
+Pankaj Jaiswal,Stuart R. Miyasato,2
+Pankaj Jaiswal,Marek S. Skrzypek,2
+Pankaj Jaiswal,Shuai Weng,2
+Pankaj Jaiswal,Edith D. Wong,2
+Pankaj Jaiswal,Erika Bakker,2
+Qiang Yang,Yang Liu,2
+Jan Lepš,Petr Šmilauer,2
+Seth Carbon,Nomi L. Harris,2
+Seth Carbon,Petra Fey,2
+Seth Carbon,Paul D. Thomas,2
+Seth Carbon,Dustin Ebert,2
+Seth Carbon,Huaiyu Mi,2
+Seth Carbon,Tremayne Mushayahama,2
+Seth Carbon,Deborah A. Siegele,2
+Seth Carbon,Giulia Antonazzo,2
+Seth Carbon,Helen Attrill,2
+Seth Carbon,Steven J Marygold,2
+Seth Carbon,Gil dos Santos,2
+Seth Carbon,Christopher J. Tabone,2
+Seth Carbon,Pinglei Zhou,2
+Seth Carbon,Victor Strelets,2
+Seth Carbon,Jim Thurmond,2
+Seth Carbon,Colin Logie,2
+Seth Carbon,Ruth C. Lovering,2
+Seth Carbon,Shirin C C Saverimuttu,2
+Seth Carbon,Renzhi Su,2
+Seth Carbon,Kate E. Thurlow,2
+Seth Carbon,Michelle Giglio,2
+Seth Carbon,Suvarna Nadendla,2
+Seth Carbon,Li Ni,2
+Seth Carbon,Dmitry Sitnikov,2
+Seth Carbon,Kim Rutherford,2
+Seth Carbon,Melinda R. Dwinell,2
+Seth Carbon,G. Thomas Hayman,2
+Seth Carbon,Mary L. Kaldunski,2
+Seth Carbon,Anne E. Kwitek,2
+Seth Carbon,Stanley J. F. Laulederkind,2
+Seth Carbon,Marek Tutaj,2
+Seth Carbon,Mahima Vedi,2
+Seth Carbon,Shur‐Jen Wang,2
+Seth Carbon,Peter D’Eustachio,2
+Seth Carbon,James P. Balhoff,2
+Seth Carbon,Suzi Aleksander,3
+Seth Carbon,Kalpana Karra,2
+Jay Lee,Behrad Bagheri,2
+Jay Lee,Hung-An Kao,3
+Behrad Bagheri,Hung-An Kao,2
+Nathalie Percie du Sert,Viki Hurst,4
+Nathalie Percie du Sert,Amrita Ahluwalia,4
+Nathalie Percie du Sert,Sabina Alam,4
+Nathalie Percie du Sert,Marc T. Avey,4
+Nathalie Percie du Sert,Monya Baker,4
+Nathalie Percie du Sert,Alejandra Clark,4
+Nathalie Percie du Sert,Ulrich Dirnagl,4
+Nathalie Percie du Sert,Paul Garner,4
+Nathalie Percie du Sert,Stephen T. Holgate,4
+Nathalie Percie du Sert,David W. Howells,4
+Nathalie Percie du Sert,Natasha A. Karp,4
+Nathalie Percie du Sert,Stanley E. Lazic,4
+Nathalie Percie du Sert,Katie Lidster,4
+Nathalie Percie du Sert,Catriona J. MacCallum,4
+Nathalie Percie du Sert,Malcolm Macleod,4
+Nathalie Percie du Sert,Esther J. Pearl,4
+Nathalie Percie du Sert,Ole H. Petersen,4
+Nathalie Percie du Sert,Frances Rawle,4
+Nathalie Percie du Sert,Penny S. Reynolds,4
+Nathalie Percie du Sert,Kieron Rooney,4
+Nathalie Percie du Sert,Emily S. Sena,4
+Nathalie Percie du Sert,Shai D. Silberberg,4
+Nathalie Percie du Sert,Thomas Steckler,4
+Nathalie Percie du Sert,Hanno Würbel,4
+Viki Hurst,Amrita Ahluwalia,4
+Viki Hurst,Sabina Alam,4
+Viki Hurst,Marc T. Avey,4
+Viki Hurst,Monya Baker,4
+Viki Hurst,Alejandra Clark,4
+Viki Hurst,Ulrich Dirnagl,4
+Viki Hurst,Paul Garner,4
+Viki Hurst,Stephen T. Holgate,4
+Viki Hurst,David W. Howells,4
+Viki Hurst,Natasha A. Karp,4
+Viki Hurst,Stanley E. Lazic,4
+Viki Hurst,Katie Lidster,4
+Viki Hurst,Catriona J. MacCallum,4
+Viki Hurst,Malcolm Macleod,4
+Viki Hurst,Esther J. Pearl,4
+Viki Hurst,Ole H. Petersen,4
+Viki Hurst,Frances Rawle,4
+Viki Hurst,Penny S. Reynolds,4
+Viki Hurst,Kieron Rooney,4
+Viki Hurst,Emily S. Sena,4
+Viki Hurst,Shai D. Silberberg,4
+Viki Hurst,Thomas Steckler,4
+Viki Hurst,Hanno Würbel,4
+Amrita Ahluwalia,Sabina Alam,4
+Amrita Ahluwalia,Marc T. Avey,4
+Amrita Ahluwalia,Monya Baker,4
+Amrita Ahluwalia,Alejandra Clark,4
+Amrita Ahluwalia,Ulrich Dirnagl,4
+Amrita Ahluwalia,Paul Garner,4
+Amrita Ahluwalia,Stephen T. Holgate,4
+Amrita Ahluwalia,David W. Howells,4
+Amrita Ahluwalia,Natasha A. Karp,4
+Amrita Ahluwalia,Stanley E. Lazic,4
+Amrita Ahluwalia,Katie Lidster,4
+Amrita Ahluwalia,Catriona J. MacCallum,4
+Amrita Ahluwalia,Malcolm Macleod,4
+Amrita Ahluwalia,Esther J. Pearl,4
+Amrita Ahluwalia,Ole H. Petersen,4
+Amrita Ahluwalia,Frances Rawle,4
+Amrita Ahluwalia,Penny S. Reynolds,4
+Amrita Ahluwalia,Kieron Rooney,4
+Amrita Ahluwalia,Emily S. Sena,4
+Amrita Ahluwalia,Shai D. Silberberg,4
+Amrita Ahluwalia,Thomas Steckler,4
+Amrita Ahluwalia,Hanno Würbel,4
+Sabina Alam,Marc T. Avey,4
+Sabina Alam,Monya Baker,4
+Sabina Alam,Alejandra Clark,4
+Sabina Alam,Ulrich Dirnagl,4
+Sabina Alam,Paul Garner,4
+Sabina Alam,Stephen T. Holgate,4
+Sabina Alam,David W. Howells,4
+Sabina Alam,Natasha A. Karp,4
+Sabina Alam,Stanley E. Lazic,4
+Sabina Alam,Katie Lidster,4
+Sabina Alam,Catriona J. MacCallum,4
+Sabina Alam,Malcolm Macleod,4
+Sabina Alam,Esther J. Pearl,4
+Sabina Alam,Ole H. Petersen,4
+Sabina Alam,Frances Rawle,4
+Sabina Alam,Penny S. Reynolds,4
+Sabina Alam,Kieron Rooney,4
+Sabina Alam,Emily S. Sena,4
+Sabina Alam,Shai D. Silberberg,4
+Sabina Alam,Thomas Steckler,4
+Sabina Alam,Hanno Würbel,4
+Marc T. Avey,Monya Baker,4
+Marc T. Avey,Alejandra Clark,4
+Marc T. Avey,Ulrich Dirnagl,4
+Marc T. Avey,Paul Garner,4
+Marc T. Avey,Stephen T. Holgate,4
+Marc T. Avey,David W. Howells,4
+Marc T. Avey,Natasha A. Karp,4
+Marc T. Avey,Stanley E. Lazic,4
+Marc T. Avey,Katie Lidster,4
+Marc T. Avey,Catriona J. MacCallum,4
+Marc T. Avey,Malcolm Macleod,4
+Marc T. Avey,Esther J. Pearl,4
+Marc T. Avey,Ole H. Petersen,4
+Marc T. Avey,Frances Rawle,4
+Marc T. Avey,Penny S. Reynolds,4
+Marc T. Avey,Kieron Rooney,4
+Marc T. Avey,Emily S. Sena,4
+Marc T. Avey,Shai D. Silberberg,4
+Marc T. Avey,Thomas Steckler,4
+Marc T. Avey,Hanno Würbel,4
+Monya Baker,Alejandra Clark,4
+Monya Baker,Ulrich Dirnagl,4
+Monya Baker,Paul Garner,4
+Monya Baker,Stephen T. Holgate,4
+Monya Baker,David W. Howells,4
+Monya Baker,Natasha A. Karp,4
+Monya Baker,Stanley E. Lazic,4
+Monya Baker,Katie Lidster,4
+Monya Baker,Catriona J. MacCallum,4
+Monya Baker,Malcolm Macleod,4
+Monya Baker,Esther J. Pearl,4
+Monya Baker,Ole H. Petersen,4
+Monya Baker,Frances Rawle,4
+Monya Baker,Penny S. Reynolds,4
+Monya Baker,Kieron Rooney,4
+Monya Baker,Emily S. Sena,4
+Monya Baker,Shai D. Silberberg,4
+Monya Baker,Thomas Steckler,4
+Monya Baker,Hanno Würbel,4
+Alejandra Clark,Ulrich Dirnagl,4
+Alejandra Clark,Paul Garner,4
+Alejandra Clark,Stephen T. Holgate,4
+Alejandra Clark,David W. Howells,4
+Alejandra Clark,Natasha A. Karp,4
+Alejandra Clark,Stanley E. Lazic,4
+Alejandra Clark,Katie Lidster,4
+Alejandra Clark,Catriona J. MacCallum,4
+Alejandra Clark,Malcolm Macleod,4
+Alejandra Clark,Esther J. Pearl,4
+Alejandra Clark,Ole H. Petersen,4
+Alejandra Clark,Frances Rawle,4
+Alejandra Clark,Penny S. Reynolds,4
+Alejandra Clark,Kieron Rooney,4
+Alejandra Clark,Emily S. Sena,4
+Alejandra Clark,Shai D. Silberberg,4
+Alejandra Clark,Thomas Steckler,4
+Alejandra Clark,Hanno Würbel,4
+Ulrich Dirnagl,Paul Garner,4
+Ulrich Dirnagl,Stephen T. Holgate,4
+Ulrich Dirnagl,David W. Howells,4
+Ulrich Dirnagl,Natasha A. Karp,4
+Ulrich Dirnagl,Stanley E. Lazic,4
+Ulrich Dirnagl,Katie Lidster,4
+Ulrich Dirnagl,Catriona J. MacCallum,4
+Ulrich Dirnagl,Malcolm Macleod,4
+Ulrich Dirnagl,Esther J. Pearl,4
+Ulrich Dirnagl,Ole H. Petersen,4
+Ulrich Dirnagl,Frances Rawle,4
+Ulrich Dirnagl,Penny S. Reynolds,4
+Ulrich Dirnagl,Kieron Rooney,4
+Ulrich Dirnagl,Emily S. Sena,4
+Ulrich Dirnagl,Shai D. Silberberg,4
+Ulrich Dirnagl,Thomas Steckler,4
+Ulrich Dirnagl,Hanno Würbel,4
+Paul Garner,Stephen T. Holgate,4
+Paul Garner,David W. Howells,4
+Paul Garner,Natasha A. Karp,4
+Paul Garner,Stanley E. Lazic,4
+Paul Garner,Katie Lidster,4
+Paul Garner,Catriona J. MacCallum,4
+Paul Garner,Malcolm Macleod,4
+Paul Garner,Esther J. Pearl,4
+Paul Garner,Ole H. Petersen,4
+Paul Garner,Frances Rawle,4
+Paul Garner,Penny S. Reynolds,4
+Paul Garner,Kieron Rooney,4
+Paul Garner,Emily S. Sena,4
+Paul Garner,Shai D. Silberberg,4
+Paul Garner,Thomas Steckler,4
+Paul Garner,Hanno Würbel,4
+Stephen T. Holgate,David W. Howells,4
+Stephen T. Holgate,Natasha A. Karp,4
+Stephen T. Holgate,Stanley E. Lazic,4
+Stephen T. Holgate,Katie Lidster,4
+Stephen T. Holgate,Catriona J. MacCallum,4
+Stephen T. Holgate,Malcolm Macleod,4
+Stephen T. Holgate,Esther J. Pearl,4
+Stephen T. Holgate,Ole H. Petersen,4
+Stephen T. Holgate,Frances Rawle,4
+Stephen T. Holgate,Penny S. Reynolds,4
+Stephen T. Holgate,Kieron Rooney,4
+Stephen T. Holgate,Emily S. Sena,4
+Stephen T. Holgate,Shai D. Silberberg,4
+Stephen T. Holgate,Thomas Steckler,4
+Stephen T. Holgate,Hanno Würbel,4
+David W. Howells,Natasha A. Karp,4
+David W. Howells,Stanley E. Lazic,4
+David W. Howells,Katie Lidster,4
+David W. Howells,Catriona J. MacCallum,4
+David W. Howells,Malcolm Macleod,4
+David W. Howells,Esther J. Pearl,4
+David W. Howells,Ole H. Petersen,4
+David W. Howells,Frances Rawle,4
+David W. Howells,Penny S. Reynolds,4
+David W. Howells,Kieron Rooney,4
+David W. Howells,Emily S. Sena,4
+David W. Howells,Shai D. Silberberg,4
+David W. Howells,Thomas Steckler,4
+David W. Howells,Hanno Würbel,4
+Natasha A. Karp,Stanley E. Lazic,4
+Natasha A. Karp,Katie Lidster,4
+Natasha A. Karp,Catriona J. MacCallum,4
+Natasha A. Karp,Malcolm Macleod,4
+Natasha A. Karp,Esther J. Pearl,4
+Natasha A. Karp,Ole H. Petersen,4
+Natasha A. Karp,Frances Rawle,4
+Natasha A. Karp,Penny S. Reynolds,4
+Natasha A. Karp,Kieron Rooney,4
+Natasha A. Karp,Emily S. Sena,4
+Natasha A. Karp,Shai D. Silberberg,4
+Natasha A. Karp,Thomas Steckler,4
+Natasha A. Karp,Hanno Würbel,4
+Stanley E. Lazic,Katie Lidster,4
+Stanley E. Lazic,Catriona J. MacCallum,4
+Stanley E. Lazic,Malcolm Macleod,4
+Stanley E. Lazic,Esther J. Pearl,4
+Stanley E. Lazic,Ole H. Petersen,4
+Stanley E. Lazic,Frances Rawle,4
+Stanley E. Lazic,Penny S. Reynolds,4
+Stanley E. Lazic,Kieron Rooney,4
+Stanley E. Lazic,Emily S. Sena,4
+Stanley E. Lazic,Shai D. Silberberg,4
+Stanley E. Lazic,Thomas Steckler,4
+Stanley E. Lazic,Hanno Würbel,4
+Katie Lidster,Catriona J. MacCallum,4
+Katie Lidster,Malcolm Macleod,4
+Katie Lidster,Esther J. Pearl,4
+Katie Lidster,Ole H. Petersen,4
+Katie Lidster,Frances Rawle,4
+Katie Lidster,Penny S. Reynolds,4
+Katie Lidster,Kieron Rooney,4
+Katie Lidster,Emily S. Sena,4
+Katie Lidster,Shai D. Silberberg,4
+Katie Lidster,Thomas Steckler,4
+Katie Lidster,Hanno Würbel,4
+Catriona J. MacCallum,Malcolm Macleod,4
+Catriona J. MacCallum,Esther J. Pearl,4
+Catriona J. MacCallum,Ole H. Petersen,4
+Catriona J. MacCallum,Frances Rawle,4
+Catriona J. MacCallum,Penny S. Reynolds,4
+Catriona J. MacCallum,Kieron Rooney,4
+Catriona J. MacCallum,Emily S. Sena,4
+Catriona J. MacCallum,Shai D. Silberberg,4
+Catriona J. MacCallum,Thomas Steckler,4
+Catriona J. MacCallum,Hanno Würbel,4
+Malcolm Macleod,Esther J. Pearl,4
+Malcolm Macleod,Ole H. Petersen,4
+Malcolm Macleod,Frances Rawle,4
+Malcolm Macleod,Penny S. Reynolds,4
+Malcolm Macleod,Kieron Rooney,4
+Malcolm Macleod,Emily S. Sena,4
+Malcolm Macleod,Shai D. Silberberg,4
+Malcolm Macleod,Thomas Steckler,4
+Malcolm Macleod,Hanno Würbel,4
+Esther J. Pearl,Ole H. Petersen,4
+Esther J. Pearl,Frances Rawle,4
+Esther J. Pearl,Penny S. Reynolds,4
+Esther J. Pearl,Kieron Rooney,4
+Esther J. Pearl,Emily S. Sena,4
+Esther J. Pearl,Shai D. Silberberg,4
+Esther J. Pearl,Thomas Steckler,4
+Esther J. Pearl,Hanno Würbel,4
+Ole H. Petersen,Frances Rawle,4
+Ole H. Petersen,Penny S. Reynolds,4
+Ole H. Petersen,Kieron Rooney,4
+Ole H. Petersen,Emily S. Sena,4
+Ole H. Petersen,Shai D. Silberberg,4
+Ole H. Petersen,Thomas Steckler,4
+Ole H. Petersen,Hanno Würbel,4
+Frances Rawle,Penny S. Reynolds,4
+Frances Rawle,Kieron Rooney,4
+Frances Rawle,Emily S. Sena,4
+Frances Rawle,Shai D. Silberberg,4
+Frances Rawle,Thomas Steckler,4
+Frances Rawle,Hanno Würbel,4
+Penny S. Reynolds,Kieron Rooney,4
+Penny S. Reynolds,Emily S. Sena,4
+Penny S. Reynolds,Shai D. Silberberg,4
+Penny S. Reynolds,Thomas Steckler,4
+Penny S. Reynolds,Hanno Würbel,4
+Kieron Rooney,Emily S. Sena,4
+Kieron Rooney,Shai D. Silberberg,4
+Kieron Rooney,Thomas Steckler,4
+Kieron Rooney,Hanno Würbel,4
+Emily S. Sena,Shai D. Silberberg,4
+Emily S. Sena,Thomas Steckler,4
+Emily S. Sena,Hanno Würbel,4
+Shai D. Silberberg,Thomas Steckler,4
+Shai D. Silberberg,Hanno Würbel,4
+Thomas Steckler,Hanno Würbel,4
+Helen Parkinson,Annalisa Buniello,2
+Helen Parkinson,Jacqueline MacArthur,3
+Helen Parkinson,María Cerezo,3
+Helen Parkinson,Laura W. Harris,2
+Helen Parkinson,James Hayhurst,2
+Helen Parkinson,Aoife McMahon,3
+Helen Parkinson,Joannella Morales,2
+Helen Parkinson,Elliot Sollis,2
+Helen Parkinson,Patricia L. Whetzel,2
+Helen Parkinson,Peggy Hall,3
+Helen Parkinson,Heather Junkins,2
+Helen Parkinson,Paul Flicek,2
+Helen Parkinson,Tony Burdett,2
+Helen Parkinson,Fiona Cunningham,3
+Helen Parkinson,Laurent Gil,2
+Helen Parkinson,Zoë May Pendlington,2
+Annalisa Buniello,Jacqueline MacArthur,2
+Annalisa Buniello,María Cerezo,2
+Annalisa Buniello,Laura W. Harris,2
+Annalisa Buniello,James Hayhurst,2
+Annalisa Buniello,Aoife McMahon,2
+Annalisa Buniello,Elliot Sollis,2
+Annalisa Buniello,Patricia L. Whetzel,2
+Annalisa Buniello,Peggy Hall,2
+Annalisa Buniello,Fiona Cunningham,2
+Jacqueline MacArthur,María Cerezo,3
+Jacqueline MacArthur,Laura W. Harris,2
+Jacqueline MacArthur,James Hayhurst,2
+Jacqueline MacArthur,Aoife McMahon,3
+Jacqueline MacArthur,Joannella Morales,2
+Jacqueline MacArthur,Elliot Sollis,2
+Jacqueline MacArthur,Patricia L. Whetzel,2
+Jacqueline MacArthur,Peggy Hall,3
+Jacqueline MacArthur,Heather Junkins,2
+Jacqueline MacArthur,Paul Flicek,2
+Jacqueline MacArthur,Tony Burdett,2
+Jacqueline MacArthur,Fiona Cunningham,3
+Jacqueline MacArthur,Laurent Gil,2
+Jacqueline MacArthur,Zoë May Pendlington,2
+María Cerezo,Laura W. Harris,2
+María Cerezo,James Hayhurst,2
+María Cerezo,Aoife McMahon,3
+María Cerezo,Joannella Morales,2
+María Cerezo,Elliot Sollis,2
+María Cerezo,Patricia L. Whetzel,2
+María Cerezo,Peggy Hall,3
+María Cerezo,Heather Junkins,2
+María Cerezo,Paul Flicek,2
+María Cerezo,Tony Burdett,2
+María Cerezo,Fiona Cunningham,3
+María Cerezo,Laurent Gil,2
+María Cerezo,Zoë May Pendlington,2
+Laura W. Harris,James Hayhurst,2
+Laura W. Harris,Aoife McMahon,2
+Laura W. Harris,Elliot Sollis,2
+Laura W. Harris,Patricia L. Whetzel,2
+Laura W. Harris,Peggy Hall,2
+Laura W. Harris,Fiona Cunningham,2
+James Hayhurst,Aoife McMahon,2
+James Hayhurst,Elliot Sollis,2
+James Hayhurst,Patricia L. Whetzel,2
+James Hayhurst,Peggy Hall,2
+James Hayhurst,Fiona Cunningham,2
+Aoife McMahon,Joannella Morales,2
+Aoife McMahon,Elliot Sollis,2
+Aoife McMahon,Patricia L. Whetzel,2
+Aoife McMahon,Peggy Hall,3
+Aoife McMahon,Heather Junkins,2
+Aoife McMahon,Paul Flicek,2
+Aoife McMahon,Tony Burdett,2
+Aoife McMahon,Fiona Cunningham,3
+Aoife McMahon,Laurent Gil,2
+Aoife McMahon,Zoë May Pendlington,2
+Joannella Morales,Peggy Hall,2
+Joannella Morales,Heather Junkins,2
+Joannella Morales,Paul Flicek,2
+Joannella Morales,Tony Burdett,2
+Joannella Morales,Fiona Cunningham,2
+Elliot Sollis,Patricia L. Whetzel,2
+Elliot Sollis,Peggy Hall,2
+Elliot Sollis,Fiona Cunningham,2
+Patricia L. Whetzel,Peggy Hall,2
+Patricia L. Whetzel,Fiona Cunningham,2
+Harpreet Singh Riat,Stephen J. Trevanion,5
+Harpreet Singh Riat,Paul Flicek,5
+Harpreet Singh Riat,Fiona Cunningham,5
+Harpreet Singh Riat,Daniel R. Zerbino,4
+Harpreet Singh Riat,Wasiu Akanni,2
+Harpreet Singh Riat,M Ridwan Amode,4
+Harpreet Singh Riat,Konstantinos Billis,4
+Harpreet Singh Riat,Carla Cummins,2
+Harpreet Singh Riat,Carlos García Girón,4
+Harpreet Singh Riat,Laurent Gil,4
+Harpreet Singh Riat,Leo I. Gordon,4
+Harpreet Singh Riat,Thibaut Hourlier,4
+Harpreet Singh Riat,Sophie H. Janacek,3
+Harpreet Singh Riat,Thomas Juettemann,4
+Harpreet Singh Riat,Ilias Lavidas,2
+Harpreet Singh Riat,Thomas Maurel,4
+Harpreet Singh Riat,William McLaren,4
+Harpreet Singh Riat,Daniel N. Murphy,4
+Harpreet Singh Riat,Michael Nuhn,2
+Harpreet Singh Riat,Anne Parker,4
+Harpreet Singh Riat,Mateus Patrício,3
+Harpreet Singh Riat,Dan Sheppard,4
+Harpreet Singh Riat,Kieron Taylor,4
+Harpreet Singh Riat,Anja Thormann,4
+Harpreet Singh Riat,Alessandro Vullo,4
+Harpreet Singh Riat,Amonida Zadissa,4
+Harpreet Singh Riat,Sarah Hunt,4
+Harpreet Singh Riat,Fergal J. Martin,4
+Harpreet Singh Riat,Matthieu Muffato,4
+Harpreet Singh Riat,Emily Perry,3
+Harpreet Singh Riat,Magali Ruffier,4
+Harpreet Singh Riat,Bronwen Aken,4
+Harpreet Singh Riat,Andrew Yates,4
+Harpreet Singh Riat,Denise Carvalho‐Silva,3
+Harpreet Singh Riat,Peter Clapham,3
+Harpreet Singh Riat,Stephen Fitzgerald,3
+Harpreet Singh Riat,Nathan Johnson,3
+Harpreet Singh Riat,Stephen Keenan,3
+Harpreet Singh Riat,Rishi Nag,3
+Harpreet Singh Riat,Miguel Pignatelli,3
+Harpreet Singh Riat,Steven P. Wilder,3
+Harpreet Singh Riat,Ewan Birney,3
+Harpreet Singh Riat,Jennifer Harrow,3
+Harpreet Singh Riat,Giulietta Spudich,3
+Harpreet Singh Riat,Kathryn Beal,2
+Harpreet Singh Riat,Simon Brent,2
+Harpreet Singh Riat,Guy Coates,2
+Harpreet Singh Riat,Andreas Kähäri,2
+Harpreet Singh Riat,Bert Overduin,2
+Harpreet Singh Riat,Rhoda Kinsella,2
+Harpreet Singh Riat,Stephen M. J. Searle,2
+Stephen J. Trevanion,Paul Flicek,5
+Stephen J. Trevanion,Fiona Cunningham,5
+Stephen J. Trevanion,Daniel R. Zerbino,4
+Stephen J. Trevanion,Wasiu Akanni,2
+Stephen J. Trevanion,M Ridwan Amode,4
+Stephen J. Trevanion,Konstantinos Billis,4
+Stephen J. Trevanion,Carla Cummins,2
+Stephen J. Trevanion,Carlos García Girón,4
+Stephen J. Trevanion,Laurent Gil,4
+Stephen J. Trevanion,Leo I. Gordon,4
+Stephen J. Trevanion,Thibaut Hourlier,4
+Stephen J. Trevanion,Sophie H. Janacek,3
+Stephen J. Trevanion,Thomas Juettemann,4
+Stephen J. Trevanion,Ilias Lavidas,2
+Stephen J. Trevanion,Thomas Maurel,4
+Stephen J. Trevanion,William McLaren,4
+Stephen J. Trevanion,Daniel N. Murphy,4
+Stephen J. Trevanion,Michael Nuhn,2
+Stephen J. Trevanion,Anne Parker,4
+Stephen J. Trevanion,Mateus Patrício,3
+Stephen J. Trevanion,Dan Sheppard,4
+Stephen J. Trevanion,Kieron Taylor,4
+Stephen J. Trevanion,Anja Thormann,4
+Stephen J. Trevanion,Alessandro Vullo,4
+Stephen J. Trevanion,Amonida Zadissa,4
+Stephen J. Trevanion,Sarah Hunt,4
+Stephen J. Trevanion,Fergal J. Martin,4
+Stephen J. Trevanion,Matthieu Muffato,4
+Stephen J. Trevanion,Emily Perry,3
+Stephen J. Trevanion,Magali Ruffier,4
+Stephen J. Trevanion,Bronwen Aken,4
+Stephen J. Trevanion,Andrew Yates,4
+Stephen J. Trevanion,Denise Carvalho‐Silva,3
+Stephen J. Trevanion,Peter Clapham,3
+Stephen J. Trevanion,Stephen Fitzgerald,3
+Stephen J. Trevanion,Nathan Johnson,3
+Stephen J. Trevanion,Stephen Keenan,3
+Stephen J. Trevanion,Rishi Nag,3
+Stephen J. Trevanion,Miguel Pignatelli,3
+Stephen J. Trevanion,Steven P. Wilder,3
+Stephen J. Trevanion,Ewan Birney,3
+Stephen J. Trevanion,Jennifer Harrow,3
+Stephen J. Trevanion,Giulietta Spudich,3
+Stephen J. Trevanion,Kathryn Beal,2
+Stephen J. Trevanion,Simon Brent,2
+Stephen J. Trevanion,Guy Coates,2
+Stephen J. Trevanion,Andreas Kähäri,2
+Stephen J. Trevanion,Bert Overduin,2
+Stephen J. Trevanion,Rhoda Kinsella,2
+Stephen J. Trevanion,Stephen M. J. Searle,2
+Peggy Hall,Heather Junkins,2
+Peggy Hall,Paul Flicek,2
+Peggy Hall,Tony Burdett,2
+Peggy Hall,Fiona Cunningham,3
+Peggy Hall,Laurent Gil,2
+Peggy Hall,Zoë May Pendlington,2
+Heather Junkins,Paul Flicek,2
+Heather Junkins,Tony Burdett,2
+Heather Junkins,Fiona Cunningham,2
+Paul Flicek,Tony Burdett,2
+Paul Flicek,Fiona Cunningham,6
+Paul Flicek,Daniel R. Zerbino,4
+Paul Flicek,Wasiu Akanni,2
+Paul Flicek,M Ridwan Amode,4
+Paul Flicek,Konstantinos Billis,4
+Paul Flicek,Carla Cummins,2
+Paul Flicek,Carlos García Girón,4
+Paul Flicek,Laurent Gil,5
+Paul Flicek,Leo I. Gordon,4
+Paul Flicek,Thibaut Hourlier,4
+Paul Flicek,Sophie H. Janacek,3
+Paul Flicek,Thomas Juettemann,4
+Paul Flicek,Ilias Lavidas,2
+Paul Flicek,Thomas Maurel,4
+Paul Flicek,William McLaren,4
+Paul Flicek,Daniel N. Murphy,4
+Paul Flicek,Michael Nuhn,2
+Paul Flicek,Anne Parker,4
+Paul Flicek,Mateus Patrício,3
+Paul Flicek,Dan Sheppard,4
+Paul Flicek,Kieron Taylor,4
+Paul Flicek,Anja Thormann,4
+Paul Flicek,Alessandro Vullo,4
+Paul Flicek,Amonida Zadissa,4
+Paul Flicek,Sarah Hunt,4
+Paul Flicek,Fergal J. Martin,4
+Paul Flicek,Matthieu Muffato,4
+Paul Flicek,Emily Perry,3
+Paul Flicek,Magali Ruffier,4
+Paul Flicek,D. Staines,2
+Paul Flicek,Bronwen Aken,4
+Paul Flicek,Andrew Yates,4
+Paul Flicek,Andreas Kähäri,3
+Paul Flicek,Giulietta Spudich,4
+Paul Flicek,Denise Carvalho‐Silva,3
+Paul Flicek,Peter Clapham,3
+Paul Flicek,Stephen Fitzgerald,3
+Paul Flicek,Nathan Johnson,3
+Paul Flicek,Stephen Keenan,3
+Paul Flicek,Rishi Nag,3
+Paul Flicek,Miguel Pignatelli,3
+Paul Flicek,Steven P. Wilder,3
+Paul Flicek,Ewan Birney,3
+Paul Flicek,Jennifer Harrow,3
+Paul Flicek,Kathryn Beal,2
+Paul Flicek,Simon Brent,2
+Paul Flicek,Guy Coates,2
+Paul Flicek,Bert Overduin,2
+Paul Flicek,Rhoda Kinsella,2
+Paul Flicek,Stephen M. J. Searle,2
+Tony Burdett,Fiona Cunningham,2
+Fiona Cunningham,Daniel R. Zerbino,4
+Fiona Cunningham,Wasiu Akanni,2
+Fiona Cunningham,M Ridwan Amode,4
+Fiona Cunningham,Konstantinos Billis,4
+Fiona Cunningham,Carla Cummins,2
+Fiona Cunningham,Carlos García Girón,4
+Fiona Cunningham,Laurent Gil,6
+Fiona Cunningham,Leo I. Gordon,4
+Fiona Cunningham,Thibaut Hourlier,4
+Fiona Cunningham,Sophie H. Janacek,3
+Fiona Cunningham,Thomas Juettemann,4
+Fiona Cunningham,Ilias Lavidas,2
+Fiona Cunningham,Thomas Maurel,4
+Fiona Cunningham,William McLaren,4
+Fiona Cunningham,Daniel N. Murphy,4
+Fiona Cunningham,Michael Nuhn,2
+Fiona Cunningham,Anne Parker,4
+Fiona Cunningham,Mateus Patrício,3
+Fiona Cunningham,Dan Sheppard,4
+Fiona Cunningham,Kieron Taylor,4
+Fiona Cunningham,Anja Thormann,4
+Fiona Cunningham,Alessandro Vullo,4
+Fiona Cunningham,Amonida Zadissa,4
+Fiona Cunningham,Sarah Hunt,4
+Fiona Cunningham,Fergal J. Martin,4
+Fiona Cunningham,Matthieu Muffato,4
+Fiona Cunningham,Emily Perry,3
+Fiona Cunningham,Magali Ruffier,4
+Fiona Cunningham,Bronwen Aken,4
+Fiona Cunningham,Andrew Yates,4
+Fiona Cunningham,Zoë May Pendlington,2
+Fiona Cunningham,Denise Carvalho‐Silva,3
+Fiona Cunningham,Peter Clapham,3
+Fiona Cunningham,Stephen Fitzgerald,3
+Fiona Cunningham,Nathan Johnson,3
+Fiona Cunningham,Stephen Keenan,3
+Fiona Cunningham,Rishi Nag,3
+Fiona Cunningham,Miguel Pignatelli,3
+Fiona Cunningham,Steven P. Wilder,3
+Fiona Cunningham,Ewan Birney,3
+Fiona Cunningham,Jennifer Harrow,3
+Fiona Cunningham,Giulietta Spudich,3
+Fiona Cunningham,Kathryn Beal,2
+Fiona Cunningham,Simon Brent,2
+Fiona Cunningham,Guy Coates,2
+Fiona Cunningham,Andreas Kähäri,2
+Fiona Cunningham,Bert Overduin,2
+Fiona Cunningham,Rhoda Kinsella,2
+Fiona Cunningham,Stephen M. J. Searle,2
+Stephen P. Borgatti,Martin G. Everett,2
+Fosca Giannotti,Dino Pedreschi,2
+Claudio Castellano,Vittorio Loreto,2
+Gustau Camps‐Valls,Antonio Plaza,2
+Gustau Camps‐Valls,Jocelyn Chanussot,2
+Ming Li,Paul Vitányi,2
+Paul A. Hohenlohe,Gordon Luikart,2
+Gregory D. Abowd,Nigel Davies,2
+Gregory D. Abowd,Pete Steggles,2
+Gregory D. Abowd,Daniel Salber,2
+Gregory D. Abowd,Elizabeth D. Mynatt,2
+Nigel Davies,Pete Steggles,2
+Ewan Birney,Andrew Yates,3
+Ewan Birney,M Ridwan Amode,3
+Ewan Birney,Konstantinos Billis,3
+Ewan Birney,Denise Carvalho‐Silva,3
+Ewan Birney,Peter Clapham,3
+Ewan Birney,Stephen Fitzgerald,3
+Ewan Birney,Laurent Gil,3
+Ewan Birney,Carlos García Girón,3
+Ewan Birney,Leo I. Gordon,3
+Ewan Birney,Thibaut Hourlier,3
+Ewan Birney,Sarah Hunt,3
+Ewan Birney,Sophie H. Janacek,2
+Ewan Birney,Nathan Johnson,3
+Ewan Birney,Thomas Juettemann,3
+Ewan Birney,Stephen Keenan,3
+Ewan Birney,Fergal J. Martin,3
+Ewan Birney,Thomas Maurel,3
+Ewan Birney,William McLaren,3
+Ewan Birney,Daniel N. Murphy,3
+Ewan Birney,Rishi Nag,3
+Ewan Birney,Anne Parker,3
+Ewan Birney,Mateus Patrício,2
+Ewan Birney,Miguel Pignatelli,3
+Ewan Birney,Dan Sheppard,3
+Ewan Birney,Kieron Taylor,3
+Ewan Birney,Anja Thormann,3
+Ewan Birney,Alessandro Vullo,3
+Ewan Birney,Steven P. Wilder,3
+Ewan Birney,Amonida Zadissa,3
+Ewan Birney,Jennifer Harrow,3
+Ewan Birney,Matthieu Muffato,3
+Ewan Birney,Emily Perry,2
+Ewan Birney,Magali Ruffier,3
+Ewan Birney,Giulietta Spudich,3
+Ewan Birney,Bronwen Aken,3
+Ewan Birney,Daniel R. Zerbino,3
+Ewan Birney,Kathryn Beal,2
+Ewan Birney,Simon Brent,2
+Ewan Birney,Guy Coates,2
+Ewan Birney,Andreas Kähäri,2
+Ewan Birney,Bert Overduin,2
+Ewan Birney,Rhoda Kinsella,2
+Ewan Birney,Stephen M. J. Searle,2
+Mingxun Wang,Vanessa V. Phelan,2
+Mingxun Wang,Neha Garg,2
+Mingxun Wang,Robert A. Quinn,2
+Mingxun Wang,Hosein Mohimani,2
+Mingxun Wang,Pierre‐Marie Allard,2
+Vanessa V. Phelan,Neha Garg,2
+Vanessa V. Phelan,Robert A. Quinn,2
+Vanessa V. Phelan,Hosein Mohimani,2
+Vanessa V. Phelan,Pierre‐Marie Allard,2
+Neha Garg,Robert A. Quinn,2
+Neha Garg,Hosein Mohimani,2
+Neha Garg,Pierre‐Marie Allard,2
+Robert A. Quinn,Hosein Mohimani,2
+Robert A. Quinn,Pierre‐Marie Allard,2
+Hosein Mohimani,Pierre‐Marie Allard,2
+Felicity Hasson,Sinead Keeney,3
+Felicity Hasson,Hugh McKenna,3
+Sinead Keeney,Hugh McKenna,3
+Zibin Zheng,Shaoan Xie,2
+Zibin Zheng,Hong‐Ning Dai,2
+Zibin Zheng,Xiangping Chen,2
+Zibin Zheng,Huaimin Wang,2
+Shaoan Xie,Hong‐Ning Dai,2
+Shaoan Xie,Xiangping Chen,2
+Shaoan Xie,Huaimin Wang,2
+Hong‐Ning Dai,Xiangping Chen,2
+Hong‐Ning Dai,Huaimin Wang,2
+Xiangping Chen,Huaimin Wang,2
+Francesco Ricci⋆,Lior Rokach,2
+Francesco Ricci⋆,Bracha Shapira,2
+Lior Rokach,Bracha Shapira,2
+Lior Rokach,Oded Maimon,4
+Gabriele Paolacci,Jesse Chandler,3
+Gabriele Paolacci,Panagiotis G. Ipeirotis,2
+Jesse Chandler,Panagiotis G. Ipeirotis,2
+Jesse Chandler,Danielle N. Shapiro,2
+Laurent Gatto,Eric W. Deutsch,2
+Imre Csiszár,János Körner,2
+Bronwyn H. Hall,Adam B. Jaffe,2
+Bronwyn H. Hall,Manuel Trajtenberg,2
+Adam B. Jaffe,Manuel Trajtenberg,3
+James H. McMillan,Sally Schumacher,2
+Jian Yang,Lihong Chen,2
+Jian Yang,Dandan Zheng,2
+Jian Yang,Bo Liu,2
+Héctor Corrada Bravo,Levi Waldron,2
+Jeremy Goecks,Anton Nekrutenko,7
+Jeremy Goecks,James Taylor,5
+Jeremy Goecks,Enis Afgan,6
+Jeremy Goecks,Dannon Baker,4
+Jeremy Goecks,Bérénice Batut,3
+Jeremy Goecks,Marius van den Beek,4
+Jeremy Goecks,Dave Bouvier,4
+Jeremy Goecks,Martin Čech,4
+Jeremy Goecks,John Chilton,4
+Jeremy Goecks,Dave Clements,4
+Jeremy Goecks,Nate Coraor,4
+Jeremy Goecks,Björn Grüning,6
+Jeremy Goecks,Aysam Guerler,4
+Jeremy Goecks,Jennifer Hillman‐Jackson,4
+Jeremy Goecks,Saskia Hiltemann,3
+Jeremy Goecks,Vahid Jalili,3
+Jeremy Goecks,Helena Rasche,3
+Jeremy Goecks,Nicola Soranzo,4
+Jeremy Goecks,Daniel Blankenberg,6
+Jeremy Goecks,Greg Von Kuster,3
+Jeremy Goecks,Michael C. Schatz,4
+Jeremy Goecks,Alexander Ostrovsky,2
+Jeremy Goecks,Alexandru Mahmoud,2
+Jeremy Goecks,Andrew Lonie,2
+Jeremy Goecks,Anna Syme,2
+Jeremy Goecks,Anne Fouilloux,2
+Jeremy Goecks,Anthony Bretaudeau,2
+Jeremy Goecks,Anup Kumar,2
+Jeremy Goecks,Arthur C. Eschenlauer,2
+Jeremy Goecks,Assunta D DeSanto,2
+Jeremy Goecks,Beatriz Serrano‐Solano,2
+Jeremy Goecks,Bradley W. Langhorst,2
+Jeremy Goecks,Bridget Carr,2
+Jeremy Goecks,Bryan Raubenolt,2
+Jeremy Goecks,Cameron Hyde,2
+Jeremy Goecks,Catherine J. Bromhead,2
+Jeremy Goecks,Christopher B. Barnett,2
+Jeremy Goecks,Coline Royaux,2
+Jeremy Goecks,Cristóbal Gallardo,2
+Jeremy Goecks,Daniel Fornika,2
+Jeremy Goecks,David Anderson de Lima Morais,2
+Jeremy Goecks,David López Tabernero,2
+Jeremy Goecks,Delphine Larivière,2
+Jeremy Goecks,Engy Nasr,2
+Jeremy Goecks,Federico Zambelli,2
+Jeremy Goecks,Florian Heyl,2
+Jeremy Goecks,Fotis Psomopoulos,2
+Jeremy Goecks,Frederik Coppens,2
+Jeremy Goecks,Gareth Price,2
+Jeremy Goecks,Gianmauro Cuccuru,2
+Jeremy Goecks,Gildas Le Corguillé,2
+Jeremy Goecks,Gulsum Gudukbay Akbulut,2
+Jeremy Goecks,Hans-Rudolf Hotz,2
+Jeremy Goecks,Ignacio Eguinoa,2
+Jeremy Goecks,Igor V. Makunin,2
+Jeremy Goecks,Isuru Ranawaka,2
+Jeremy Goecks,Jayadev Joshi,2
+Jeremy Goecks,Kaivan Kamali,2
+Jeremy Goecks,Keith Suderman,2
+Jeremy Goecks,Krzysztof Poterlowicz,2
+Jeremy Goecks,Le Bras Yvan,2
+Jeremy Goecks,Lucille Lopez‐Delisle,2
+Jeremy Goecks,Luke Sargent,2
+Jeremy Goecks,Madeline E. Bassetti,2
+Jeremy Goecks,M. A. Tangaro,2
+Jeremy Goecks,Matthias Fahrner,2
+Jeremy Goecks,Mehmet Tekman,2
+Jeremy Goecks,Melanie Christine Föll,2
+Jeremy Goecks,Michael R. Crusoe,2
+Jeremy Goecks,Miguel Roncoroni,2
+Jeremy Goecks,Natalie Kucher,2
+Jeremy Goecks,Nicholas Stoler,2
+Jeremy Goecks,Nick Rhodes,2
+Jeremy Goecks,Niko Pinter,2
+Jeremy Goecks,Nuwan Goonasekera,2
+Jeremy Goecks,Pablo Moreno,2
+Jeremy Goecks,Pavankumar Videm,2
+Jeremy Goecks,Mélanie Pétéra,2
+Jeremy Goecks,Pietro Mandreoli,2
+Jeremy Goecks,Pratik Jagtap,2
+Jeremy Goecks,Qiang Gu,2
+Jeremy Goecks,Ralf J. M. Weber,2
+Jeremy Goecks,Ross Lazarus,2
+Jeremy Goecks,Ruben H.P. Vorderman,2
+Jeremy Goecks,Sergey Golitsynskiy,2
+Jeremy Goecks,Shilpa Garg,2
+Jeremy Goecks,Simon Bray,2
+Jeremy Goecks,Simon Gladman,2
+Jeremy Goecks,Simone Leo,2
+Jeremy Goecks,Subina Mehta,2
+Jeremy Goecks,Timothy J. Griffin,2
+Jeremy Goecks,Yves Vandenbrouck,2
+Anton Nekrutenko,James Taylor,6
+Anton Nekrutenko,Enis Afgan,6
+Anton Nekrutenko,Dannon Baker,4
+Anton Nekrutenko,Bérénice Batut,3
+Anton Nekrutenko,Marius van den Beek,4
+Anton Nekrutenko,Dave Bouvier,4
+Anton Nekrutenko,Martin Čech,4
+Anton Nekrutenko,John Chilton,4
+Anton Nekrutenko,Dave Clements,4
+Anton Nekrutenko,Nate Coraor,4
+Anton Nekrutenko,Björn Grüning,6
+Anton Nekrutenko,Aysam Guerler,4
+Anton Nekrutenko,Jennifer Hillman‐Jackson,4
+Anton Nekrutenko,Saskia Hiltemann,3
+Anton Nekrutenko,Vahid Jalili,3
+Anton Nekrutenko,Helena Rasche,3
+Anton Nekrutenko,Nicola Soranzo,4
+Anton Nekrutenko,Daniel Blankenberg,7
+Anton Nekrutenko,Greg Von Kuster,3
+Anton Nekrutenko,Ross Lazarus,3
+Anton Nekrutenko,Michael C. Schatz,4
+Anton Nekrutenko,Alexander Ostrovsky,2
+Anton Nekrutenko,Alexandru Mahmoud,2
+Anton Nekrutenko,Andrew Lonie,2
+Anton Nekrutenko,Anna Syme,2
+Anton Nekrutenko,Anne Fouilloux,2
+Anton Nekrutenko,Anthony Bretaudeau,2
+Anton Nekrutenko,Anup Kumar,2
+Anton Nekrutenko,Arthur C. Eschenlauer,2
+Anton Nekrutenko,Assunta D DeSanto,2
+Anton Nekrutenko,Beatriz Serrano‐Solano,2
+Anton Nekrutenko,Bradley W. Langhorst,2
+Anton Nekrutenko,Bridget Carr,2
+Anton Nekrutenko,Bryan Raubenolt,2
+Anton Nekrutenko,Cameron Hyde,2
+Anton Nekrutenko,Catherine J. Bromhead,2
+Anton Nekrutenko,Christopher B. Barnett,2
+Anton Nekrutenko,Coline Royaux,2
+Anton Nekrutenko,Cristóbal Gallardo,2
+Anton Nekrutenko,Daniel Fornika,2
+Anton Nekrutenko,David Anderson de Lima Morais,2
+Anton Nekrutenko,David López Tabernero,2
+Anton Nekrutenko,Delphine Larivière,2
+Anton Nekrutenko,Engy Nasr,2
+Anton Nekrutenko,Federico Zambelli,2
+Anton Nekrutenko,Florian Heyl,2
+Anton Nekrutenko,Fotis Psomopoulos,2
+Anton Nekrutenko,Frederik Coppens,2
+Anton Nekrutenko,Gareth Price,2
+Anton Nekrutenko,Gianmauro Cuccuru,2
+Anton Nekrutenko,Gildas Le Corguillé,2
+Anton Nekrutenko,Gulsum Gudukbay Akbulut,2
+Anton Nekrutenko,Hans-Rudolf Hotz,2
+Anton Nekrutenko,Ignacio Eguinoa,2
+Anton Nekrutenko,Igor V. Makunin,2
+Anton Nekrutenko,Isuru Ranawaka,2
+Anton Nekrutenko,Jayadev Joshi,2
+Anton Nekrutenko,Kaivan Kamali,2
+Anton Nekrutenko,Keith Suderman,2
+Anton Nekrutenko,Krzysztof Poterlowicz,2
+Anton Nekrutenko,Le Bras Yvan,2
+Anton Nekrutenko,Lucille Lopez‐Delisle,2
+Anton Nekrutenko,Luke Sargent,2
+Anton Nekrutenko,Madeline E. Bassetti,2
+Anton Nekrutenko,M. A. Tangaro,2
+Anton Nekrutenko,Matthias Fahrner,2
+Anton Nekrutenko,Mehmet Tekman,2
+Anton Nekrutenko,Melanie Christine Föll,2
+Anton Nekrutenko,Michael R. Crusoe,2
+Anton Nekrutenko,Miguel Roncoroni,2
+Anton Nekrutenko,Natalie Kucher,2
+Anton Nekrutenko,Nicholas Stoler,2
+Anton Nekrutenko,Nick Rhodes,2
+Anton Nekrutenko,Niko Pinter,2
+Anton Nekrutenko,Nuwan Goonasekera,2
+Anton Nekrutenko,Pablo Moreno,2
+Anton Nekrutenko,Pavankumar Videm,2
+Anton Nekrutenko,Mélanie Pétéra,2
+Anton Nekrutenko,Pietro Mandreoli,2
+Anton Nekrutenko,Pratik Jagtap,2
+Anton Nekrutenko,Qiang Gu,2
+Anton Nekrutenko,Ralf J. M. Weber,2
+Anton Nekrutenko,Ruben H.P. Vorderman,2
+Anton Nekrutenko,Sergey Golitsynskiy,2
+Anton Nekrutenko,Shilpa Garg,2
+Anton Nekrutenko,Simon Bray,2
+Anton Nekrutenko,Simon Gladman,2
+Anton Nekrutenko,Simone Leo,2
+Anton Nekrutenko,Subina Mehta,2
+Anton Nekrutenko,Timothy J. Griffin,2
+Anton Nekrutenko,Yves Vandenbrouck,2
+James Taylor,Enis Afgan,4
+James Taylor,Dannon Baker,3
+James Taylor,Bérénice Batut,2
+James Taylor,Marius van den Beek,3
+James Taylor,Dave Bouvier,3
+James Taylor,Martin Čech,3
+James Taylor,John Chilton,3
+James Taylor,Dave Clements,3
+James Taylor,Nate Coraor,3
+James Taylor,Björn Grüning,4
+James Taylor,Aysam Guerler,3
+James Taylor,Jennifer Hillman‐Jackson,3
+James Taylor,Saskia Hiltemann,2
+James Taylor,Vahid Jalili,2
+James Taylor,Helena Rasche,2
+James Taylor,Nicola Soranzo,3
+James Taylor,Daniel Blankenberg,5
+James Taylor,Greg Von Kuster,2
+James Taylor,Ross Lazarus,2
+James Taylor,Michael C. Schatz,2
+Byron J. Powell,Enola K. Proctor,2
+Joel T. Dudley,Riccardo Miotto,2
+Enis Afgan,Dannon Baker,4
+Enis Afgan,Bérénice Batut,3
+Enis Afgan,Marius van den Beek,4
+Enis Afgan,Dave Bouvier,4
+Enis Afgan,Martin Čech,4
+Enis Afgan,John Chilton,4
+Enis Afgan,Dave Clements,4
+Enis Afgan,Nate Coraor,4
+Enis Afgan,Björn Grüning,6
+Enis Afgan,Aysam Guerler,4
+Enis Afgan,Jennifer Hillman‐Jackson,4
+Enis Afgan,Saskia Hiltemann,3
+Enis Afgan,Vahid Jalili,3
+Enis Afgan,Helena Rasche,3
+Enis Afgan,Nicola Soranzo,4
+Enis Afgan,Daniel Blankenberg,6
+Enis Afgan,Greg Von Kuster,3
+Enis Afgan,Michael C. Schatz,4
+Enis Afgan,Alexander Ostrovsky,2
+Enis Afgan,Alexandru Mahmoud,2
+Enis Afgan,Andrew Lonie,2
+Enis Afgan,Anna Syme,2
+Enis Afgan,Anne Fouilloux,2
+Enis Afgan,Anthony Bretaudeau,2
+Enis Afgan,Anup Kumar,2
+Enis Afgan,Arthur C. Eschenlauer,2
+Enis Afgan,Assunta D DeSanto,2
+Enis Afgan,Beatriz Serrano‐Solano,2
+Enis Afgan,Bradley W. Langhorst,2
+Enis Afgan,Bridget Carr,2
+Enis Afgan,Bryan Raubenolt,2
+Enis Afgan,Cameron Hyde,2
+Enis Afgan,Catherine J. Bromhead,2
+Enis Afgan,Christopher B. Barnett,2
+Enis Afgan,Coline Royaux,2
+Enis Afgan,Cristóbal Gallardo,2
+Enis Afgan,Daniel Fornika,2
+Enis Afgan,David Anderson de Lima Morais,2
+Enis Afgan,David López Tabernero,2
+Enis Afgan,Delphine Larivière,2
+Enis Afgan,Engy Nasr,2
+Enis Afgan,Federico Zambelli,2
+Enis Afgan,Florian Heyl,2
+Enis Afgan,Fotis Psomopoulos,2
+Enis Afgan,Frederik Coppens,2
+Enis Afgan,Gareth Price,2
+Enis Afgan,Gianmauro Cuccuru,2
+Enis Afgan,Gildas Le Corguillé,2
+Enis Afgan,Gulsum Gudukbay Akbulut,2
+Enis Afgan,Hans-Rudolf Hotz,2
+Enis Afgan,Ignacio Eguinoa,2
+Enis Afgan,Igor V. Makunin,2
+Enis Afgan,Isuru Ranawaka,2
+Enis Afgan,Jayadev Joshi,2
+Enis Afgan,Kaivan Kamali,2
+Enis Afgan,Keith Suderman,2
+Enis Afgan,Krzysztof Poterlowicz,2
+Enis Afgan,Le Bras Yvan,2
+Enis Afgan,Lucille Lopez‐Delisle,2
+Enis Afgan,Luke Sargent,2
+Enis Afgan,Madeline E. Bassetti,2
+Enis Afgan,M. A. Tangaro,2
+Enis Afgan,Matthias Fahrner,2
+Enis Afgan,Mehmet Tekman,2
+Enis Afgan,Melanie Christine Föll,2
+Enis Afgan,Michael R. Crusoe,2
+Enis Afgan,Miguel Roncoroni,2
+Enis Afgan,Natalie Kucher,2
+Enis Afgan,Nicholas Stoler,2
+Enis Afgan,Nick Rhodes,2
+Enis Afgan,Niko Pinter,2
+Enis Afgan,Nuwan Goonasekera,2
+Enis Afgan,Pablo Moreno,2
+Enis Afgan,Pavankumar Videm,2
+Enis Afgan,Mélanie Pétéra,2
+Enis Afgan,Pietro Mandreoli,2
+Enis Afgan,Pratik Jagtap,2
+Enis Afgan,Qiang Gu,2
+Enis Afgan,Ralf J. M. Weber,2
+Enis Afgan,Ross Lazarus,2
+Enis Afgan,Ruben H.P. Vorderman,2
+Enis Afgan,Sergey Golitsynskiy,2
+Enis Afgan,Shilpa Garg,2
+Enis Afgan,Simon Bray,2
+Enis Afgan,Simon Gladman,2
+Enis Afgan,Simone Leo,2
+Enis Afgan,Subina Mehta,2
+Enis Afgan,Timothy J. Griffin,2
+Enis Afgan,Yves Vandenbrouck,2
+Dannon Baker,Bérénice Batut,2
+Dannon Baker,Marius van den Beek,3
+Dannon Baker,Dave Bouvier,3
+Dannon Baker,Martin Čech,3
+Dannon Baker,John Chilton,3
+Dannon Baker,Dave Clements,3
+Dannon Baker,Nate Coraor,3
+Dannon Baker,Björn Grüning,4
+Dannon Baker,Aysam Guerler,3
+Dannon Baker,Jennifer Hillman‐Jackson,3
+Dannon Baker,Saskia Hiltemann,2
+Dannon Baker,Vahid Jalili,2
+Dannon Baker,Helena Rasche,2
+Dannon Baker,Nicola Soranzo,3
+Dannon Baker,Daniel Blankenberg,4
+Dannon Baker,Greg Von Kuster,2
+Dannon Baker,Michael C. Schatz,2
+Bérénice Batut,Marius van den Beek,2
+Bérénice Batut,Dave Bouvier,2
+Bérénice Batut,Martin Čech,2
+Bérénice Batut,John Chilton,2
+Bérénice Batut,Dave Clements,2
+Bérénice Batut,Nate Coraor,2
+Bérénice Batut,Björn Grüning,3
+Bérénice Batut,Aysam Guerler,2
+Bérénice Batut,Jennifer Hillman‐Jackson,2
+Bérénice Batut,Saskia Hiltemann,2
+Bérénice Batut,Vahid Jalili,2
+Bérénice Batut,Helena Rasche,2
+Bérénice Batut,Nicola Soranzo,2
+Bérénice Batut,Daniel Blankenberg,3
+Bérénice Batut,Michael C. Schatz,2
+Marius van den Beek,Dave Bouvier,3
+Marius van den Beek,Martin Čech,3
+Marius van den Beek,John Chilton,3
+Marius van den Beek,Dave Clements,3
+Marius van den Beek,Nate Coraor,3
+Marius van den Beek,Björn Grüning,4
+Marius van den Beek,Aysam Guerler,3
+Marius van den Beek,Jennifer Hillman‐Jackson,3
+Marius van den Beek,Saskia Hiltemann,2
+Marius van den Beek,Vahid Jalili,2
+Marius van den Beek,Helena Rasche,2
+Marius van den Beek,Nicola Soranzo,3
+Marius van den Beek,Daniel Blankenberg,4
+Marius van den Beek,Greg Von Kuster,2
+Marius van den Beek,Michael C. Schatz,2
+Dave Bouvier,Martin Čech,3
+Dave Bouvier,John Chilton,3
+Dave Bouvier,Dave Clements,3
+Dave Bouvier,Nate Coraor,3
+Dave Bouvier,Björn Grüning,4
+Dave Bouvier,Aysam Guerler,3
+Dave Bouvier,Jennifer Hillman‐Jackson,3
+Dave Bouvier,Saskia Hiltemann,2
+Dave Bouvier,Vahid Jalili,2
+Dave Bouvier,Helena Rasche,2
+Dave Bouvier,Nicola Soranzo,3
+Dave Bouvier,Daniel Blankenberg,4
+Dave Bouvier,Greg Von Kuster,2
+Dave Bouvier,Michael C. Schatz,2
+Martin Čech,John Chilton,3
+Martin Čech,Dave Clements,3
+Martin Čech,Nate Coraor,3
+Martin Čech,Björn Grüning,4
+Martin Čech,Aysam Guerler,3
+Martin Čech,Jennifer Hillman‐Jackson,3
+Martin Čech,Saskia Hiltemann,2
+Martin Čech,Vahid Jalili,2
+Martin Čech,Helena Rasche,2
+Martin Čech,Nicola Soranzo,3
+Martin Čech,Daniel Blankenberg,4
+Martin Čech,Greg Von Kuster,2
+Martin Čech,Michael C. Schatz,2
+John Chilton,Dave Clements,3
+John Chilton,Nate Coraor,3
+John Chilton,Björn Grüning,4
+John Chilton,Aysam Guerler,3
+John Chilton,Jennifer Hillman‐Jackson,3
+John Chilton,Saskia Hiltemann,2
+John Chilton,Vahid Jalili,2
+John Chilton,Helena Rasche,2
+John Chilton,Nicola Soranzo,3
+John Chilton,Daniel Blankenberg,4
+John Chilton,Greg Von Kuster,2
+John Chilton,Michael C. Schatz,2
+Dave Clements,Nate Coraor,3
+Dave Clements,Björn Grüning,4
+Dave Clements,Aysam Guerler,3
+Dave Clements,Jennifer Hillman‐Jackson,3
+Dave Clements,Saskia Hiltemann,2
+Dave Clements,Vahid Jalili,2
+Dave Clements,Helena Rasche,2
+Dave Clements,Nicola Soranzo,3
+Dave Clements,Daniel Blankenberg,4
+Dave Clements,Greg Von Kuster,2
+Dave Clements,Michael C. Schatz,2
+Nate Coraor,Björn Grüning,4
+Nate Coraor,Aysam Guerler,3
+Nate Coraor,Jennifer Hillman‐Jackson,3
+Nate Coraor,Saskia Hiltemann,2
+Nate Coraor,Vahid Jalili,2
+Nate Coraor,Helena Rasche,2
+Nate Coraor,Nicola Soranzo,3
+Nate Coraor,Daniel Blankenberg,4
+Nate Coraor,Greg Von Kuster,2
+Nate Coraor,Michael C. Schatz,2
+Björn Grüning,Aysam Guerler,4
+Björn Grüning,Jennifer Hillman‐Jackson,4
+Björn Grüning,Saskia Hiltemann,3
+Björn Grüning,Vahid Jalili,3
+Björn Grüning,Helena Rasche,3
+Björn Grüning,Nicola Soranzo,4
+Björn Grüning,Daniel Blankenberg,6
+Björn Grüning,Greg Von Kuster,3
+Björn Grüning,Michael C. Schatz,4
+Björn Grüning,Alexander Ostrovsky,2
+Björn Grüning,Alexandru Mahmoud,2
+Björn Grüning,Andrew Lonie,2
+Björn Grüning,Anna Syme,2
+Björn Grüning,Anne Fouilloux,2
+Björn Grüning,Anthony Bretaudeau,2
+Björn Grüning,Anup Kumar,2
+Björn Grüning,Arthur C. Eschenlauer,2
+Björn Grüning,Assunta D DeSanto,2
+Björn Grüning,Beatriz Serrano‐Solano,2
+Björn Grüning,Bradley W. Langhorst,2
+Björn Grüning,Bridget Carr,2
+Björn Grüning,Bryan Raubenolt,2
+Björn Grüning,Cameron Hyde,2
+Björn Grüning,Catherine J. Bromhead,2
+Björn Grüning,Christopher B. Barnett,2
+Björn Grüning,Coline Royaux,2
+Björn Grüning,Cristóbal Gallardo,2
+Björn Grüning,Daniel Fornika,2
+Björn Grüning,David Anderson de Lima Morais,2
+Björn Grüning,David López Tabernero,2
+Björn Grüning,Delphine Larivière,2
+Björn Grüning,Engy Nasr,2
+Björn Grüning,Federico Zambelli,2
+Björn Grüning,Florian Heyl,2
+Björn Grüning,Fotis Psomopoulos,2
+Björn Grüning,Frederik Coppens,2
+Björn Grüning,Gareth Price,2
+Björn Grüning,Gianmauro Cuccuru,2
+Björn Grüning,Gildas Le Corguillé,2
+Björn Grüning,Gulsum Gudukbay Akbulut,2
+Björn Grüning,Hans-Rudolf Hotz,2
+Björn Grüning,Ignacio Eguinoa,2
+Björn Grüning,Igor V. Makunin,2
+Björn Grüning,Isuru Ranawaka,2
+Björn Grüning,Jayadev Joshi,2
+Björn Grüning,Kaivan Kamali,2
+Björn Grüning,Keith Suderman,2
+Björn Grüning,Krzysztof Poterlowicz,2
+Björn Grüning,Le Bras Yvan,2
+Björn Grüning,Lucille Lopez‐Delisle,2
+Björn Grüning,Luke Sargent,2
+Björn Grüning,Madeline E. Bassetti,2
+Björn Grüning,M. A. Tangaro,2
+Björn Grüning,Matthias Fahrner,2
+Björn Grüning,Mehmet Tekman,2
+Björn Grüning,Melanie Christine Föll,2
+Björn Grüning,Michael R. Crusoe,2
+Björn Grüning,Miguel Roncoroni,2
+Björn Grüning,Natalie Kucher,2
+Björn Grüning,Nicholas Stoler,2
+Björn Grüning,Nick Rhodes,2
+Björn Grüning,Niko Pinter,2
+Björn Grüning,Nuwan Goonasekera,2
+Björn Grüning,Pablo Moreno,2
+Björn Grüning,Pavankumar Videm,2
+Björn Grüning,Mélanie Pétéra,2
+Björn Grüning,Pietro Mandreoli,2
+Björn Grüning,Pratik Jagtap,2
+Björn Grüning,Qiang Gu,2
+Björn Grüning,Ralf J. M. Weber,2
+Björn Grüning,Ross Lazarus,2
+Björn Grüning,Ruben H.P. Vorderman,2
+Björn Grüning,Sergey Golitsynskiy,2
+Björn Grüning,Shilpa Garg,2
+Björn Grüning,Simon Bray,2
+Björn Grüning,Simon Gladman,2
+Björn Grüning,Simone Leo,2
+Björn Grüning,Subina Mehta,2
+Björn Grüning,Timothy J. Griffin,2
+Björn Grüning,Yves Vandenbrouck,2
+Aysam Guerler,Jennifer Hillman‐Jackson,3
+Aysam Guerler,Saskia Hiltemann,2
+Aysam Guerler,Vahid Jalili,2
+Aysam Guerler,Helena Rasche,2
+Aysam Guerler,Nicola Soranzo,3
+Aysam Guerler,Daniel Blankenberg,4
+Aysam Guerler,Greg Von Kuster,2
+Aysam Guerler,Michael C. Schatz,2
+Jennifer Hillman‐Jackson,Saskia Hiltemann,2
+Jennifer Hillman‐Jackson,Vahid Jalili,2
+Jennifer Hillman‐Jackson,Helena Rasche,2
+Jennifer Hillman‐Jackson,Nicola Soranzo,3
+Jennifer Hillman‐Jackson,Daniel Blankenberg,4
+Jennifer Hillman‐Jackson,Greg Von Kuster,2
+Jennifer Hillman‐Jackson,Michael C. Schatz,2
+Saskia Hiltemann,Vahid Jalili,2
+Saskia Hiltemann,Helena Rasche,2
+Saskia Hiltemann,Nicola Soranzo,2
+Saskia Hiltemann,Daniel Blankenberg,3
+Saskia Hiltemann,Michael C. Schatz,2
+Vahid Jalili,Helena Rasche,2
+Vahid Jalili,Nicola Soranzo,2
+Vahid Jalili,Daniel Blankenberg,3
+Vahid Jalili,Michael C. Schatz,2
+Helena Rasche,Nicola Soranzo,2
+Helena Rasche,Daniel Blankenberg,3
+Helena Rasche,Michael C. Schatz,2
+Nicola Soranzo,Daniel Blankenberg,4
+Nicola Soranzo,Greg Von Kuster,2
+Nicola Soranzo,Michael C. Schatz,2
+Daniel Blankenberg,Greg Von Kuster,3
+Daniel Blankenberg,Ross Lazarus,3
+Daniel Blankenberg,Michael C. Schatz,4
+Daniel Blankenberg,Alexander Ostrovsky,2
+Daniel Blankenberg,Alexandru Mahmoud,2
+Daniel Blankenberg,Andrew Lonie,2
+Daniel Blankenberg,Anna Syme,2
+Daniel Blankenberg,Anne Fouilloux,2
+Daniel Blankenberg,Anthony Bretaudeau,2
+Daniel Blankenberg,Anup Kumar,2
+Daniel Blankenberg,Arthur C. Eschenlauer,2
+Daniel Blankenberg,Assunta D DeSanto,2
+Daniel Blankenberg,Beatriz Serrano‐Solano,2
+Daniel Blankenberg,Bradley W. Langhorst,2
+Daniel Blankenberg,Bridget Carr,2
+Daniel Blankenberg,Bryan Raubenolt,2
+Daniel Blankenberg,Cameron Hyde,2
+Daniel Blankenberg,Catherine J. Bromhead,2
+Daniel Blankenberg,Christopher B. Barnett,2
+Daniel Blankenberg,Coline Royaux,2
+Daniel Blankenberg,Cristóbal Gallardo,2
+Daniel Blankenberg,Daniel Fornika,2
+Daniel Blankenberg,David Anderson de Lima Morais,2
+Daniel Blankenberg,David López Tabernero,2
+Daniel Blankenberg,Delphine Larivière,2
+Daniel Blankenberg,Engy Nasr,2
+Daniel Blankenberg,Federico Zambelli,2
+Daniel Blankenberg,Florian Heyl,2
+Daniel Blankenberg,Fotis Psomopoulos,2
+Daniel Blankenberg,Frederik Coppens,2
+Daniel Blankenberg,Gareth Price,2
+Daniel Blankenberg,Gianmauro Cuccuru,2
+Daniel Blankenberg,Gildas Le Corguillé,2
+Daniel Blankenberg,Gulsum Gudukbay Akbulut,2
+Daniel Blankenberg,Hans-Rudolf Hotz,2
+Daniel Blankenberg,Ignacio Eguinoa,2
+Daniel Blankenberg,Igor V. Makunin,2
+Daniel Blankenberg,Isuru Ranawaka,2
+Daniel Blankenberg,Jayadev Joshi,2
+Daniel Blankenberg,Kaivan Kamali,2
+Daniel Blankenberg,Keith Suderman,2
+Daniel Blankenberg,Krzysztof Poterlowicz,2
+Daniel Blankenberg,Le Bras Yvan,2
+Daniel Blankenberg,Lucille Lopez‐Delisle,2
+Daniel Blankenberg,Luke Sargent,2
+Daniel Blankenberg,Madeline E. Bassetti,2
+Daniel Blankenberg,M. A. Tangaro,2
+Daniel Blankenberg,Matthias Fahrner,2
+Daniel Blankenberg,Mehmet Tekman,2
+Daniel Blankenberg,Melanie Christine Föll,2
+Daniel Blankenberg,Michael R. Crusoe,2
+Daniel Blankenberg,Miguel Roncoroni,2
+Daniel Blankenberg,Natalie Kucher,2
+Daniel Blankenberg,Nicholas Stoler,2
+Daniel Blankenberg,Nick Rhodes,2
+Daniel Blankenberg,Niko Pinter,2
+Daniel Blankenberg,Nuwan Goonasekera,2
+Daniel Blankenberg,Pablo Moreno,2
+Daniel Blankenberg,Pavankumar Videm,2
+Daniel Blankenberg,Mélanie Pétéra,2
+Daniel Blankenberg,Pietro Mandreoli,2
+Daniel Blankenberg,Pratik Jagtap,2
+Daniel Blankenberg,Qiang Gu,2
+Daniel Blankenberg,Ralf J. M. Weber,2
+Daniel Blankenberg,Ruben H.P. Vorderman,2
+Daniel Blankenberg,Sergey Golitsynskiy,2
+Daniel Blankenberg,Shilpa Garg,2
+Daniel Blankenberg,Simon Bray,2
+Daniel Blankenberg,Simon Gladman,2
+Daniel Blankenberg,Simone Leo,2
+Daniel Blankenberg,Subina Mehta,2
+Daniel Blankenberg,Timothy J. Griffin,2
+Daniel Blankenberg,Yves Vandenbrouck,2
+Àlex Arenas,Albert Dı́az-Guilera,2
+Katherine Chou,Greg S. Corrado,2
+Greg S. Corrado,Christopher Kelly,2
+Greg S. Corrado,Alan Karthikesalingam,2
+Mary J. Goldman,Brian Craft,2
+Mary J. Goldman,Jingchun Zhu,2
+Mary J. Goldman,David Haussler,2
+Brian Craft,Jingchun Zhu,2
+Brian Craft,David Haussler,2
+Jingchun Zhu,David Haussler,2
+Gary King,Michael Tomz,2
+Gary King,Jason Wittenberg,2
+Michael Tomz,Jason Wittenberg,2
+Avrim Blum,Noam Nisan,4
+Avrim Blum,Christos H. Papadimitriou,2
+Avrim Blum,Éva Tardos,2
+Avrim Blum,Tim Roughgarden,2
+David Lazer,Alex Pentland,2
+Duncan J. Watts,Peter Sheridan Dodds,2
+Kenneth P. Burnham,David R. Anderson,2
+Nomi L. Harris,Petra Fey,2
+Nomi L. Harris,Paul D. Thomas,2
+Nomi L. Harris,Dustin Ebert,2
+Nomi L. Harris,Huaiyu Mi,2
+Nomi L. Harris,Tremayne Mushayahama,2
+Nomi L. Harris,Deborah A. Siegele,2
+Nomi L. Harris,Giulia Antonazzo,2
+Nomi L. Harris,Helen Attrill,2
+Nomi L. Harris,Steven J Marygold,2
+Nomi L. Harris,Gil dos Santos,2
+Nomi L. Harris,Christopher J. Tabone,2
+Nomi L. Harris,Pinglei Zhou,2
+Nomi L. Harris,Victor Strelets,2
+Nomi L. Harris,Jim Thurmond,2
+Nomi L. Harris,Colin Logie,2
+Nomi L. Harris,Ruth C. Lovering,2
+Nomi L. Harris,Shirin C C Saverimuttu,2
+Nomi L. Harris,Renzhi Su,2
+Nomi L. Harris,Kate E. Thurlow,2
+Nomi L. Harris,Michelle Giglio,2
+Nomi L. Harris,Suvarna Nadendla,2
+Nomi L. Harris,Li Ni,2
+Nomi L. Harris,Dmitry Sitnikov,2
+Nomi L. Harris,Kim Rutherford,2
+Nomi L. Harris,Melinda R. Dwinell,2
+Nomi L. Harris,G. Thomas Hayman,2
+Nomi L. Harris,Mary L. Kaldunski,2
+Nomi L. Harris,Anne E. Kwitek,2
+Nomi L. Harris,Stanley J. F. Laulederkind,2
+Nomi L. Harris,Marek Tutaj,2
+Nomi L. Harris,Mahima Vedi,2
+Nomi L. Harris,Shur‐Jen Wang,2
+Nomi L. Harris,Peter D’Eustachio,2
+Nomi L. Harris,James P. Balhoff,2
+Nomi L. Harris,Suzi Aleksander,3
+Nomi L. Harris,Kalpana Karra,2
+Petra Fey,Paul D. Thomas,2
+Petra Fey,Dustin Ebert,2
+Petra Fey,Huaiyu Mi,2
+Petra Fey,Tremayne Mushayahama,2
+Petra Fey,Deborah A. Siegele,2
+Petra Fey,Giulia Antonazzo,2
+Petra Fey,Helen Attrill,2
+Petra Fey,Steven J Marygold,2
+Petra Fey,Gil dos Santos,2
+Petra Fey,Christopher J. Tabone,2
+Petra Fey,Pinglei Zhou,2
+Petra Fey,Victor Strelets,2
+Petra Fey,Jim Thurmond,2
+Petra Fey,Colin Logie,2
+Petra Fey,Ruth C. Lovering,2
+Petra Fey,Shirin C C Saverimuttu,2
+Petra Fey,Renzhi Su,2
+Petra Fey,Kate E. Thurlow,2
+Petra Fey,Michelle Giglio,2
+Petra Fey,Suvarna Nadendla,2
+Petra Fey,Li Ni,2
+Petra Fey,Dmitry Sitnikov,2
+Petra Fey,Kim Rutherford,2
+Petra Fey,Melinda R. Dwinell,2
+Petra Fey,G. Thomas Hayman,2
+Petra Fey,Mary L. Kaldunski,2
+Petra Fey,Anne E. Kwitek,2
+Petra Fey,Stanley J. F. Laulederkind,2
+Petra Fey,Marek Tutaj,2
+Petra Fey,Mahima Vedi,2
+Petra Fey,Shur‐Jen Wang,2
+Petra Fey,Peter D’Eustachio,2
+Petra Fey,James P. Balhoff,2
+Petra Fey,Suzi Aleksander,3
+Petra Fey,Kalpana Karra,2
+Paul D. Thomas,Dustin Ebert,2
+Paul D. Thomas,Huaiyu Mi,3
+Paul D. Thomas,Tremayne Mushayahama,2
+Paul D. Thomas,Deborah A. Siegele,2
+Paul D. Thomas,Giulia Antonazzo,2
+Paul D. Thomas,Helen Attrill,2
+Paul D. Thomas,Steven J Marygold,2
+Paul D. Thomas,Gil dos Santos,2
+Paul D. Thomas,Christopher J. Tabone,2
+Paul D. Thomas,Pinglei Zhou,2
+Paul D. Thomas,Victor Strelets,2
+Paul D. Thomas,Jim Thurmond,2
+Paul D. Thomas,Colin Logie,2
+Paul D. Thomas,Ruth C. Lovering,2
+Paul D. Thomas,Shirin C C Saverimuttu,2
+Paul D. Thomas,Renzhi Su,2
+Paul D. Thomas,Kate E. Thurlow,2
+Paul D. Thomas,Michelle Giglio,2
+Paul D. Thomas,Suvarna Nadendla,2
+Paul D. Thomas,ROBERT FINN,2
+Paul D. Thomas,Alex Mitchell,2
+Paul D. Thomas,Amaia Sangrador‐Vegas,2
+Paul D. Thomas,Li Ni,2
+Paul D. Thomas,Dmitry Sitnikov,2
+Paul D. Thomas,Kim Rutherford,2
+Paul D. Thomas,Melinda R. Dwinell,2
+Paul D. Thomas,G. Thomas Hayman,2
+Paul D. Thomas,Mary L. Kaldunski,2
+Paul D. Thomas,Anne E. Kwitek,2
+Paul D. Thomas,Stanley J. F. Laulederkind,2
+Paul D. Thomas,Marek Tutaj,2
+Paul D. Thomas,Mahima Vedi,2
+Paul D. Thomas,Shur‐Jen Wang,2
+Paul D. Thomas,Peter D’Eustachio,2
+Paul D. Thomas,James P. Balhoff,2
+Paul D. Thomas,Suzi Aleksander,3
+Paul D. Thomas,Kalpana Karra,2
+Dustin Ebert,Huaiyu Mi,2
+Dustin Ebert,Tremayne Mushayahama,2
+Dustin Ebert,Deborah A. Siegele,2
+Dustin Ebert,Giulia Antonazzo,2
+Dustin Ebert,Helen Attrill,2
+Dustin Ebert,Steven J Marygold,2
+Dustin Ebert,Gil dos Santos,2
+Dustin Ebert,Christopher J. Tabone,2
+Dustin Ebert,Pinglei Zhou,2
+Dustin Ebert,Victor Strelets,2
+Dustin Ebert,Jim Thurmond,2
+Dustin Ebert,Colin Logie,2
+Dustin Ebert,Ruth C. Lovering,2
+Dustin Ebert,Shirin C C Saverimuttu,2
+Dustin Ebert,Renzhi Su,2
+Dustin Ebert,Kate E. Thurlow,2
+Dustin Ebert,Michelle Giglio,2
+Dustin Ebert,Suvarna Nadendla,2
+Dustin Ebert,Li Ni,2
+Dustin Ebert,Dmitry Sitnikov,2
+Dustin Ebert,Kim Rutherford,2
+Dustin Ebert,Melinda R. Dwinell,2
+Dustin Ebert,G. Thomas Hayman,2
+Dustin Ebert,Mary L. Kaldunski,2
+Dustin Ebert,Anne E. Kwitek,2
+Dustin Ebert,Stanley J. F. Laulederkind,2
+Dustin Ebert,Marek Tutaj,2
+Dustin Ebert,Mahima Vedi,2
+Dustin Ebert,Shur‐Jen Wang,2
+Dustin Ebert,Peter D’Eustachio,2
+Dustin Ebert,James P. Balhoff,2
+Dustin Ebert,Suzi Aleksander,3
+Dustin Ebert,Kalpana Karra,2
+Huaiyu Mi,Tremayne Mushayahama,2
+Huaiyu Mi,Deborah A. Siegele,2
+Huaiyu Mi,Giulia Antonazzo,2
+Huaiyu Mi,Helen Attrill,2
+Huaiyu Mi,Steven J Marygold,2
+Huaiyu Mi,Gil dos Santos,2
+Huaiyu Mi,Christopher J. Tabone,2
+Huaiyu Mi,Pinglei Zhou,2
+Huaiyu Mi,Victor Strelets,2
+Huaiyu Mi,Jim Thurmond,2
+Huaiyu Mi,Colin Logie,2
+Huaiyu Mi,Ruth C. Lovering,2
+Huaiyu Mi,Shirin C C Saverimuttu,2
+Huaiyu Mi,Renzhi Su,2
+Huaiyu Mi,Kate E. Thurlow,2
+Huaiyu Mi,Michelle Giglio,2
+Huaiyu Mi,Suvarna Nadendla,2
+Huaiyu Mi,ROBERT FINN,2
+Huaiyu Mi,Alex Mitchell,2
+Huaiyu Mi,Amaia Sangrador‐Vegas,2
+Huaiyu Mi,Li Ni,2
+Huaiyu Mi,Dmitry Sitnikov,2
+Huaiyu Mi,Kim Rutherford,2
+Huaiyu Mi,Melinda R. Dwinell,2
+Huaiyu Mi,G. Thomas Hayman,2
+Huaiyu Mi,Mary L. Kaldunski,2
+Huaiyu Mi,Anne E. Kwitek,2
+Huaiyu Mi,Stanley J. F. Laulederkind,2
+Huaiyu Mi,Marek Tutaj,2
+Huaiyu Mi,Mahima Vedi,2
+Huaiyu Mi,Shur‐Jen Wang,2
+Huaiyu Mi,Peter D’Eustachio,2
+Huaiyu Mi,James P. Balhoff,2
+Huaiyu Mi,Suzi Aleksander,3
+Huaiyu Mi,Kalpana Karra,2
+Tremayne Mushayahama,Deborah A. Siegele,2
+Tremayne Mushayahama,Giulia Antonazzo,2
+Tremayne Mushayahama,Helen Attrill,2
+Tremayne Mushayahama,Steven J Marygold,2
+Tremayne Mushayahama,Gil dos Santos,2
+Tremayne Mushayahama,Christopher J. Tabone,2
+Tremayne Mushayahama,Pinglei Zhou,2
+Tremayne Mushayahama,Victor Strelets,2
+Tremayne Mushayahama,Jim Thurmond,2
+Tremayne Mushayahama,Colin Logie,2
+Tremayne Mushayahama,Ruth C. Lovering,2
+Tremayne Mushayahama,Shirin C C Saverimuttu,2
+Tremayne Mushayahama,Renzhi Su,2
+Tremayne Mushayahama,Kate E. Thurlow,2
+Tremayne Mushayahama,Michelle Giglio,2
+Tremayne Mushayahama,Suvarna Nadendla,2
+Tremayne Mushayahama,Li Ni,2
+Tremayne Mushayahama,Dmitry Sitnikov,2
+Tremayne Mushayahama,Kim Rutherford,2
+Tremayne Mushayahama,Melinda R. Dwinell,2
+Tremayne Mushayahama,G. Thomas Hayman,2
+Tremayne Mushayahama,Mary L. Kaldunski,2
+Tremayne Mushayahama,Anne E. Kwitek,2
+Tremayne Mushayahama,Stanley J. F. Laulederkind,2
+Tremayne Mushayahama,Marek Tutaj,2
+Tremayne Mushayahama,Mahima Vedi,2
+Tremayne Mushayahama,Shur‐Jen Wang,2
+Tremayne Mushayahama,Peter D’Eustachio,2
+Tremayne Mushayahama,James P. Balhoff,2
+Tremayne Mushayahama,Suzi Aleksander,3
+Tremayne Mushayahama,Kalpana Karra,2
+Deborah A. Siegele,Giulia Antonazzo,2
+Deborah A. Siegele,Helen Attrill,2
+Deborah A. Siegele,Steven J Marygold,2
+Deborah A. Siegele,Gil dos Santos,2
+Deborah A. Siegele,Christopher J. Tabone,2
+Deborah A. Siegele,Pinglei Zhou,2
+Deborah A. Siegele,Victor Strelets,2
+Deborah A. Siegele,Jim Thurmond,2
+Deborah A. Siegele,Colin Logie,2
+Deborah A. Siegele,Ruth C. Lovering,2
+Deborah A. Siegele,Shirin C C Saverimuttu,2
+Deborah A. Siegele,Renzhi Su,2
+Deborah A. Siegele,Kate E. Thurlow,2
+Deborah A. Siegele,Michelle Giglio,2
+Deborah A. Siegele,Suvarna Nadendla,2
+Deborah A. Siegele,Li Ni,2
+Deborah A. Siegele,Dmitry Sitnikov,2
+Deborah A. Siegele,Kim Rutherford,2
+Deborah A. Siegele,Melinda R. Dwinell,2
+Deborah A. Siegele,G. Thomas Hayman,2
+Deborah A. Siegele,Mary L. Kaldunski,2
+Deborah A. Siegele,Anne E. Kwitek,2
+Deborah A. Siegele,Stanley J. F. Laulederkind,2
+Deborah A. Siegele,Marek Tutaj,2
+Deborah A. Siegele,Mahima Vedi,2
+Deborah A. Siegele,Shur‐Jen Wang,2
+Deborah A. Siegele,Peter D’Eustachio,2
+Deborah A. Siegele,James P. Balhoff,2
+Deborah A. Siegele,Suzi Aleksander,3
+Deborah A. Siegele,Kalpana Karra,2
+Giulia Antonazzo,Helen Attrill,2
+Giulia Antonazzo,Steven J Marygold,2
+Giulia Antonazzo,Gil dos Santos,2
+Giulia Antonazzo,Christopher J. Tabone,2
+Giulia Antonazzo,Pinglei Zhou,2
+Giulia Antonazzo,Victor Strelets,2
+Giulia Antonazzo,Jim Thurmond,2
+Giulia Antonazzo,Colin Logie,2
+Giulia Antonazzo,Ruth C. Lovering,2
+Giulia Antonazzo,Shirin C C Saverimuttu,2
+Giulia Antonazzo,Renzhi Su,2
+Giulia Antonazzo,Kate E. Thurlow,2
+Giulia Antonazzo,Michelle Giglio,2
+Giulia Antonazzo,Suvarna Nadendla,2
+Giulia Antonazzo,Li Ni,2
+Giulia Antonazzo,Dmitry Sitnikov,2
+Giulia Antonazzo,Kim Rutherford,2
+Giulia Antonazzo,Melinda R. Dwinell,2
+Giulia Antonazzo,G. Thomas Hayman,2
+Giulia Antonazzo,Mary L. Kaldunski,2
+Giulia Antonazzo,Anne E. Kwitek,2
+Giulia Antonazzo,Stanley J. F. Laulederkind,2
+Giulia Antonazzo,Marek Tutaj,2
+Giulia Antonazzo,Mahima Vedi,2
+Giulia Antonazzo,Shur‐Jen Wang,2
+Giulia Antonazzo,Peter D’Eustachio,2
+Giulia Antonazzo,James P. Balhoff,2
+Giulia Antonazzo,Suzi Aleksander,3
+Giulia Antonazzo,Kalpana Karra,2
+Helen Attrill,Steven J Marygold,2
+Helen Attrill,Gil dos Santos,2
+Helen Attrill,Christopher J. Tabone,2
+Helen Attrill,Pinglei Zhou,2
+Helen Attrill,Victor Strelets,2
+Helen Attrill,Jim Thurmond,2
+Helen Attrill,Colin Logie,2
+Helen Attrill,Ruth C. Lovering,2
+Helen Attrill,Shirin C C Saverimuttu,2
+Helen Attrill,Renzhi Su,2
+Helen Attrill,Kate E. Thurlow,2
+Helen Attrill,Michelle Giglio,2
+Helen Attrill,Suvarna Nadendla,2
+Helen Attrill,Li Ni,2
+Helen Attrill,Dmitry Sitnikov,2
+Helen Attrill,Kim Rutherford,2
+Helen Attrill,Melinda R. Dwinell,2
+Helen Attrill,G. Thomas Hayman,2
+Helen Attrill,Mary L. Kaldunski,2
+Helen Attrill,Anne E. Kwitek,2
+Helen Attrill,Stanley J. F. Laulederkind,2
+Helen Attrill,Marek Tutaj,2
+Helen Attrill,Mahima Vedi,2
+Helen Attrill,Shur‐Jen Wang,2
+Helen Attrill,Peter D’Eustachio,2
+Helen Attrill,James P. Balhoff,2
+Helen Attrill,Suzi Aleksander,3
+Helen Attrill,Kalpana Karra,2
+Steven J Marygold,Gil dos Santos,2
+Steven J Marygold,Christopher J. Tabone,2
+Steven J Marygold,Pinglei Zhou,2
+Steven J Marygold,Victor Strelets,2
+Steven J Marygold,Jim Thurmond,2
+Steven J Marygold,Colin Logie,2
+Steven J Marygold,Ruth C. Lovering,2
+Steven J Marygold,Shirin C C Saverimuttu,2
+Steven J Marygold,Renzhi Su,2
+Steven J Marygold,Kate E. Thurlow,2
+Steven J Marygold,Michelle Giglio,2
+Steven J Marygold,Suvarna Nadendla,2
+Steven J Marygold,Li Ni,2
+Steven J Marygold,Dmitry Sitnikov,2
+Steven J Marygold,Kim Rutherford,2
+Steven J Marygold,Melinda R. Dwinell,2
+Steven J Marygold,G. Thomas Hayman,2
+Steven J Marygold,Mary L. Kaldunski,2
+Steven J Marygold,Anne E. Kwitek,2
+Steven J Marygold,Stanley J. F. Laulederkind,2
+Steven J Marygold,Marek Tutaj,2
+Steven J Marygold,Mahima Vedi,2
+Steven J Marygold,Shur‐Jen Wang,2
+Steven J Marygold,Peter D’Eustachio,2
+Steven J Marygold,James P. Balhoff,2
+Steven J Marygold,Suzi Aleksander,3
+Steven J Marygold,Kalpana Karra,2
+Gil dos Santos,Christopher J. Tabone,2
+Gil dos Santos,Pinglei Zhou,2
+Gil dos Santos,Victor Strelets,2
+Gil dos Santos,Jim Thurmond,2
+Gil dos Santos,Colin Logie,2
+Gil dos Santos,Ruth C. Lovering,2
+Gil dos Santos,Shirin C C Saverimuttu,2
+Gil dos Santos,Renzhi Su,2
+Gil dos Santos,Kate E. Thurlow,2
+Gil dos Santos,Michelle Giglio,2
+Gil dos Santos,Suvarna Nadendla,2
+Gil dos Santos,Li Ni,2
+Gil dos Santos,Dmitry Sitnikov,2
+Gil dos Santos,Kim Rutherford,2
+Gil dos Santos,Melinda R. Dwinell,2
+Gil dos Santos,G. Thomas Hayman,2
+Gil dos Santos,Mary L. Kaldunski,2
+Gil dos Santos,Anne E. Kwitek,2
+Gil dos Santos,Stanley J. F. Laulederkind,2
+Gil dos Santos,Marek Tutaj,2
+Gil dos Santos,Mahima Vedi,2
+Gil dos Santos,Shur‐Jen Wang,2
+Gil dos Santos,Peter D’Eustachio,2
+Gil dos Santos,James P. Balhoff,2
+Gil dos Santos,Suzi Aleksander,3
+Gil dos Santos,Kalpana Karra,2
+Christopher J. Tabone,Pinglei Zhou,2
+Christopher J. Tabone,Victor Strelets,2
+Christopher J. Tabone,Jim Thurmond,2
+Christopher J. Tabone,Colin Logie,2
+Christopher J. Tabone,Ruth C. Lovering,2
+Christopher J. Tabone,Shirin C C Saverimuttu,2
+Christopher J. Tabone,Renzhi Su,2
+Christopher J. Tabone,Kate E. Thurlow,2
+Christopher J. Tabone,Michelle Giglio,2
+Christopher J. Tabone,Suvarna Nadendla,2
+Christopher J. Tabone,Li Ni,2
+Christopher J. Tabone,Dmitry Sitnikov,2
+Christopher J. Tabone,Kim Rutherford,2
+Christopher J. Tabone,Melinda R. Dwinell,2
+Christopher J. Tabone,G. Thomas Hayman,2
+Christopher J. Tabone,Mary L. Kaldunski,2
+Christopher J. Tabone,Anne E. Kwitek,2
+Christopher J. Tabone,Stanley J. F. Laulederkind,2
+Christopher J. Tabone,Marek Tutaj,2
+Christopher J. Tabone,Mahima Vedi,2
+Christopher J. Tabone,Shur‐Jen Wang,2
+Christopher J. Tabone,Peter D’Eustachio,2
+Christopher J. Tabone,James P. Balhoff,2
+Christopher J. Tabone,Suzi Aleksander,3
+Christopher J. Tabone,Kalpana Karra,2
+Pinglei Zhou,Victor Strelets,2
+Pinglei Zhou,Jim Thurmond,2
+Pinglei Zhou,Colin Logie,2
+Pinglei Zhou,Ruth C. Lovering,2
+Pinglei Zhou,Shirin C C Saverimuttu,2
+Pinglei Zhou,Renzhi Su,2
+Pinglei Zhou,Kate E. Thurlow,2
+Pinglei Zhou,Michelle Giglio,2
+Pinglei Zhou,Suvarna Nadendla,2
+Pinglei Zhou,Li Ni,2
+Pinglei Zhou,Dmitry Sitnikov,2
+Pinglei Zhou,Kim Rutherford,2
+Pinglei Zhou,Melinda R. Dwinell,2
+Pinglei Zhou,G. Thomas Hayman,2
+Pinglei Zhou,Mary L. Kaldunski,2
+Pinglei Zhou,Anne E. Kwitek,2
+Pinglei Zhou,Stanley J. F. Laulederkind,2
+Pinglei Zhou,Marek Tutaj,2
+Pinglei Zhou,Mahima Vedi,2
+Pinglei Zhou,Shur‐Jen Wang,2
+Pinglei Zhou,Peter D’Eustachio,2
+Pinglei Zhou,James P. Balhoff,2
+Pinglei Zhou,Suzi Aleksander,3
+Pinglei Zhou,Kalpana Karra,2
+Victor Strelets,Jim Thurmond,2
+Victor Strelets,Colin Logie,2
+Victor Strelets,Ruth C. Lovering,2
+Victor Strelets,Shirin C C Saverimuttu,2
+Victor Strelets,Renzhi Su,2
+Victor Strelets,Kate E. Thurlow,2
+Victor Strelets,Michelle Giglio,2
+Victor Strelets,Suvarna Nadendla,2
+Victor Strelets,Li Ni,2
+Victor Strelets,Dmitry Sitnikov,2
+Victor Strelets,Kim Rutherford,2
+Victor Strelets,Melinda R. Dwinell,2
+Victor Strelets,G. Thomas Hayman,2
+Victor Strelets,Mary L. Kaldunski,2
+Victor Strelets,Anne E. Kwitek,2
+Victor Strelets,Stanley J. F. Laulederkind,2
+Victor Strelets,Marek Tutaj,2
+Victor Strelets,Mahima Vedi,2
+Victor Strelets,Shur‐Jen Wang,2
+Victor Strelets,Peter D’Eustachio,2
+Victor Strelets,James P. Balhoff,2
+Victor Strelets,Suzi Aleksander,3
+Victor Strelets,Kalpana Karra,2
+Jim Thurmond,Colin Logie,2
+Jim Thurmond,Ruth C. Lovering,2
+Jim Thurmond,Shirin C C Saverimuttu,2
+Jim Thurmond,Renzhi Su,2
+Jim Thurmond,Kate E. Thurlow,2
+Jim Thurmond,Michelle Giglio,2
+Jim Thurmond,Suvarna Nadendla,2
+Jim Thurmond,Li Ni,2
+Jim Thurmond,Dmitry Sitnikov,2
+Jim Thurmond,Kim Rutherford,2
+Jim Thurmond,Melinda R. Dwinell,2
+Jim Thurmond,G. Thomas Hayman,2
+Jim Thurmond,Mary L. Kaldunski,2
+Jim Thurmond,Anne E. Kwitek,2
+Jim Thurmond,Stanley J. F. Laulederkind,2
+Jim Thurmond,Marek Tutaj,2
+Jim Thurmond,Mahima Vedi,2
+Jim Thurmond,Shur‐Jen Wang,2
+Jim Thurmond,Peter D’Eustachio,2
+Jim Thurmond,James P. Balhoff,2
+Jim Thurmond,Suzi Aleksander,3
+Jim Thurmond,Kalpana Karra,2
+Colin Logie,Ruth C. Lovering,2
+Colin Logie,Shirin C C Saverimuttu,2
+Colin Logie,Renzhi Su,2
+Colin Logie,Kate E. Thurlow,2
+Colin Logie,Michelle Giglio,2
+Colin Logie,Suvarna Nadendla,2
+Colin Logie,Li Ni,2
+Colin Logie,Dmitry Sitnikov,2
+Colin Logie,Kim Rutherford,2
+Colin Logie,Melinda R. Dwinell,2
+Colin Logie,G. Thomas Hayman,2
+Colin Logie,Mary L. Kaldunski,2
+Colin Logie,Anne E. Kwitek,2
+Colin Logie,Stanley J. F. Laulederkind,2
+Colin Logie,Marek Tutaj,2
+Colin Logie,Mahima Vedi,2
+Colin Logie,Shur‐Jen Wang,2
+Colin Logie,Peter D’Eustachio,2
+Colin Logie,James P. Balhoff,2
+Colin Logie,Suzi Aleksander,3
+Colin Logie,Kalpana Karra,2
+Ruth C. Lovering,Shirin C C Saverimuttu,2
+Ruth C. Lovering,Renzhi Su,2
+Ruth C. Lovering,Kate E. Thurlow,2
+Ruth C. Lovering,Michelle Giglio,2
+Ruth C. Lovering,Suvarna Nadendla,2
+Ruth C. Lovering,Li Ni,2
+Ruth C. Lovering,Dmitry Sitnikov,2
+Ruth C. Lovering,Kim Rutherford,2
+Ruth C. Lovering,Melinda R. Dwinell,2
+Ruth C. Lovering,G. Thomas Hayman,2
+Ruth C. Lovering,Mary L. Kaldunski,2
+Ruth C. Lovering,Anne E. Kwitek,2
+Ruth C. Lovering,Stanley J. F. Laulederkind,2
+Ruth C. Lovering,Marek Tutaj,2
+Ruth C. Lovering,Mahima Vedi,2
+Ruth C. Lovering,Shur‐Jen Wang,2
+Ruth C. Lovering,Peter D’Eustachio,2
+Ruth C. Lovering,James P. Balhoff,2
+Ruth C. Lovering,Suzi Aleksander,3
+Ruth C. Lovering,Kalpana Karra,2
+Shirin C C Saverimuttu,Renzhi Su,2
+Shirin C C Saverimuttu,Kate E. Thurlow,2
+Shirin C C Saverimuttu,Michelle Giglio,2
+Shirin C C Saverimuttu,Suvarna Nadendla,2
+Shirin C C Saverimuttu,Li Ni,2
+Shirin C C Saverimuttu,Dmitry Sitnikov,2
+Shirin C C Saverimuttu,Kim Rutherford,2
+Shirin C C Saverimuttu,Melinda R. Dwinell,2
+Shirin C C Saverimuttu,G. Thomas Hayman,2
+Shirin C C Saverimuttu,Mary L. Kaldunski,2
+Shirin C C Saverimuttu,Anne E. Kwitek,2
+Shirin C C Saverimuttu,Stanley J. F. Laulederkind,2
+Shirin C C Saverimuttu,Marek Tutaj,2
+Shirin C C Saverimuttu,Mahima Vedi,2
+Shirin C C Saverimuttu,Shur‐Jen Wang,2
+Shirin C C Saverimuttu,Peter D’Eustachio,2
+Shirin C C Saverimuttu,James P. Balhoff,2
+Shirin C C Saverimuttu,Suzi Aleksander,3
+Shirin C C Saverimuttu,Kalpana Karra,2
+Renzhi Su,Kate E. Thurlow,2
+Renzhi Su,Michelle Giglio,2
+Renzhi Su,Suvarna Nadendla,2
+Renzhi Su,Li Ni,2
+Renzhi Su,Dmitry Sitnikov,2
+Renzhi Su,Kim Rutherford,2
+Renzhi Su,Melinda R. Dwinell,2
+Renzhi Su,G. Thomas Hayman,2
+Renzhi Su,Mary L. Kaldunski,2
+Renzhi Su,Anne E. Kwitek,2
+Renzhi Su,Stanley J. F. Laulederkind,2
+Renzhi Su,Marek Tutaj,2
+Renzhi Su,Mahima Vedi,2
+Renzhi Su,Shur‐Jen Wang,2
+Renzhi Su,Peter D’Eustachio,2
+Renzhi Su,James P. Balhoff,2
+Renzhi Su,Suzi Aleksander,3
+Renzhi Su,Kalpana Karra,2
+Kate E. Thurlow,Michelle Giglio,2
+Kate E. Thurlow,Suvarna Nadendla,2
+Kate E. Thurlow,Li Ni,2
+Kate E. Thurlow,Dmitry Sitnikov,2
+Kate E. Thurlow,Kim Rutherford,2
+Kate E. Thurlow,Melinda R. Dwinell,2
+Kate E. Thurlow,G. Thomas Hayman,2
+Kate E. Thurlow,Mary L. Kaldunski,2
+Kate E. Thurlow,Anne E. Kwitek,2
+Kate E. Thurlow,Stanley J. F. Laulederkind,2
+Kate E. Thurlow,Marek Tutaj,2
+Kate E. Thurlow,Mahima Vedi,2
+Kate E. Thurlow,Shur‐Jen Wang,2
+Kate E. Thurlow,Peter D’Eustachio,2
+Kate E. Thurlow,James P. Balhoff,2
+Kate E. Thurlow,Suzi Aleksander,3
+Kate E. Thurlow,Kalpana Karra,2
+Michelle Giglio,Suvarna Nadendla,2
+Michelle Giglio,Li Ni,2
+Michelle Giglio,Dmitry Sitnikov,2
+Michelle Giglio,Kim Rutherford,2
+Michelle Giglio,Melinda R. Dwinell,2
+Michelle Giglio,G. Thomas Hayman,2
+Michelle Giglio,Mary L. Kaldunski,2
+Michelle Giglio,Anne E. Kwitek,2
+Michelle Giglio,Stanley J. F. Laulederkind,2
+Michelle Giglio,Marek Tutaj,2
+Michelle Giglio,Mahima Vedi,2
+Michelle Giglio,Shur‐Jen Wang,2
+Michelle Giglio,Peter D’Eustachio,2
+Michelle Giglio,James P. Balhoff,2
+Michelle Giglio,Suzi Aleksander,3
+Michelle Giglio,Kalpana Karra,2
+Suvarna Nadendla,Li Ni,2
+Suvarna Nadendla,Dmitry Sitnikov,2
+Suvarna Nadendla,Kim Rutherford,2
+Suvarna Nadendla,Melinda R. Dwinell,2
+Suvarna Nadendla,G. Thomas Hayman,2
+Suvarna Nadendla,Mary L. Kaldunski,2
+Suvarna Nadendla,Anne E. Kwitek,2
+Suvarna Nadendla,Stanley J. F. Laulederkind,2
+Suvarna Nadendla,Marek Tutaj,2
+Suvarna Nadendla,Mahima Vedi,2
+Suvarna Nadendla,Shur‐Jen Wang,2
+Suvarna Nadendla,Peter D’Eustachio,2
+Suvarna Nadendla,James P. Balhoff,2
+Suvarna Nadendla,Suzi Aleksander,3
+Suvarna Nadendla,Kalpana Karra,2
+ROBERT FINN,Alex Mitchell,2
+ROBERT FINN,Amaia Sangrador‐Vegas,2
+Alex Mitchell,Amaia Sangrador‐Vegas,2
+Li Ni,Dmitry Sitnikov,2
+Li Ni,Kim Rutherford,2
+Li Ni,Melinda R. Dwinell,2
+Li Ni,G. Thomas Hayman,2
+Li Ni,Mary L. Kaldunski,2
+Li Ni,Anne E. Kwitek,2
+Li Ni,Stanley J. F. Laulederkind,2
+Li Ni,Marek Tutaj,2
+Li Ni,Mahima Vedi,2
+Li Ni,Shur‐Jen Wang,2
+Li Ni,Peter D’Eustachio,2
+Li Ni,James P. Balhoff,2
+Li Ni,Suzi Aleksander,3
+Li Ni,Kalpana Karra,2
+Dmitry Sitnikov,Kim Rutherford,2
+Dmitry Sitnikov,Melinda R. Dwinell,2
+Dmitry Sitnikov,G. Thomas Hayman,2
+Dmitry Sitnikov,Mary L. Kaldunski,2
+Dmitry Sitnikov,Anne E. Kwitek,2
+Dmitry Sitnikov,Stanley J. F. Laulederkind,2
+Dmitry Sitnikov,Marek Tutaj,2
+Dmitry Sitnikov,Mahima Vedi,2
+Dmitry Sitnikov,Shur‐Jen Wang,2
+Dmitry Sitnikov,Peter D’Eustachio,2
+Dmitry Sitnikov,James P. Balhoff,2
+Dmitry Sitnikov,Suzi Aleksander,3
+Dmitry Sitnikov,Kalpana Karra,2
+Kim Rutherford,Melinda R. Dwinell,2
+Kim Rutherford,G. Thomas Hayman,2
+Kim Rutherford,Mary L. Kaldunski,2
+Kim Rutherford,Anne E. Kwitek,2
+Kim Rutherford,Stanley J. F. Laulederkind,2
+Kim Rutherford,Marek Tutaj,2
+Kim Rutherford,Mahima Vedi,2
+Kim Rutherford,Shur‐Jen Wang,2
+Kim Rutherford,Peter D’Eustachio,2
+Kim Rutherford,James P. Balhoff,2
+Kim Rutherford,Suzi Aleksander,3
+Kim Rutherford,Kalpana Karra,2
+Melinda R. Dwinell,G. Thomas Hayman,2
+Melinda R. Dwinell,Mary L. Kaldunski,2
+Melinda R. Dwinell,Anne E. Kwitek,2
+Melinda R. Dwinell,Stanley J. F. Laulederkind,2
+Melinda R. Dwinell,Marek Tutaj,2
+Melinda R. Dwinell,Mahima Vedi,2
+Melinda R. Dwinell,Shur‐Jen Wang,2
+Melinda R. Dwinell,Peter D’Eustachio,2
+Melinda R. Dwinell,James P. Balhoff,2
+Melinda R. Dwinell,Suzi Aleksander,3
+Melinda R. Dwinell,Kalpana Karra,2
+G. Thomas Hayman,Mary L. Kaldunski,2
+G. Thomas Hayman,Anne E. Kwitek,2
+G. Thomas Hayman,Stanley J. F. Laulederkind,2
+G. Thomas Hayman,Marek Tutaj,2
+G. Thomas Hayman,Mahima Vedi,2
+G. Thomas Hayman,Shur‐Jen Wang,2
+G. Thomas Hayman,Peter D’Eustachio,2
+G. Thomas Hayman,James P. Balhoff,2
+G. Thomas Hayman,Suzi Aleksander,3
+G. Thomas Hayman,Kalpana Karra,2
+Mary L. Kaldunski,Anne E. Kwitek,2
+Mary L. Kaldunski,Stanley J. F. Laulederkind,2
+Mary L. Kaldunski,Marek Tutaj,2
+Mary L. Kaldunski,Mahima Vedi,2
+Mary L. Kaldunski,Shur‐Jen Wang,2
+Mary L. Kaldunski,Peter D’Eustachio,2
+Mary L. Kaldunski,James P. Balhoff,2
+Mary L. Kaldunski,Suzi Aleksander,3
+Mary L. Kaldunski,Kalpana Karra,2
+Anne E. Kwitek,Stanley J. F. Laulederkind,2
+Anne E. Kwitek,Marek Tutaj,2
+Anne E. Kwitek,Mahima Vedi,2
+Anne E. Kwitek,Shur‐Jen Wang,2
+Anne E. Kwitek,Peter D’Eustachio,2
+Anne E. Kwitek,James P. Balhoff,2
+Anne E. Kwitek,Suzi Aleksander,3
+Anne E. Kwitek,Kalpana Karra,2
+Stanley J. F. Laulederkind,Marek Tutaj,2
+Stanley J. F. Laulederkind,Mahima Vedi,2
+Stanley J. F. Laulederkind,Shur‐Jen Wang,2
+Stanley J. F. Laulederkind,Peter D’Eustachio,2
+Stanley J. F. Laulederkind,James P. Balhoff,2
+Stanley J. F. Laulederkind,Suzi Aleksander,3
+Stanley J. F. Laulederkind,Kalpana Karra,2
+Marek Tutaj,Mahima Vedi,2
+Marek Tutaj,Shur‐Jen Wang,2
+Marek Tutaj,Peter D’Eustachio,2
+Marek Tutaj,James P. Balhoff,2
+Marek Tutaj,Suzi Aleksander,3
+Marek Tutaj,Kalpana Karra,2
+Mahima Vedi,Shur‐Jen Wang,2
+Mahima Vedi,Peter D’Eustachio,2
+Mahima Vedi,James P. Balhoff,2
+Mahima Vedi,Suzi Aleksander,3
+Mahima Vedi,Kalpana Karra,2
+Shur‐Jen Wang,Peter D’Eustachio,2
+Shur‐Jen Wang,James P. Balhoff,2
+Shur‐Jen Wang,Suzi Aleksander,3
+Shur‐Jen Wang,Kalpana Karra,2
+Peter D’Eustachio,James P. Balhoff,2
+Peter D’Eustachio,Suzi Aleksander,3
+Peter D’Eustachio,Kalpana Karra,2
+James P. Balhoff,Suzi Aleksander,3
+James P. Balhoff,Kalpana Karra,2
+Suzi Aleksander,Kalpana Karra,3
+Suzi Aleksander,Raymond Lee,2
+Suzi Aleksander,Sierra Moxon,2
+Suzi Aleksander,Anushya Muruganugan,2
+Suzi Aleksander,Kimberly Van Auken,2
+Suzi Aleksander,Jolene Ramsey,2
+Suzi Aleksander,Maria Cristina Aspromonte,2
+Suzi Aleksander,María Victoria Nugnes,2
+Suzi Aleksander,Federica Quaglia,2
+Suzi Aleksander,Silvio C. E. Tosatto,2
+Suzi Aleksander,Saadullah H. Ahmed,2
+Suzi Aleksander,Praoparn Asanitthong,2
+Suzi Aleksander,Diana Luna Buitrago,2
+Suzi Aleksander,Meltem N Erdol,2
+Suzi Aleksander,Matthew Gage,2
+Suzi Aleksander,Mohamed Ali Kadhum,2
+Suzi Aleksander,Kan Yan Chloe Li,2
+Suzi Aleksander,Miao Long,2
+Suzi Aleksander,Aleksandra Michalak,2
+Suzi Aleksander,Angeline Pesala,2
+Suzi Aleksander,Armalya Pritazahra,2
+Suzi Aleksander,Snezhana Oliferenko,2
+Suzi Aleksander,Lori E Corbani,2
+Suzi Aleksander,Cynthia L. Smith,2
+Suzi Aleksander,Alayne Cuzick,2
+Suzi Aleksander,James Seager,2
+Suzi Aleksander,Laurel Cooper,2
+Suzi Aleksander,Justin Elser,2
+Suzi Aleksander,Parul Gupta,2
+Suzi Aleksander,Sushma Naithani,2
+Suzi Aleksander,Manuel Lera-Ramírez,2
+Suzi Aleksander,Jeffrey L De Pons,2
+Suzi Aleksander,Stuart R. Miyasato,2
+Suzi Aleksander,Marek S. Skrzypek,2
+Suzi Aleksander,Shuai Weng,2
+Suzi Aleksander,Edith D. Wong,2
+Suzi Aleksander,Erika Bakker,2
+Alex Pentland,Nathan Eagle,2
+Wei Ren,Randal W. Beard,2
+Wei Ren,Ella Atkins,2
+Randal W. Beard,Ella Atkins,2
+Brett Didier,Theresa L. Windus,2
+Jianfang Liu,Vésteinn Thórsson,2
+Tara M. Lichtenberg,Vésteinn Thórsson,2
+Katherine A. Hoadley,Vésteinn Thórsson,2
+Laila Poisson,Vésteinn Thórsson,2
+Alexander J. Lazar,Vésteinn Thórsson,2
+Andrew D. Cherniack,Vésteinn Thórsson,2
+Albert J. Kovatich,Vésteinn Thórsson,2
+Christopher C. Benz,Vésteinn Thórsson,2
+Douglas A. Levine,Vésteinn Thórsson,2
+Adrian V. Lee,Vésteinn Thórsson,2
+Larsson Omberg,Vésteinn Thórsson,2
+Larsson Omberg,Gordon B. Mills,2
+Larsson Omberg,Debyani Chakravarty,2
+Larsson Omberg,Zachary Heins,2
+Larsson Omberg,Ritika Kundra,2
+Larsson Omberg,Marc Ladanyi,2
+Denise M. Wolf,Vésteinn Thórsson,2
+Craig D. Shriver,Vésteinn Thórsson,2
+Vésteinn Thórsson,Hai Hu,2
+Vésteinn Thórsson,Rory Johnson,2
+Vésteinn Thórsson,John A. Demchok,2
+Vésteinn Thórsson,Ina Felau,2
+Vésteinn Thórsson,Melpomeni Kasapi,2
+Vésteinn Thórsson,Martin L. Ferguson,2
+Vésteinn Thórsson,Carolyn M. Hutter,2
+Vésteinn Thórsson,Heidi J. Sofia,2
+Vésteinn Thórsson,Roy Tarnuzzer,2
+Vésteinn Thórsson,Linghua Wang,2
+Vésteinn Thórsson,Liming Yang,2
+Vésteinn Thórsson,Jean C. Zenklusen,2
+Vésteinn Thórsson,Jiashan Zhang,2
+Vésteinn Thórsson,Sudha Chudamani,2
+Vésteinn Thórsson,Jia Liu,2
+Vésteinn Thórsson,Laxmi Lolla,2
+Vésteinn Thórsson,Rashi Naresh,2
+Vésteinn Thórsson,Todd Pihl,2
+Vésteinn Thórsson,Qiang Sun,2
+Vésteinn Thórsson,Yunhu Wan,2
+Vésteinn Thórsson,Ye Wu,2
+Vésteinn Thórsson,Juok Cho,2
+Vésteinn Thórsson,Timothy Defreitas,2
+Vésteinn Thórsson,Scott Frazer,2
+Vésteinn Thórsson,Nils Gehlenborg,2
+Vésteinn Thórsson,David I. Heiman,2
+Vésteinn Thórsson,Jaegil Kim,2
+Vésteinn Thórsson,Michael S. Lawrence,2
+Vésteinn Thórsson,Pei Lin,2
+Vésteinn Thórsson,Thomas J. Giordano,2
+Vésteinn Thórsson,Michael S. Noble,2
+Vésteinn Thórsson,Gordon Saksena,2
+Vésteinn Thórsson,Doug Voet,2
+Vésteinn Thórsson,Hailei Zhang,2
+Vésteinn Thórsson,Brady Bernard,2
+Vésteinn Thórsson,Nyasha Chambwe,2
+Vésteinn Thórsson,Varsha Dhankani,2
+Vésteinn Thórsson,Theo Knijnenburg,2
+Vésteinn Thórsson,Roger Kramer,2
+Vésteinn Thórsson,Kalle Leinonen,2
+Vésteinn Thórsson,Yuexin Liu,2
+Vésteinn Thórsson,Michael B. Miller,2
+Vésteinn Thórsson,Sheila M. Reynolds,2
+Vésteinn Thórsson,Ilya Shmulevich,2
+Vésteinn Thórsson,Wei Zhang,2
+Vésteinn Thórsson,Rehan Akbani,2
+Vésteinn Thórsson,Bradley M. Broom,2
+Vésteinn Thórsson,Apurva M. Hegde,2
+Vésteinn Thórsson,Zhenlin Ju,2
+Vésteinn Thórsson,Rupa S. Kanchi,2
+Vésteinn Thórsson,Anil Korkut,2
+Vésteinn Thórsson,Jun Li,2
+Vésteinn Thórsson,Han Liang,2
+Vésteinn Thórsson,Shiyun Ling,2
+Vésteinn Thórsson,Wenbin Liu,2
+Vésteinn Thórsson,Yiling Lu,2
+Vésteinn Thórsson,Gordon B. Mills,2
+Vésteinn Thórsson,Kwok-Shing Ng,2
+Vésteinn Thórsson,Arvind Rao,2
+Vésteinn Thórsson,Michael Ryan,2
+Vésteinn Thórsson,Jing Wang,2
+Vésteinn Thórsson,John N. Weinstein,2
+Vésteinn Thórsson,Jiexin Zhang,2
+Vésteinn Thórsson,Adam Abeshouse,2
+Vésteinn Thórsson,Joshua Armenia,2
+Vésteinn Thórsson,Debyani Chakravarty,2
+Vésteinn Thórsson,Walid K. Chatila,2
+Vésteinn Thórsson,Ino de Bruijn,2
+Vésteinn Thórsson,Galen F. Gao,2
+Vésteinn Thórsson,Benjamin E. Gross,2
+Vésteinn Thórsson,Zachary Heins,2
+Vésteinn Thórsson,Ritika Kundra,2
+Vésteinn Thórsson,Konnor La,2
+Vésteinn Thórsson,Marc Ladanyi,2
+Vésteinn Thórsson,Augustin Luna,2
+Vésteinn Thórsson,Moriah G. Nissan,2
+Vésteinn Thórsson,Angelica Ochoa,2
+Vésteinn Thórsson,Sarah Phillips,2
+Vésteinn Thórsson,Ed Reznik,2
+Vésteinn Thórsson,Francisco Sánchez-Vega,2
+Vésteinn Thórsson,Robert E. Sheridan,2
+Gordon B. Mills,Debyani Chakravarty,2
+Gordon B. Mills,Zachary Heins,2
+Gordon B. Mills,Ritika Kundra,2
+Gordon B. Mills,Marc Ladanyi,2
+Debyani Chakravarty,Zachary Heins,2
+Debyani Chakravarty,Ritika Kundra,2
+Debyani Chakravarty,Marc Ladanyi,2
+Zachary Heins,Ritika Kundra,2
+Zachary Heins,Marc Ladanyi,2
+Ritika Kundra,Marc Ladanyi,2
+Jon Kleinberg,Lars Bäckström,2
+Jon Kleinberg,Jure Leskovec,2
+Volker Grimm,Uta Berger,3
+Volker Grimm,Jarl Giske,2
+Volker Grimm,Wolf M. Mooij,2
+Volker Grimm,Steven F. Railsback,4
+Volker Grimm,Donald L. DeAngelis,3
+Uta Berger,Jarl Giske,2
+Uta Berger,Wolf M. Mooij,2
+Uta Berger,Steven F. Railsback,3
+Uta Berger,Donald L. DeAngelis,3
+Jarl Giske,Steven F. Railsback,2
+Jarl Giske,Donald L. DeAngelis,2
+Wolf M. Mooij,Steven F. Railsback,2
+Wolf M. Mooij,Donald L. DeAngelis,2
+Steven F. Railsback,Donald L. DeAngelis,3
+Ravi Kumar,Prabhakar Raghavan,2
+Ravi Kumar,Sridhar Rajagopalan,2
+Ravi Kumar,Andrew Tomkins,2
+Prabhakar Raghavan,Sridhar Rajagopalan,2
+Prabhakar Raghavan,Andrew Tomkins,2
+Sridhar Rajagopalan,Andrew Tomkins,2
+Andrew Parnell,Richard Inger,2
+Andrew Parnell,Stuart Bearhop,2
+Andrew Parnell,Andrew L. Jackson,2
+Richard Inger,Stuart Bearhop,2
+Richard Inger,Andrew L. Jackson,2
+Stuart Bearhop,Andrew L. Jackson,2
+Johannes B. Reitsma,Gary S. Collins,2
+Henrica C. W. de Vet,Caroline B. Terwee,2
+Henrica C. W. de Vet,Lidwine B. Mokkink,2
+Henrica C. W. de Vet,Dirk L. Knol,2
+Clemens Meyer,Olaf Ronneberger,2
+Clemens Meyer,Bernardino Romera‐Paredes,2
+Clemens Meyer,Stanislav Nikolov,2
+Clemens Meyer,Demis Hassabis,2
+Olaf Ronneberger,Bernardino Romera‐Paredes,2
+Olaf Ronneberger,Stanislav Nikolov,2
+Olaf Ronneberger,Demis Hassabis,2
+Bernardino Romera‐Paredes,Stanislav Nikolov,2
+Bernardino Romera‐Paredes,Demis Hassabis,2
+Stanislav Nikolov,Demis Hassabis,2
+Suhang Wang,Jiliang Tang,2
+Suhang Wang,Huan Liu,2
+Jiliang Tang,Huan Liu,2
+Rui Wang,Florian Reisinger,2
+Rui Wang,Daniel Ríos,2
+Rui Wang,José A. Dianes,2
+Rui Wang,Henning Hermjakob,2
+Florian Reisinger,Daniel Ríos,2
+Florian Reisinger,José A. Dianes,2
+Florian Reisinger,Henning Hermjakob,2
+Daniel Ríos,José A. Dianes,2
+Daniel Ríos,Henning Hermjakob,2
+José A. Dianes,Henning Hermjakob,2
+MacKenzie,Podsakoff,2
+David A. Hensher,John M. Rose,3
+David A. Hensher,William H. Greene,3
+John M. Rose,William H. Greene,3
+Luis M. Vaquero,Luis Rodero‐Merino,2
+Daniel R. Zerbino,Wasiu Akanni,2
+Daniel R. Zerbino,M Ridwan Amode,4
+Daniel R. Zerbino,Konstantinos Billis,4
+Daniel R. Zerbino,Carla Cummins,2
+Daniel R. Zerbino,Carlos García Girón,4
+Daniel R. Zerbino,Laurent Gil,4
+Daniel R. Zerbino,Leo I. Gordon,4
+Daniel R. Zerbino,Thibaut Hourlier,4
+Daniel R. Zerbino,Sophie H. Janacek,3
+Daniel R. Zerbino,Thomas Juettemann,4
+Daniel R. Zerbino,Ilias Lavidas,2
+Daniel R. Zerbino,Thomas Maurel,4
+Daniel R. Zerbino,William McLaren,4
+Daniel R. Zerbino,Daniel N. Murphy,4
+Daniel R. Zerbino,Michael Nuhn,2
+Daniel R. Zerbino,Anne Parker,4
+Daniel R. Zerbino,Mateus Patrício,3
+Daniel R. Zerbino,Dan Sheppard,4
+Daniel R. Zerbino,Kieron Taylor,4
+Daniel R. Zerbino,Anja Thormann,4
+Daniel R. Zerbino,Alessandro Vullo,4
+Daniel R. Zerbino,Amonida Zadissa,4
+Daniel R. Zerbino,Sarah Hunt,4
+Daniel R. Zerbino,Fergal J. Martin,4
+Daniel R. Zerbino,Matthieu Muffato,4
+Daniel R. Zerbino,Emily Perry,3
+Daniel R. Zerbino,Magali Ruffier,4
+Daniel R. Zerbino,Bronwen Aken,4
+Daniel R. Zerbino,Andrew Yates,4
+Daniel R. Zerbino,Denise Carvalho‐Silva,3
+Daniel R. Zerbino,Peter Clapham,3
+Daniel R. Zerbino,Stephen Fitzgerald,3
+Daniel R. Zerbino,Nathan Johnson,3
+Daniel R. Zerbino,Stephen Keenan,3
+Daniel R. Zerbino,Rishi Nag,3
+Daniel R. Zerbino,Miguel Pignatelli,3
+Daniel R. Zerbino,Steven P. Wilder,3
+Daniel R. Zerbino,Jennifer Harrow,3
+Daniel R. Zerbino,Giulietta Spudich,3
+Daniel R. Zerbino,Kathryn Beal,2
+Daniel R. Zerbino,Simon Brent,2
+Daniel R. Zerbino,Guy Coates,2
+Daniel R. Zerbino,Andreas Kähäri,2
+Daniel R. Zerbino,Bert Overduin,2
+Daniel R. Zerbino,Rhoda Kinsella,2
+Daniel R. Zerbino,Stephen M. J. Searle,2
+Wasiu Akanni,M Ridwan Amode,2
+Wasiu Akanni,Konstantinos Billis,2
+Wasiu Akanni,Carla Cummins,2
+Wasiu Akanni,Carlos García Girón,2
+Wasiu Akanni,Laurent Gil,2
+Wasiu Akanni,Leo I. Gordon,2
+Wasiu Akanni,Thibaut Hourlier,2
+Wasiu Akanni,Sophie H. Janacek,2
+Wasiu Akanni,Thomas Juettemann,2
+Wasiu Akanni,Ilias Lavidas,2
+Wasiu Akanni,Thomas Maurel,2
+Wasiu Akanni,William McLaren,2
+Wasiu Akanni,Daniel N. Murphy,2
+Wasiu Akanni,Michael Nuhn,2
+Wasiu Akanni,Anne Parker,2
+Wasiu Akanni,Mateus Patrício,2
+Wasiu Akanni,Dan Sheppard,2
+Wasiu Akanni,Kieron Taylor,2
+Wasiu Akanni,Anja Thormann,2
+Wasiu Akanni,Alessandro Vullo,2
+Wasiu Akanni,Amonida Zadissa,2
+Wasiu Akanni,Sarah Hunt,2
+Wasiu Akanni,Fergal J. Martin,2
+Wasiu Akanni,Matthieu Muffato,2
+Wasiu Akanni,Emily Perry,2
+Wasiu Akanni,Magali Ruffier,2
+Wasiu Akanni,Bronwen Aken,2
+Wasiu Akanni,Andrew Yates,2
+M Ridwan Amode,Konstantinos Billis,4
+M Ridwan Amode,Carla Cummins,2
+M Ridwan Amode,Carlos García Girón,4
+M Ridwan Amode,Laurent Gil,4
+M Ridwan Amode,Leo I. Gordon,4
+M Ridwan Amode,Thibaut Hourlier,4
+M Ridwan Amode,Sophie H. Janacek,3
+M Ridwan Amode,Thomas Juettemann,4
+M Ridwan Amode,Ilias Lavidas,2
+M Ridwan Amode,Thomas Maurel,4
+M Ridwan Amode,William McLaren,4
+M Ridwan Amode,Daniel N. Murphy,4
+M Ridwan Amode,Michael Nuhn,2
+M Ridwan Amode,Anne Parker,4
+M Ridwan Amode,Mateus Patrício,3
+M Ridwan Amode,Dan Sheppard,4
+M Ridwan Amode,Kieron Taylor,4
+M Ridwan Amode,Anja Thormann,4
+M Ridwan Amode,Alessandro Vullo,4
+M Ridwan Amode,Amonida Zadissa,4
+M Ridwan Amode,Sarah Hunt,4
+M Ridwan Amode,Fergal J. Martin,4
+M Ridwan Amode,Matthieu Muffato,4
+M Ridwan Amode,Emily Perry,3
+M Ridwan Amode,Magali Ruffier,4
+M Ridwan Amode,Bronwen Aken,4
+M Ridwan Amode,Andrew Yates,4
+M Ridwan Amode,Denise Carvalho‐Silva,3
+M Ridwan Amode,Peter Clapham,3
+M Ridwan Amode,Stephen Fitzgerald,3
+M Ridwan Amode,Nathan Johnson,3
+M Ridwan Amode,Stephen Keenan,3
+M Ridwan Amode,Rishi Nag,3
+M Ridwan Amode,Miguel Pignatelli,3
+M Ridwan Amode,Steven P. Wilder,3
+M Ridwan Amode,Jennifer Harrow,3
+M Ridwan Amode,Giulietta Spudich,3
+M Ridwan Amode,Kathryn Beal,2
+M Ridwan Amode,Simon Brent,2
+M Ridwan Amode,Guy Coates,2
+M Ridwan Amode,Andreas Kähäri,2
+M Ridwan Amode,Bert Overduin,2
+M Ridwan Amode,Rhoda Kinsella,2
+M Ridwan Amode,Stephen M. J. Searle,2
+Konstantinos Billis,Carla Cummins,2
+Konstantinos Billis,Carlos García Girón,4
+Konstantinos Billis,Laurent Gil,4
+Konstantinos Billis,Leo I. Gordon,4
+Konstantinos Billis,Thibaut Hourlier,4
+Konstantinos Billis,Sophie H. Janacek,3
+Konstantinos Billis,Thomas Juettemann,4
+Konstantinos Billis,Ilias Lavidas,2
+Konstantinos Billis,Thomas Maurel,4
+Konstantinos Billis,William McLaren,4
+Konstantinos Billis,Daniel N. Murphy,4
+Konstantinos Billis,Michael Nuhn,2
+Konstantinos Billis,Anne Parker,4
+Konstantinos Billis,Mateus Patrício,3
+Konstantinos Billis,Dan Sheppard,4
+Konstantinos Billis,Kieron Taylor,4
+Konstantinos Billis,Anja Thormann,4
+Konstantinos Billis,Alessandro Vullo,4
+Konstantinos Billis,Amonida Zadissa,4
+Konstantinos Billis,Sarah Hunt,4
+Konstantinos Billis,Fergal J. Martin,4
+Konstantinos Billis,Matthieu Muffato,4
+Konstantinos Billis,Emily Perry,3
+Konstantinos Billis,Magali Ruffier,4
+Konstantinos Billis,Bronwen Aken,4
+Konstantinos Billis,Andrew Yates,4
+Konstantinos Billis,Denise Carvalho‐Silva,3
+Konstantinos Billis,Peter Clapham,3
+Konstantinos Billis,Stephen Fitzgerald,3
+Konstantinos Billis,Nathan Johnson,3
+Konstantinos Billis,Stephen Keenan,3
+Konstantinos Billis,Rishi Nag,3
+Konstantinos Billis,Miguel Pignatelli,3
+Konstantinos Billis,Steven P. Wilder,3
+Konstantinos Billis,Jennifer Harrow,3
+Konstantinos Billis,Giulietta Spudich,3
+Konstantinos Billis,Kathryn Beal,2
+Konstantinos Billis,Simon Brent,2
+Konstantinos Billis,Guy Coates,2
+Konstantinos Billis,Andreas Kähäri,2
+Konstantinos Billis,Bert Overduin,2
+Konstantinos Billis,Rhoda Kinsella,2
+Konstantinos Billis,Stephen M. J. Searle,2
+Carla Cummins,Carlos García Girón,2
+Carla Cummins,Laurent Gil,2
+Carla Cummins,Leo I. Gordon,2
+Carla Cummins,Thibaut Hourlier,2
+Carla Cummins,Sophie H. Janacek,2
+Carla Cummins,Thomas Juettemann,2
+Carla Cummins,Ilias Lavidas,2
+Carla Cummins,Thomas Maurel,2
+Carla Cummins,William McLaren,2
+Carla Cummins,Daniel N. Murphy,2
+Carla Cummins,Michael Nuhn,2
+Carla Cummins,Anne Parker,2
+Carla Cummins,Mateus Patrício,2
+Carla Cummins,Dan Sheppard,2
+Carla Cummins,Kieron Taylor,2
+Carla Cummins,Anja Thormann,2
+Carla Cummins,Alessandro Vullo,2
+Carla Cummins,Amonida Zadissa,2
+Carla Cummins,Sarah Hunt,2
+Carla Cummins,Fergal J. Martin,2
+Carla Cummins,Matthieu Muffato,2
+Carla Cummins,Emily Perry,2
+Carla Cummins,Magali Ruffier,2
+Carla Cummins,Bronwen Aken,2
+Carla Cummins,Andrew Yates,2
+Carlos García Girón,Laurent Gil,4
+Carlos García Girón,Leo I. Gordon,4
+Carlos García Girón,Thibaut Hourlier,4
+Carlos García Girón,Sophie H. Janacek,3
+Carlos García Girón,Thomas Juettemann,4
+Carlos García Girón,Ilias Lavidas,2
+Carlos García Girón,Thomas Maurel,4
+Carlos García Girón,William McLaren,4
+Carlos García Girón,Daniel N. Murphy,4
+Carlos García Girón,Michael Nuhn,2
+Carlos García Girón,Anne Parker,4
+Carlos García Girón,Mateus Patrício,3
+Carlos García Girón,Dan Sheppard,4
+Carlos García Girón,Kieron Taylor,4
+Carlos García Girón,Anja Thormann,4
+Carlos García Girón,Alessandro Vullo,4
+Carlos García Girón,Amonida Zadissa,4
+Carlos García Girón,Sarah Hunt,4
+Carlos García Girón,Fergal J. Martin,4
+Carlos García Girón,Matthieu Muffato,4
+Carlos García Girón,Emily Perry,3
+Carlos García Girón,Magali Ruffier,4
+Carlos García Girón,Bronwen Aken,4
+Carlos García Girón,Andrew Yates,4
+Carlos García Girón,Denise Carvalho‐Silva,3
+Carlos García Girón,Peter Clapham,3
+Carlos García Girón,Stephen Fitzgerald,3
+Carlos García Girón,Nathan Johnson,3
+Carlos García Girón,Stephen Keenan,3
+Carlos García Girón,Rishi Nag,3
+Carlos García Girón,Miguel Pignatelli,3
+Carlos García Girón,Steven P. Wilder,3
+Carlos García Girón,Jennifer Harrow,3
+Carlos García Girón,Giulietta Spudich,3
+Carlos García Girón,Kathryn Beal,2
+Carlos García Girón,Simon Brent,2
+Carlos García Girón,Guy Coates,2
+Carlos García Girón,Andreas Kähäri,2
+Carlos García Girón,Bert Overduin,2
+Carlos García Girón,Rhoda Kinsella,2
+Carlos García Girón,Stephen M. J. Searle,2
+Laurent Gil,Leo I. Gordon,4
+Laurent Gil,Thibaut Hourlier,4
+Laurent Gil,Sophie H. Janacek,3
+Laurent Gil,Thomas Juettemann,4
+Laurent Gil,Ilias Lavidas,2
+Laurent Gil,Thomas Maurel,4
+Laurent Gil,William McLaren,4
+Laurent Gil,Daniel N. Murphy,4
+Laurent Gil,Michael Nuhn,2
+Laurent Gil,Anne Parker,4
+Laurent Gil,Mateus Patrício,3
+Laurent Gil,Dan Sheppard,4
+Laurent Gil,Kieron Taylor,4
+Laurent Gil,Anja Thormann,4
+Laurent Gil,Alessandro Vullo,4
+Laurent Gil,Amonida Zadissa,4
+Laurent Gil,Sarah Hunt,4
+Laurent Gil,Fergal J. Martin,4
+Laurent Gil,Matthieu Muffato,4
+Laurent Gil,Emily Perry,3
+Laurent Gil,Magali Ruffier,4
+Laurent Gil,Bronwen Aken,4
+Laurent Gil,Andrew Yates,4
+Laurent Gil,Zoë May Pendlington,2
+Laurent Gil,Denise Carvalho‐Silva,3
+Laurent Gil,Peter Clapham,3
+Laurent Gil,Stephen Fitzgerald,3
+Laurent Gil,Nathan Johnson,3
+Laurent Gil,Stephen Keenan,3
+Laurent Gil,Rishi Nag,3
+Laurent Gil,Miguel Pignatelli,3
+Laurent Gil,Steven P. Wilder,3
+Laurent Gil,Jennifer Harrow,3
+Laurent Gil,Giulietta Spudich,3
+Laurent Gil,Kathryn Beal,2
+Laurent Gil,Simon Brent,2
+Laurent Gil,Guy Coates,2
+Laurent Gil,Andreas Kähäri,2
+Laurent Gil,Bert Overduin,2
+Laurent Gil,Rhoda Kinsella,2
+Laurent Gil,Stephen M. J. Searle,2
+Leo I. Gordon,Thibaut Hourlier,4
+Leo I. Gordon,Sophie H. Janacek,3
+Leo I. Gordon,Thomas Juettemann,4
+Leo I. Gordon,Ilias Lavidas,2
+Leo I. Gordon,Thomas Maurel,4
+Leo I. Gordon,William McLaren,4
+Leo I. Gordon,Daniel N. Murphy,4
+Leo I. Gordon,Michael Nuhn,2
+Leo I. Gordon,Anne Parker,4
+Leo I. Gordon,Mateus Patrício,3
+Leo I. Gordon,Dan Sheppard,4
+Leo I. Gordon,Kieron Taylor,4
+Leo I. Gordon,Anja Thormann,4
+Leo I. Gordon,Alessandro Vullo,4
+Leo I. Gordon,Amonida Zadissa,4
+Leo I. Gordon,Sarah Hunt,4
+Leo I. Gordon,Fergal J. Martin,4
+Leo I. Gordon,Matthieu Muffato,4
+Leo I. Gordon,Emily Perry,3
+Leo I. Gordon,Magali Ruffier,4
+Leo I. Gordon,Bronwen Aken,4
+Leo I. Gordon,Andrew Yates,4
+Leo I. Gordon,Denise Carvalho‐Silva,3
+Leo I. Gordon,Peter Clapham,3
+Leo I. Gordon,Stephen Fitzgerald,3
+Leo I. Gordon,Nathan Johnson,3
+Leo I. Gordon,Stephen Keenan,3
+Leo I. Gordon,Rishi Nag,3
+Leo I. Gordon,Miguel Pignatelli,3
+Leo I. Gordon,Steven P. Wilder,3
+Leo I. Gordon,Jennifer Harrow,3
+Leo I. Gordon,Giulietta Spudich,3
+Leo I. Gordon,Kathryn Beal,2
+Leo I. Gordon,Simon Brent,2
+Leo I. Gordon,Guy Coates,2
+Leo I. Gordon,Andreas Kähäri,2
+Leo I. Gordon,Bert Overduin,2
+Leo I. Gordon,Rhoda Kinsella,2
+Leo I. Gordon,Stephen M. J. Searle,2
+Thibaut Hourlier,Sophie H. Janacek,3
+Thibaut Hourlier,Thomas Juettemann,4
+Thibaut Hourlier,Ilias Lavidas,2
+Thibaut Hourlier,Thomas Maurel,4
+Thibaut Hourlier,William McLaren,4
+Thibaut Hourlier,Daniel N. Murphy,4
+Thibaut Hourlier,Michael Nuhn,2
+Thibaut Hourlier,Anne Parker,4
+Thibaut Hourlier,Mateus Patrício,3
+Thibaut Hourlier,Dan Sheppard,4
+Thibaut Hourlier,Kieron Taylor,4
+Thibaut Hourlier,Anja Thormann,4
+Thibaut Hourlier,Alessandro Vullo,4
+Thibaut Hourlier,Amonida Zadissa,4
+Thibaut Hourlier,Sarah Hunt,4
+Thibaut Hourlier,Fergal J. Martin,4
+Thibaut Hourlier,Matthieu Muffato,4
+Thibaut Hourlier,Emily Perry,3
+Thibaut Hourlier,Magali Ruffier,4
+Thibaut Hourlier,Bronwen Aken,4
+Thibaut Hourlier,Andrew Yates,4
+Thibaut Hourlier,Denise Carvalho‐Silva,3
+Thibaut Hourlier,Peter Clapham,3
+Thibaut Hourlier,Stephen Fitzgerald,3
+Thibaut Hourlier,Nathan Johnson,3
+Thibaut Hourlier,Stephen Keenan,3
+Thibaut Hourlier,Rishi Nag,3
+Thibaut Hourlier,Miguel Pignatelli,3
+Thibaut Hourlier,Steven P. Wilder,3
+Thibaut Hourlier,Jennifer Harrow,3
+Thibaut Hourlier,Giulietta Spudich,3
+Thibaut Hourlier,Kathryn Beal,2
+Thibaut Hourlier,Simon Brent,2
+Thibaut Hourlier,Guy Coates,2
+Thibaut Hourlier,Andreas Kähäri,2
+Thibaut Hourlier,Bert Overduin,2
+Thibaut Hourlier,Rhoda Kinsella,2
+Thibaut Hourlier,Stephen M. J. Searle,2
+Sophie H. Janacek,Thomas Juettemann,3
+Sophie H. Janacek,Ilias Lavidas,2
+Sophie H. Janacek,Thomas Maurel,3
+Sophie H. Janacek,William McLaren,3
+Sophie H. Janacek,Daniel N. Murphy,3
+Sophie H. Janacek,Michael Nuhn,2
+Sophie H. Janacek,Anne Parker,3
+Sophie H. Janacek,Mateus Patrício,3
+Sophie H. Janacek,Dan Sheppard,3
+Sophie H. Janacek,Kieron Taylor,3
+Sophie H. Janacek,Anja Thormann,3
+Sophie H. Janacek,Alessandro Vullo,3
+Sophie H. Janacek,Amonida Zadissa,3
+Sophie H. Janacek,Sarah Hunt,3
+Sophie H. Janacek,Fergal J. Martin,3
+Sophie H. Janacek,Matthieu Muffato,3
+Sophie H. Janacek,Emily Perry,3
+Sophie H. Janacek,Magali Ruffier,3
+Sophie H. Janacek,Bronwen Aken,3
+Sophie H. Janacek,Andrew Yates,3
+Sophie H. Janacek,Denise Carvalho‐Silva,2
+Sophie H. Janacek,Peter Clapham,2
+Sophie H. Janacek,Stephen Fitzgerald,2
+Sophie H. Janacek,Nathan Johnson,2
+Sophie H. Janacek,Stephen Keenan,2
+Sophie H. Janacek,Rishi Nag,2
+Sophie H. Janacek,Miguel Pignatelli,2
+Sophie H. Janacek,Steven P. Wilder,2
+Sophie H. Janacek,Jennifer Harrow,2
+Sophie H. Janacek,Giulietta Spudich,2
+Thomas Juettemann,Ilias Lavidas,2
+Thomas Juettemann,Thomas Maurel,4
+Thomas Juettemann,William McLaren,4
+Thomas Juettemann,Daniel N. Murphy,4
+Thomas Juettemann,Michael Nuhn,2
+Thomas Juettemann,Anne Parker,4
+Thomas Juettemann,Mateus Patrício,3
+Thomas Juettemann,Dan Sheppard,4
+Thomas Juettemann,Kieron Taylor,4
+Thomas Juettemann,Anja Thormann,4
+Thomas Juettemann,Alessandro Vullo,4
+Thomas Juettemann,Amonida Zadissa,4
+Thomas Juettemann,Sarah Hunt,4
+Thomas Juettemann,Fergal J. Martin,4
+Thomas Juettemann,Matthieu Muffato,4
+Thomas Juettemann,Emily Perry,3
+Thomas Juettemann,Magali Ruffier,4
+Thomas Juettemann,Bronwen Aken,4
+Thomas Juettemann,Andrew Yates,4
+Thomas Juettemann,Denise Carvalho‐Silva,3
+Thomas Juettemann,Peter Clapham,3
+Thomas Juettemann,Stephen Fitzgerald,3
+Thomas Juettemann,Nathan Johnson,3
+Thomas Juettemann,Stephen Keenan,3
+Thomas Juettemann,Rishi Nag,3
+Thomas Juettemann,Miguel Pignatelli,3
+Thomas Juettemann,Steven P. Wilder,3
+Thomas Juettemann,Jennifer Harrow,3
+Thomas Juettemann,Giulietta Spudich,3
+Thomas Juettemann,Kathryn Beal,2
+Thomas Juettemann,Simon Brent,2
+Thomas Juettemann,Guy Coates,2
+Thomas Juettemann,Andreas Kähäri,2
+Thomas Juettemann,Bert Overduin,2
+Thomas Juettemann,Rhoda Kinsella,2
+Thomas Juettemann,Stephen M. J. Searle,2
+Ilias Lavidas,Thomas Maurel,2
+Ilias Lavidas,William McLaren,2
+Ilias Lavidas,Daniel N. Murphy,2
+Ilias Lavidas,Michael Nuhn,2
+Ilias Lavidas,Anne Parker,2
+Ilias Lavidas,Mateus Patrício,2
+Ilias Lavidas,Dan Sheppard,2
+Ilias Lavidas,Kieron Taylor,2
+Ilias Lavidas,Anja Thormann,2
+Ilias Lavidas,Alessandro Vullo,2
+Ilias Lavidas,Amonida Zadissa,2
+Ilias Lavidas,Sarah Hunt,2
+Ilias Lavidas,Fergal J. Martin,2
+Ilias Lavidas,Matthieu Muffato,2
+Ilias Lavidas,Emily Perry,2
+Ilias Lavidas,Magali Ruffier,2
+Ilias Lavidas,Bronwen Aken,2
+Ilias Lavidas,Andrew Yates,2
+Thomas Maurel,William McLaren,4
+Thomas Maurel,Daniel N. Murphy,4
+Thomas Maurel,Michael Nuhn,2
+Thomas Maurel,Anne Parker,4
+Thomas Maurel,Mateus Patrício,3
+Thomas Maurel,Dan Sheppard,4
+Thomas Maurel,Kieron Taylor,4
+Thomas Maurel,Anja Thormann,4
+Thomas Maurel,Alessandro Vullo,4
+Thomas Maurel,Amonida Zadissa,4
+Thomas Maurel,Sarah Hunt,4
+Thomas Maurel,Fergal J. Martin,4
+Thomas Maurel,Matthieu Muffato,4
+Thomas Maurel,Emily Perry,3
+Thomas Maurel,Magali Ruffier,4
+Thomas Maurel,Bronwen Aken,4
+Thomas Maurel,Andrew Yates,4
+Thomas Maurel,Denise Carvalho‐Silva,3
+Thomas Maurel,Peter Clapham,3
+Thomas Maurel,Stephen Fitzgerald,3
+Thomas Maurel,Nathan Johnson,3
+Thomas Maurel,Stephen Keenan,3
+Thomas Maurel,Rishi Nag,3
+Thomas Maurel,Miguel Pignatelli,3
+Thomas Maurel,Steven P. Wilder,3
+Thomas Maurel,Jennifer Harrow,3
+Thomas Maurel,Giulietta Spudich,3
+Thomas Maurel,Kathryn Beal,2
+Thomas Maurel,Simon Brent,2
+Thomas Maurel,Guy Coates,2
+Thomas Maurel,Andreas Kähäri,2
+Thomas Maurel,Bert Overduin,2
+Thomas Maurel,Rhoda Kinsella,2
+Thomas Maurel,Stephen M. J. Searle,2
+William McLaren,Daniel N. Murphy,4
+William McLaren,Michael Nuhn,2
+William McLaren,Anne Parker,4
+William McLaren,Mateus Patrício,3
+William McLaren,Dan Sheppard,4
+William McLaren,Kieron Taylor,4
+William McLaren,Anja Thormann,4
+William McLaren,Alessandro Vullo,4
+William McLaren,Amonida Zadissa,4
+William McLaren,Sarah Hunt,4
+William McLaren,Fergal J. Martin,4
+William McLaren,Matthieu Muffato,4
+William McLaren,Emily Perry,3
+William McLaren,Magali Ruffier,4
+William McLaren,Bronwen Aken,4
+William McLaren,Andrew Yates,4
+William McLaren,Denise Carvalho‐Silva,3
+William McLaren,Peter Clapham,3
+William McLaren,Stephen Fitzgerald,3
+William McLaren,Nathan Johnson,3
+William McLaren,Stephen Keenan,3
+William McLaren,Rishi Nag,3
+William McLaren,Miguel Pignatelli,3
+William McLaren,Steven P. Wilder,3
+William McLaren,Jennifer Harrow,3
+William McLaren,Giulietta Spudich,3
+William McLaren,Kathryn Beal,2
+William McLaren,Simon Brent,2
+William McLaren,Guy Coates,2
+William McLaren,Andreas Kähäri,2
+William McLaren,Bert Overduin,2
+William McLaren,Rhoda Kinsella,2
+William McLaren,Stephen M. J. Searle,2
+Daniel N. Murphy,Michael Nuhn,2
+Daniel N. Murphy,Anne Parker,4
+Daniel N. Murphy,Mateus Patrício,3
+Daniel N. Murphy,Dan Sheppard,4
+Daniel N. Murphy,Kieron Taylor,4
+Daniel N. Murphy,Anja Thormann,4
+Daniel N. Murphy,Alessandro Vullo,4
+Daniel N. Murphy,Amonida Zadissa,4
+Daniel N. Murphy,Sarah Hunt,4
+Daniel N. Murphy,Fergal J. Martin,4
+Daniel N. Murphy,Matthieu Muffato,4
+Daniel N. Murphy,Emily Perry,3
+Daniel N. Murphy,Magali Ruffier,4
+Daniel N. Murphy,Bronwen Aken,4
+Daniel N. Murphy,Andrew Yates,4
+Daniel N. Murphy,Denise Carvalho‐Silva,3
+Daniel N. Murphy,Peter Clapham,3
+Daniel N. Murphy,Stephen Fitzgerald,3
+Daniel N. Murphy,Nathan Johnson,3
+Daniel N. Murphy,Stephen Keenan,3
+Daniel N. Murphy,Rishi Nag,3
+Daniel N. Murphy,Miguel Pignatelli,3
+Daniel N. Murphy,Steven P. Wilder,3
+Daniel N. Murphy,Jennifer Harrow,3
+Daniel N. Murphy,Giulietta Spudich,3
+Daniel N. Murphy,Kathryn Beal,2
+Daniel N. Murphy,Simon Brent,2
+Daniel N. Murphy,Guy Coates,2
+Daniel N. Murphy,Andreas Kähäri,2
+Daniel N. Murphy,Bert Overduin,2
+Daniel N. Murphy,Rhoda Kinsella,2
+Daniel N. Murphy,Stephen M. J. Searle,2
+Michael Nuhn,Anne Parker,2
+Michael Nuhn,Mateus Patrício,2
+Michael Nuhn,Dan Sheppard,2
+Michael Nuhn,Kieron Taylor,2
+Michael Nuhn,Anja Thormann,2
+Michael Nuhn,Alessandro Vullo,2
+Michael Nuhn,Amonida Zadissa,2
+Michael Nuhn,Sarah Hunt,2
+Michael Nuhn,Fergal J. Martin,2
+Michael Nuhn,Matthieu Muffato,2
+Michael Nuhn,Emily Perry,2
+Michael Nuhn,Magali Ruffier,2
+Michael Nuhn,Bronwen Aken,2
+Michael Nuhn,Andrew Yates,2
+Anne Parker,Mateus Patrício,3
+Anne Parker,Dan Sheppard,4
+Anne Parker,Kieron Taylor,4
+Anne Parker,Anja Thormann,4
+Anne Parker,Alessandro Vullo,4
+Anne Parker,Amonida Zadissa,4
+Anne Parker,Sarah Hunt,4
+Anne Parker,Fergal J. Martin,4
+Anne Parker,Matthieu Muffato,4
+Anne Parker,Emily Perry,3
+Anne Parker,Magali Ruffier,4
+Anne Parker,Bronwen Aken,4
+Anne Parker,Andrew Yates,4
+Anne Parker,Denise Carvalho‐Silva,3
+Anne Parker,Peter Clapham,3
+Anne Parker,Stephen Fitzgerald,3
+Anne Parker,Nathan Johnson,3
+Anne Parker,Stephen Keenan,3
+Anne Parker,Rishi Nag,3
+Anne Parker,Miguel Pignatelli,3
+Anne Parker,Steven P. Wilder,3
+Anne Parker,Jennifer Harrow,3
+Anne Parker,Giulietta Spudich,3
+Anne Parker,Kathryn Beal,2
+Anne Parker,Simon Brent,2
+Anne Parker,Guy Coates,2
+Anne Parker,Andreas Kähäri,2
+Anne Parker,Bert Overduin,2
+Anne Parker,Rhoda Kinsella,2
+Anne Parker,Stephen M. J. Searle,2
+Mateus Patrício,Dan Sheppard,3
+Mateus Patrício,Kieron Taylor,3
+Mateus Patrício,Anja Thormann,3
+Mateus Patrício,Alessandro Vullo,3
+Mateus Patrício,Amonida Zadissa,3
+Mateus Patrício,Sarah Hunt,3
+Mateus Patrício,Fergal J. Martin,3
+Mateus Patrício,Matthieu Muffato,3
+Mateus Patrício,Emily Perry,3
+Mateus Patrício,Magali Ruffier,3
+Mateus Patrício,Bronwen Aken,3
+Mateus Patrício,Andrew Yates,3
+Mateus Patrício,Denise Carvalho‐Silva,2
+Mateus Patrício,Peter Clapham,2
+Mateus Patrício,Stephen Fitzgerald,2
+Mateus Patrício,Nathan Johnson,2
+Mateus Patrício,Stephen Keenan,2
+Mateus Patrício,Rishi Nag,2
+Mateus Patrício,Miguel Pignatelli,2
+Mateus Patrício,Steven P. Wilder,2
+Mateus Patrício,Jennifer Harrow,2
+Mateus Patrício,Giulietta Spudich,2
+Dan Sheppard,Kieron Taylor,4
+Dan Sheppard,Anja Thormann,4
+Dan Sheppard,Alessandro Vullo,4
+Dan Sheppard,Amonida Zadissa,4
+Dan Sheppard,Sarah Hunt,4
+Dan Sheppard,Fergal J. Martin,4
+Dan Sheppard,Matthieu Muffato,4
+Dan Sheppard,Emily Perry,3
+Dan Sheppard,Magali Ruffier,4
+Dan Sheppard,Bronwen Aken,4
+Dan Sheppard,Andrew Yates,4
+Dan Sheppard,Denise Carvalho‐Silva,3
+Dan Sheppard,Peter Clapham,3
+Dan Sheppard,Stephen Fitzgerald,3
+Dan Sheppard,Nathan Johnson,3
+Dan Sheppard,Stephen Keenan,3
+Dan Sheppard,Rishi Nag,3
+Dan Sheppard,Miguel Pignatelli,3
+Dan Sheppard,Steven P. Wilder,3
+Dan Sheppard,Jennifer Harrow,3
+Dan Sheppard,Giulietta Spudich,3
+Dan Sheppard,Kathryn Beal,2
+Dan Sheppard,Simon Brent,2
+Dan Sheppard,Guy Coates,2
+Dan Sheppard,Andreas Kähäri,2
+Dan Sheppard,Bert Overduin,2
+Dan Sheppard,Rhoda Kinsella,2
+Dan Sheppard,Stephen M. J. Searle,2
+Kieron Taylor,Anja Thormann,4
+Kieron Taylor,Alessandro Vullo,4
+Kieron Taylor,Amonida Zadissa,4
+Kieron Taylor,Sarah Hunt,4
+Kieron Taylor,Fergal J. Martin,4
+Kieron Taylor,Matthieu Muffato,4
+Kieron Taylor,Emily Perry,3
+Kieron Taylor,Magali Ruffier,4
+Kieron Taylor,Bronwen Aken,4
+Kieron Taylor,Andrew Yates,4
+Kieron Taylor,Denise Carvalho‐Silva,3
+Kieron Taylor,Peter Clapham,3
+Kieron Taylor,Stephen Fitzgerald,3
+Kieron Taylor,Nathan Johnson,3
+Kieron Taylor,Stephen Keenan,3
+Kieron Taylor,Rishi Nag,3
+Kieron Taylor,Miguel Pignatelli,3
+Kieron Taylor,Steven P. Wilder,3
+Kieron Taylor,Jennifer Harrow,3
+Kieron Taylor,Giulietta Spudich,3
+Kieron Taylor,Kathryn Beal,2
+Kieron Taylor,Simon Brent,2
+Kieron Taylor,Guy Coates,2
+Kieron Taylor,Andreas Kähäri,2
+Kieron Taylor,Bert Overduin,2
+Kieron Taylor,Rhoda Kinsella,2
+Kieron Taylor,Stephen M. J. Searle,2
+Anja Thormann,Alessandro Vullo,4
+Anja Thormann,Amonida Zadissa,4
+Anja Thormann,Sarah Hunt,4
+Anja Thormann,Fergal J. Martin,4
+Anja Thormann,Matthieu Muffato,4
+Anja Thormann,Emily Perry,3
+Anja Thormann,Magali Ruffier,4
+Anja Thormann,Bronwen Aken,4
+Anja Thormann,Andrew Yates,4
+Anja Thormann,Denise Carvalho‐Silva,3
+Anja Thormann,Peter Clapham,3
+Anja Thormann,Stephen Fitzgerald,3
+Anja Thormann,Nathan Johnson,3
+Anja Thormann,Stephen Keenan,3
+Anja Thormann,Rishi Nag,3
+Anja Thormann,Miguel Pignatelli,3
+Anja Thormann,Steven P. Wilder,3
+Anja Thormann,Jennifer Harrow,3
+Anja Thormann,Giulietta Spudich,3
+Anja Thormann,Kathryn Beal,2
+Anja Thormann,Simon Brent,2
+Anja Thormann,Guy Coates,2
+Anja Thormann,Andreas Kähäri,2
+Anja Thormann,Bert Overduin,2
+Anja Thormann,Rhoda Kinsella,2
+Anja Thormann,Stephen M. J. Searle,2
+Alessandro Vullo,Amonida Zadissa,4
+Alessandro Vullo,Sarah Hunt,4
+Alessandro Vullo,Fergal J. Martin,4
+Alessandro Vullo,Matthieu Muffato,4
+Alessandro Vullo,Emily Perry,3
+Alessandro Vullo,Magali Ruffier,4
+Alessandro Vullo,Bronwen Aken,4
+Alessandro Vullo,Andrew Yates,4
+Alessandro Vullo,Denise Carvalho‐Silva,3
+Alessandro Vullo,Peter Clapham,3
+Alessandro Vullo,Stephen Fitzgerald,3
+Alessandro Vullo,Nathan Johnson,3
+Alessandro Vullo,Stephen Keenan,3
+Alessandro Vullo,Rishi Nag,3
+Alessandro Vullo,Miguel Pignatelli,3
+Alessandro Vullo,Steven P. Wilder,3
+Alessandro Vullo,Jennifer Harrow,3
+Alessandro Vullo,Giulietta Spudich,3
+Alessandro Vullo,Kathryn Beal,2
+Alessandro Vullo,Simon Brent,2
+Alessandro Vullo,Guy Coates,2
+Alessandro Vullo,Andreas Kähäri,2
+Alessandro Vullo,Bert Overduin,2
+Alessandro Vullo,Rhoda Kinsella,2
+Alessandro Vullo,Stephen M. J. Searle,2
+Amonida Zadissa,Sarah Hunt,4
+Amonida Zadissa,Fergal J. Martin,4
+Amonida Zadissa,Matthieu Muffato,4
+Amonida Zadissa,Emily Perry,3
+Amonida Zadissa,Magali Ruffier,4
+Amonida Zadissa,Bronwen Aken,4
+Amonida Zadissa,Andrew Yates,4
+Amonida Zadissa,Denise Carvalho‐Silva,3
+Amonida Zadissa,Peter Clapham,3
+Amonida Zadissa,Stephen Fitzgerald,3
+Amonida Zadissa,Nathan Johnson,3
+Amonida Zadissa,Stephen Keenan,3
+Amonida Zadissa,Rishi Nag,3
+Amonida Zadissa,Miguel Pignatelli,3
+Amonida Zadissa,Steven P. Wilder,3
+Amonida Zadissa,Jennifer Harrow,3
+Amonida Zadissa,Giulietta Spudich,3
+Amonida Zadissa,Kathryn Beal,2
+Amonida Zadissa,Simon Brent,2
+Amonida Zadissa,Guy Coates,2
+Amonida Zadissa,Andreas Kähäri,2
+Amonida Zadissa,Bert Overduin,2
+Amonida Zadissa,Rhoda Kinsella,2
+Amonida Zadissa,Stephen M. J. Searle,2
+Sarah Hunt,Fergal J. Martin,4
+Sarah Hunt,Matthieu Muffato,4
+Sarah Hunt,Emily Perry,3
+Sarah Hunt,Magali Ruffier,4
+Sarah Hunt,Bronwen Aken,4
+Sarah Hunt,Andrew Yates,4
+Sarah Hunt,Denise Carvalho‐Silva,3
+Sarah Hunt,Peter Clapham,3
+Sarah Hunt,Stephen Fitzgerald,3
+Sarah Hunt,Nathan Johnson,3
+Sarah Hunt,Stephen Keenan,3
+Sarah Hunt,Rishi Nag,3
+Sarah Hunt,Miguel Pignatelli,3
+Sarah Hunt,Steven P. Wilder,3
+Sarah Hunt,Jennifer Harrow,3
+Sarah Hunt,Giulietta Spudich,3
+Sarah Hunt,Kathryn Beal,2
+Sarah Hunt,Simon Brent,2
+Sarah Hunt,Guy Coates,2
+Sarah Hunt,Andreas Kähäri,2
+Sarah Hunt,Bert Overduin,2
+Sarah Hunt,Rhoda Kinsella,2
+Sarah Hunt,Stephen M. J. Searle,2
+Fergal J. Martin,Matthieu Muffato,4
+Fergal J. Martin,Emily Perry,3
+Fergal J. Martin,Magali Ruffier,4
+Fergal J. Martin,Bronwen Aken,4
+Fergal J. Martin,Andrew Yates,4
+Fergal J. Martin,Denise Carvalho‐Silva,3
+Fergal J. Martin,Peter Clapham,3
+Fergal J. Martin,Stephen Fitzgerald,3
+Fergal J. Martin,Nathan Johnson,3
+Fergal J. Martin,Stephen Keenan,3
+Fergal J. Martin,Rishi Nag,3
+Fergal J. Martin,Miguel Pignatelli,3
+Fergal J. Martin,Steven P. Wilder,3
+Fergal J. Martin,Jennifer Harrow,3
+Fergal J. Martin,Giulietta Spudich,3
+Fergal J. Martin,Kathryn Beal,2
+Fergal J. Martin,Simon Brent,2
+Fergal J. Martin,Guy Coates,2
+Fergal J. Martin,Andreas Kähäri,2
+Fergal J. Martin,Bert Overduin,2
+Fergal J. Martin,Rhoda Kinsella,2
+Fergal J. Martin,Stephen M. J. Searle,2
+Matthieu Muffato,Emily Perry,3
+Matthieu Muffato,Magali Ruffier,4
+Matthieu Muffato,Bronwen Aken,4
+Matthieu Muffato,Andrew Yates,4
+Matthieu Muffato,Denise Carvalho‐Silva,3
+Matthieu Muffato,Peter Clapham,3
+Matthieu Muffato,Stephen Fitzgerald,3
+Matthieu Muffato,Nathan Johnson,3
+Matthieu Muffato,Stephen Keenan,3
+Matthieu Muffato,Rishi Nag,3
+Matthieu Muffato,Miguel Pignatelli,3
+Matthieu Muffato,Steven P. Wilder,3
+Matthieu Muffato,Jennifer Harrow,3
+Matthieu Muffato,Giulietta Spudich,3
+Matthieu Muffato,Kathryn Beal,2
+Matthieu Muffato,Simon Brent,2
+Matthieu Muffato,Guy Coates,2
+Matthieu Muffato,Andreas Kähäri,2
+Matthieu Muffato,Bert Overduin,2
+Matthieu Muffato,Rhoda Kinsella,2
+Matthieu Muffato,Stephen M. J. Searle,2
+Emily Perry,Magali Ruffier,3
+Emily Perry,Bronwen Aken,3
+Emily Perry,Andrew Yates,3
+Emily Perry,Denise Carvalho‐Silva,2
+Emily Perry,Peter Clapham,2
+Emily Perry,Stephen Fitzgerald,2
+Emily Perry,Nathan Johnson,2
+Emily Perry,Stephen Keenan,2
+Emily Perry,Rishi Nag,2
+Emily Perry,Miguel Pignatelli,2
+Emily Perry,Steven P. Wilder,2
+Emily Perry,Jennifer Harrow,2
+Emily Perry,Giulietta Spudich,2
+Magali Ruffier,Bronwen Aken,4
+Magali Ruffier,Andrew Yates,4
+Magali Ruffier,Denise Carvalho‐Silva,3
+Magali Ruffier,Peter Clapham,3
+Magali Ruffier,Stephen Fitzgerald,3
+Magali Ruffier,Nathan Johnson,3
+Magali Ruffier,Stephen Keenan,3
+Magali Ruffier,Rishi Nag,3
+Magali Ruffier,Miguel Pignatelli,3
+Magali Ruffier,Steven P. Wilder,3
+Magali Ruffier,Jennifer Harrow,3
+Magali Ruffier,Giulietta Spudich,3
+Magali Ruffier,Kathryn Beal,2
+Magali Ruffier,Simon Brent,2
+Magali Ruffier,Guy Coates,2
+Magali Ruffier,Andreas Kähäri,2
+Magali Ruffier,Bert Overduin,2
+Magali Ruffier,Rhoda Kinsella,2
+Magali Ruffier,Stephen M. J. Searle,2
+Bronwen Aken,Andrew Yates,4
+Bronwen Aken,Denise Carvalho‐Silva,3
+Bronwen Aken,Peter Clapham,3
+Bronwen Aken,Stephen Fitzgerald,3
+Bronwen Aken,Nathan Johnson,3
+Bronwen Aken,Stephen Keenan,3
+Bronwen Aken,Rishi Nag,3
+Bronwen Aken,Miguel Pignatelli,3
+Bronwen Aken,Steven P. Wilder,3
+Bronwen Aken,Jennifer Harrow,3
+Bronwen Aken,Giulietta Spudich,3
+Bronwen Aken,Kathryn Beal,2
+Bronwen Aken,Simon Brent,2
+Bronwen Aken,Guy Coates,2
+Bronwen Aken,Andreas Kähäri,2
+Bronwen Aken,Bert Overduin,2
+Bronwen Aken,Rhoda Kinsella,2
+Bronwen Aken,Stephen M. J. Searle,2
+Andrew Yates,Denise Carvalho‐Silva,3
+Andrew Yates,Peter Clapham,3
+Andrew Yates,Stephen Fitzgerald,3
+Andrew Yates,Nathan Johnson,3
+Andrew Yates,Stephen Keenan,3
+Andrew Yates,Rishi Nag,3
+Andrew Yates,Miguel Pignatelli,3
+Andrew Yates,Steven P. Wilder,3
+Andrew Yates,Jennifer Harrow,3
+Andrew Yates,Giulietta Spudich,3
+Andrew Yates,Kathryn Beal,2
+Andrew Yates,Simon Brent,2
+Andrew Yates,Guy Coates,2
+Andrew Yates,Andreas Kähäri,2
+Andrew Yates,Bert Overduin,2
+Andrew Yates,Rhoda Kinsella,2
+Andrew Yates,Stephen M. J. Searle,2
+Wil M. P. van der Aalst,Arthur H. M. ter Hofstede,2
+Wil M. P. van der Aalst,Boudewijn F. van Dongen,2
+Barbara A. Methé,William Nelson,2
+Gary C. Armitage,Jack G. Caton,2
+Gary C. Armitage,Tord Berglundh,2
+Gary C. Armitage,Iain Chapple,2
+Gary C. Armitage,Søren Jepsen,2
+Gary C. Armitage,Kenneth S. Kornman,2
+Gary C. Armitage,Brian L. Mealey,2
+Gary C. Armitage,Panos N. Papapanou,2
+Gary C. Armitage,Mariano Sanz,2
+Gary C. Armitage,Maurizio S. Tonetti,2
+Carl C. Baker,Lisa Begg,2
+Carl C. Baker,Tsegahiwot Belachew,2
+Carl C. Baker,Vivien Bonazzi,2
+Carl C. Baker,Carolyn Deal,2
+Carl C. Baker,Valentina Di Francesco,2
+Carl C. Baker,Christina Giblin,2
+Carl C. Baker,Maria Y. Giovanni,2
+Lisa Begg,Tsegahiwot Belachew,2
+Lisa Begg,Vivien Bonazzi,2
+Lisa Begg,Carolyn Deal,2
+Lisa Begg,Valentina Di Francesco,2
+Lisa Begg,Christina Giblin,2
+Lisa Begg,Maria Y. Giovanni,2
+Tsegahiwot Belachew,Vivien Bonazzi,2
+Tsegahiwot Belachew,Carolyn Deal,2
+Tsegahiwot Belachew,Valentina Di Francesco,2
+Tsegahiwot Belachew,Christina Giblin,2
+Tsegahiwot Belachew,Maria Y. Giovanni,2
+Vivien Bonazzi,Carolyn Deal,2
+Vivien Bonazzi,Valentina Di Francesco,2
+Vivien Bonazzi,Christina Giblin,2
+Vivien Bonazzi,Maria Y. Giovanni,2
+Carolyn Deal,Valentina Di Francesco,2
+Carolyn Deal,Christina Giblin,2
+Carolyn Deal,Maria Y. Giovanni,2
+Valentina Di Francesco,Christina Giblin,2
+Valentina Di Francesco,Maria Y. Giovanni,2
+Christina Giblin,Maria Y. Giovanni,2
+Andreas Wilm,Sven Nahnsen,2
+Manuel J. Cobo,A.G. López‐Herrera,3
+Manuel J. Cobo,Enrique Herrera–Viedma,4
+A.G. López‐Herrera,Enrique Herrera–Viedma,3
+Janet Piñero,Álex Bravo,2
+Janet Piñero,Núria Queralt-Rosiñach,2
+Janet Piñero,Jordi Deu-Pons,2
+Janet Piñero,Emilio Centeno,2
+Janet Piñero,Ferrán Sanz,3
+Janet Piñero,Laura I. Furlong,3
+Álex Bravo,Núria Queralt-Rosiñach,2
+Álex Bravo,Jordi Deu-Pons,2
+Álex Bravo,Ferrán Sanz,2
+Álex Bravo,Laura I. Furlong,2
+Núria Queralt-Rosiñach,Jordi Deu-Pons,2
+Núria Queralt-Rosiñach,Ferrán Sanz,2
+Núria Queralt-Rosiñach,Laura I. Furlong,2
+Jordi Deu-Pons,Ferrán Sanz,2
+Jordi Deu-Pons,Laura I. Furlong,2
+Emilio Centeno,Ferrán Sanz,2
+Emilio Centeno,Laura I. Furlong,2
+Ferrán Sanz,Laura I. Furlong,3
+Irene Korstjens,Albine Moser,2
+Paul E. Green,V. Srinivasan,2
+Youngjin Yoo,Kalle Lyytinen,2
+Peer Bork,Ivica Letunić,2
+Anand Rajaraman,Jeffrey D. Ullman,2
+Nenad Tomašev,Alan Karthikesalingam,2
+Dominic King,Alan Karthikesalingam,2
+Dominic King,Mustafa Suleyman,2
+Alan Karthikesalingam,Mustafa Suleyman,2
+Alan Karthikesalingam,Christopher Kelly,2
+Charles R. Farrar,Keith Worden,2
+Kenneth W. Witwer,Edit I. Buzás,2
+Kenneth W. Witwer,Cecilia Lässer,2
+Kenneth W. Witwer,Jan Lötvall,2
+Kenneth W. Witwer,Clotilde Théry,3
+Kenneth W. Witwer,Marca H. M. Wauben,3
+Kenneth W. Witwer,Lorraine O’Driscoll,2
+Kenneth W. Witwer,Tom A. P. Driedonks,2
+Kenneth W. Witwer,Andrew F. Hill,2
+Kenneth W. Witwer,Susmita Sahoo,2
+Kenneth W. Witwer,An Hendrix,2
+Kenneth W. Witwer,Martijn J. C. van Herwijnen,2
+Edit I. Buzás,Cecilia Lässer,2
+Edit I. Buzás,Jan Lötvall,2
+Edit I. Buzás,Clotilde Théry,2
+Edit I. Buzás,Marca H. M. Wauben,2
+Cecilia Lässer,Jan Lötvall,2
+Cecilia Lässer,Clotilde Théry,2
+Cecilia Lässer,Marca H. M. Wauben,2
+Jan Lötvall,Clotilde Théry,2
+Jan Lötvall,Marca H. M. Wauben,2
+Clotilde Théry,Marca H. M. Wauben,3
+Clotilde Théry,Lorraine O’Driscoll,2
+Clotilde Théry,Tom A. P. Driedonks,2
+Clotilde Théry,Andrew F. Hill,2
+Clotilde Théry,Susmita Sahoo,2
+Clotilde Théry,An Hendrix,2
+Clotilde Théry,Martijn J. C. van Herwijnen,2
+Marca H. M. Wauben,Lorraine O’Driscoll,2
+Marca H. M. Wauben,Tom A. P. Driedonks,2
+Marca H. M. Wauben,Andrew F. Hill,2
+Marca H. M. Wauben,Susmita Sahoo,2
+Marca H. M. Wauben,An Hendrix,2
+Marca H. M. Wauben,Martijn J. C. van Herwijnen,2
+Barbara Kitchenham,David Budgen,2
+Barbara Kitchenham,Mark Turner,2
+David Budgen,Mark Turner,2
+David L. Streiner,Geoffrey R. Norman,2
+Jaideep Srivastava,Robert Cooley,2
+S. N. Dorogovt︠s︡ev,J. F. F. Mendes,2
+Mariarosaria Taddeo,Luciano Floridi,2
+Noam Nisan,Noam Nisan,6
+Noam Nisan,Christos H. Papadimitriou,8
+Noam Nisan,Éva Tardos,8
+Noam Nisan,Bernhard von Stengel,4
+Noam Nisan,Vijay V. Vazirani,4
+Noam Nisan,Bruno Codenotti,4
+Noam Nisan,Michael Kearns,4
+Noam Nisan,Yevgeniy Dodis,4
+Noam Nisan,James Schummer,4
+Noam Nisan,Liad Blumrosen,4
+Noam Nisan,Ron Lavi,4
+Noam Nisan,Jason D. Hartline,4
+Noam Nisan,Joan Feigenbaum,4
+Noam Nisan,Kamal Jain,4
+Noam Nisan,David C. Parkes,4
+Noam Nisan,Tim Roughgarden,8
+Noam Nisan,Berthold Vöcking,4
+Noam Nisan,Ramesh Johari,4
+Christos H. Papadimitriou,Éva Tardos,4
+Christos H. Papadimitriou,Bernhard von Stengel,2
+Christos H. Papadimitriou,Vijay V. Vazirani,2
+Christos H. Papadimitriou,Bruno Codenotti,2
+Christos H. Papadimitriou,Michael Kearns,2
+Christos H. Papadimitriou,Yevgeniy Dodis,2
+Christos H. Papadimitriou,James Schummer,2
+Christos H. Papadimitriou,Liad Blumrosen,2
+Christos H. Papadimitriou,Ron Lavi,2
+Christos H. Papadimitriou,Jason D. Hartline,2
+Christos H. Papadimitriou,Joan Feigenbaum,2
+Christos H. Papadimitriou,Kamal Jain,2
+Christos H. Papadimitriou,David C. Parkes,2
+Christos H. Papadimitriou,Tim Roughgarden,4
+Christos H. Papadimitriou,Berthold Vöcking,2
+Christos H. Papadimitriou,Ramesh Johari,2
+Éva Tardos,Bernhard von Stengel,2
+Éva Tardos,Vijay V. Vazirani,2
+Éva Tardos,Bruno Codenotti,2
+Éva Tardos,Michael Kearns,2
+Éva Tardos,Yevgeniy Dodis,2
+Éva Tardos,James Schummer,2
+Éva Tardos,Liad Blumrosen,2
+Éva Tardos,Ron Lavi,2
+Éva Tardos,Jason D. Hartline,2
+Éva Tardos,Joan Feigenbaum,2
+Éva Tardos,Kamal Jain,2
+Éva Tardos,David C. Parkes,2
+Éva Tardos,Tim Roughgarden,4
+Éva Tardos,Berthold Vöcking,2
+Éva Tardos,Ramesh Johari,2
+Bernhard von Stengel,Tim Roughgarden,2
+Vijay V. Vazirani,Tim Roughgarden,2
+Bruno Codenotti,Tim Roughgarden,2
+Michael Kearns,Tim Roughgarden,2
+Yevgeniy Dodis,Tim Roughgarden,2
+James Schummer,Tim Roughgarden,2
+Liad Blumrosen,Tim Roughgarden,2
+Ron Lavi,Tim Roughgarden,2
+Jason D. Hartline,Tim Roughgarden,2
+Joan Feigenbaum,Tim Roughgarden,2
+Kamal Jain,Tim Roughgarden,2
+David C. Parkes,Tim Roughgarden,2
+Tim Roughgarden,Berthold Vöcking,2
+Tim Roughgarden,Ramesh Johari,2
+Wouter de Nooy,Andrej Mrvar,2
+Wouter de Nooy,Vladimir Batagelj,2
+Andrej Mrvar,Vladimir Batagelj,3
+Harry T. Reis,Harry T. Reis,10
+Harry T. Reis,John A. Bargh,10
+Harry T. Reis,Susan T. Fiske,5
+Harry T. Reis,Marilynn B. Brewer,5
+Harry T. Reis,Eliot R. Smith,5
+Harry T. Reis,Stephen G. West,5
+Harry T. Reis,Elizabeth Levy Paluck,5
+Harry T. Reis,Jim Blascovich,5
+Harry T. Reis,Elliot T. Berkman,5
+Harry T. Reis,Eric Turkheimer,5
+Harry T. Reis,Norbert L. Kerr,5
+Harry T. Reis,Karen S. Quigley,5
+Harry T. Reis,Michael J. Richardson,5
+Harry T. Reis,Bertram Gawronski,5
+Harry T. Reis,Richard E. Heyman,5
+Harry T. Reis,Jon A. Krosnick,5
+Harry T. Reis,Michael R. Maniaci,5
+Harry T. Reis,Leandre R. Fabrigar,5
+Walter Quattrociocchi,Fabiana Zollo,2
+Walter Quattrociocchi,Antonio Scala,2
+Fabiana Zollo,Antonio Scala,2
+Anna Chaimani,Georgia Salanti,2
+Nicholas R. Jennings,Michael Wooldridge,2
+Julian McAuley,Ruining He,2
+George E. P. Box,J. Stuart Hunter,2
+Krzysztof J. Gorgolewski,Yaroslav O. Halchenko,2
+Krzysztof J. Gorgolewski,Satrajit Ghosh,2
+Krzysztof J. Gorgolewski,Tristan Glatard,2
+Krzysztof J. Gorgolewski,Thomas E. Nichols,2
+Krzysztof J. Gorgolewski,Jean‐Baptiste Poline,2
+Krzysztof J. Gorgolewski,Russell A. Poldrack,2
+Krzysztof J. Gorgolewski,Joke Durnez,2
+Yaroslav O. Halchenko,Satrajit Ghosh,2
+Randi Vita,James A. Overton,2
+Randi Vita,Jason R Cantrell,2
+Randi Vita,Daniel K Wheeler,2
+Randi Vita,Alessandro Sette,2
+Randi Vita,Bjoern Peters,2
+James A. Overton,Jason R Cantrell,2
+James A. Overton,Daniel K Wheeler,2
+James A. Overton,Alessandro Sette,2
+James A. Overton,Bjoern Peters,2
+Jason R Cantrell,Daniel K Wheeler,2
+Jason R Cantrell,Alessandro Sette,2
+Jason R Cantrell,Bjoern Peters,2
+Daniel K Wheeler,Alessandro Sette,2
+Daniel K Wheeler,Bjoern Peters,2
+Alessandro Sette,Bjoern Peters,2
+Carsten Q. Schneider,Claudius Wagemann,2
+Greg Von Kuster,Michael C. Schatz,2
+Yanqing Duan,John S. Edwards,2
+Yanqing Duan,Yogesh K. Dwivedi,2
+John S. Edwards,Yogesh K. Dwivedi,2
+Yogesh K. Dwivedi,Nripendra P. Rana,2
+Cristóbal Romero,Sebastián Ventura,3
+Ed H.,Bongwon Suh,2
+Bin Yu,Karl Kumbier,2
+John A. Bargh,Susan T. Fiske,2
+John A. Bargh,Marilynn B. Brewer,2
+John A. Bargh,Eliot R. Smith,2
+John A. Bargh,Stephen G. West,2
+John A. Bargh,Elizabeth Levy Paluck,2
+John A. Bargh,Jim Blascovich,2
+John A. Bargh,Elliot T. Berkman,2
+John A. Bargh,Eric Turkheimer,2
+John A. Bargh,Norbert L. Kerr,2
+John A. Bargh,Karen S. Quigley,2
+John A. Bargh,Michael J. Richardson,2
+John A. Bargh,Bertram Gawronski,2
+John A. Bargh,Richard E. Heyman,2
+John A. Bargh,Jon A. Krosnick,2
+John A. Bargh,Michael R. Maniaci,2
+John A. Bargh,Leandre R. Fabrigar,2
+Caroline B. Terwee,Lidwine B. Mokkink,2
+Caroline B. Terwee,Dirk L. Knol,2
+Lidwine B. Mokkink,Dirk L. Knol,2
+Antonio Plaza,Jocelyn Chanussot,2
+Jacques A. Hagenaars,Jacques A. Hagenaars,3
+Jacques A. Hagenaars,Leo A. Goodman,3
+Jacques A. Hagenaars,Allan L. McCutcheon,3
+Jacques A. Hagenaars,Jeroen K. Vermunt,6
+Jacques A. Hagenaars,P.G.M. van der Heijden,3
+Jacques A. Hagenaars,Marcel A. Croon,3
+Jacques A. Hagenaars,Ulf Böckenholt,3
+Jacques A. Hagenaars,Anton K. Formann,3
+Jacques A. Hagenaars,C. Mitchell Dayton,3
+Jacques A. Hagenaars,Linda M. Collins,3
+Jacques A. Hagenaars,Rolf Langeheine,3
+Jacques A. Hagenaars,Tamás Rudas,3
+Jacques A. Hagenaars,Michel Wedel,3
+Jacques A. Hagenaars,Christopher Winship,3
+Leo A. Goodman,Jeroen K. Vermunt,2
+Allan L. McCutcheon,Jeroen K. Vermunt,2
+Jeroen K. Vermunt,P.G.M. van der Heijden,2
+Jeroen K. Vermunt,Marcel A. Croon,2
+Jeroen K. Vermunt,Ulf Böckenholt,2
+Jeroen K. Vermunt,Anton K. Formann,2
+Jeroen K. Vermunt,C. Mitchell Dayton,2
+Jeroen K. Vermunt,Linda M. Collins,2
+Jeroen K. Vermunt,Rolf Langeheine,2
+Jeroen K. Vermunt,Tamás Rudas,2
+Jeroen K. Vermunt,Michel Wedel,2
+Jeroen K. Vermunt,Christopher Winship,2
+Craig Knox,Yannick Djoumbou-Feunang,2
+Craig Knox,Roman Eisner,2
+Craig Knox,David S. Wishart,2
+Yannick Djoumbou-Feunang,Roman Eisner,2
+Yannick Djoumbou-Feunang,David S. Wishart,2
+Roman Eisner,David S. Wishart,2
+Lorraine O’Driscoll,Tom A. P. Driedonks,2
+Lorraine O’Driscoll,Andrew F. Hill,2
+Lorraine O’Driscoll,Susmita Sahoo,2
+Lorraine O’Driscoll,An Hendrix,2
+Lorraine O’Driscoll,Martijn J. C. van Herwijnen,2
+Tom A. P. Driedonks,Andrew F. Hill,2
+Tom A. P. Driedonks,Susmita Sahoo,2
+Tom A. P. Driedonks,An Hendrix,2
+Tom A. P. Driedonks,Martijn J. C. van Herwijnen,2
+Andrew F. Hill,Susmita Sahoo,2
+Andrew F. Hill,An Hendrix,2
+Andrew F. Hill,Martijn J. C. van Herwijnen,2
+Susmita Sahoo,An Hendrix,2
+Susmita Sahoo,Martijn J. C. van Herwijnen,2
+An Hendrix,Martijn J. C. van Herwijnen,2
+Brian L. Sullivan,Christopher Wood,2
+Brian L. Sullivan,Marshall J. Iliff,2
+Brian L. Sullivan,Rick Bonney,2
+Brian L. Sullivan,Daniel Fink,2
+Brian L. Sullivan,Steve Kelling,2
+Christopher Wood,Marshall J. Iliff,2
+Christopher Wood,Rick Bonney,2
+Christopher Wood,Daniel Fink,2
+Christopher Wood,Steve Kelling,2
+Marshall J. Iliff,Rick Bonney,2
+Marshall J. Iliff,Daniel Fink,2
+Marshall J. Iliff,Steve Kelling,2
+Rick Bonney,Daniel Fink,2
+Rick Bonney,Steve Kelling,2
+Rick Bonney,Tina Phillips,2
+Rick Bonney,Andrea Wiggins,2
+Daniel Fink,Steve Kelling,2
+Samuel Fosso Wamba,Angappa Gunasekaran,2
+Samuel Fosso Wamba,Shahriar Akter,3
+Samuel Fosso Wamba,Rameshwar Dubey,2
+Samuel Fosso Wamba,Stephen J. Childe,2
+Angappa Gunasekaran,Shahriar Akter,2
+Angappa Gunasekaran,Rameshwar Dubey,2
+Angappa Gunasekaran,Stephen J. Childe,2
+Shahriar Akter,Rameshwar Dubey,2
+Shahriar Akter,Stephen J. Childe,2
+Rameshwar Dubey,Stephen J. Childe,2
+Anne E. Magurran,Brian J. McGill,2
+Pervez Ghauri,Kjell Grønhaug,2
+Jasmine Chong,Jianguo Xia,2
+Jianguo Xia,Guangyan Zhou,3
+Jianguo Xia,Jessica Ewald,2
+Jianguo Xia,Niladri Basu,2
+Daniel H. Huson,Suparna Mitra,2
+Daniel H. Huson,Hans‐Joachim Ruscheweyh,2
+Suparna Mitra,Hans‐Joachim Ruscheweyh,2
+Guangyan Zhou,Jessica Ewald,2
+Guangyan Zhou,Niladri Basu,2
+Jessica Ewald,Niladri Basu,2
+Thomas E. Nichols,Jean‐Baptiste Poline,2
+Thomas E. Nichols,Russell A. Poldrack,2
+Jean‐Baptiste Poline,Russell A. Poldrack,2
+Nancy L. Leech,Anthony J. Onwuegbuzie,3
+Dmitry Ivanov,Alexandre Dolgui,2
+Bradford Jones,Janet M. Box‐Steffensmeier,2
+Christopher H. Tomkins-Tinch,Johannes Köster,2
+Johannes Köster,Felix Mölder,2
+Jack G. Caton,Tord Berglundh,2
+Jack G. Caton,Iain Chapple,2
+Jack G. Caton,Søren Jepsen,2
+Jack G. Caton,Kenneth S. Kornman,2
+Jack G. Caton,Brian L. Mealey,2
+Jack G. Caton,Panos N. Papapanou,2
+Jack G. Caton,Mariano Sanz,2
+Jack G. Caton,Maurizio S. Tonetti,2
+Tord Berglundh,Iain Chapple,2
+Tord Berglundh,Søren Jepsen,2
+Tord Berglundh,Kenneth S. Kornman,2
+Tord Berglundh,Brian L. Mealey,2
+Tord Berglundh,Panos N. Papapanou,2
+Tord Berglundh,Mariano Sanz,2
+Tord Berglundh,Maurizio S. Tonetti,2
+Iain Chapple,Søren Jepsen,2
+Iain Chapple,Kenneth S. Kornman,2
+Iain Chapple,Brian L. Mealey,2
+Iain Chapple,Panos N. Papapanou,2
+Iain Chapple,Mariano Sanz,2
+Iain Chapple,Maurizio S. Tonetti,2
+Søren Jepsen,Kenneth S. Kornman,2
+Søren Jepsen,Brian L. Mealey,2
+Søren Jepsen,Panos N. Papapanou,2
+Søren Jepsen,Mariano Sanz,2
+Søren Jepsen,Maurizio S. Tonetti,2
+Kenneth S. Kornman,Brian L. Mealey,2
+Kenneth S. Kornman,Panos N. Papapanou,2
+Kenneth S. Kornman,Mariano Sanz,2
+Kenneth S. Kornman,Maurizio S. Tonetti,2
+Brian L. Mealey,Panos N. Papapanou,2
+Brian L. Mealey,Mariano Sanz,2
+Brian L. Mealey,Maurizio S. Tonetti,2
+Panos N. Papapanou,Mariano Sanz,2
+Panos N. Papapanou,Maurizio S. Tonetti,2
+Mariano Sanz,Maurizio S. Tonetti,2
+Ross Lazarus,Michael C. Schatz,2
+Lihong Chen,Dandan Zheng,2
+Lihong Chen,Bo Liu,2
+Dandan Zheng,Bo Liu,2
+Andreas Kähäri,Giulietta Spudich,3
+Andreas Kähäri,Kathryn Beal,2
+Andreas Kähäri,Simon Brent,2
+Andreas Kähäri,Denise Carvalho‐Silva,2
+Andreas Kähäri,Peter Clapham,2
+Andreas Kähäri,Guy Coates,2
+Andreas Kähäri,Stephen Fitzgerald,2
+Andreas Kähäri,Nathan Johnson,2
+Andreas Kähäri,Stephen Keenan,2
+Andreas Kähäri,Rishi Nag,2
+Andreas Kähäri,Bert Overduin,2
+Andreas Kähäri,Miguel Pignatelli,2
+Andreas Kähäri,Steven P. Wilder,2
+Andreas Kähäri,Jennifer Harrow,2
+Andreas Kähäri,Rhoda Kinsella,2
+Andreas Kähäri,Stephen M. J. Searle,2
+Giulietta Spudich,Denise Carvalho‐Silva,3
+Giulietta Spudich,Peter Clapham,3
+Giulietta Spudich,Stephen Fitzgerald,3
+Giulietta Spudich,Nathan Johnson,3
+Giulietta Spudich,Stephen Keenan,3
+Giulietta Spudich,Rishi Nag,3
+Giulietta Spudich,Miguel Pignatelli,3
+Giulietta Spudich,Steven P. Wilder,3
+Giulietta Spudich,Jennifer Harrow,3
+Giulietta Spudich,Kathryn Beal,2
+Giulietta Spudich,Simon Brent,2
+Giulietta Spudich,Guy Coates,2
+Giulietta Spudich,Bert Overduin,2
+Giulietta Spudich,Rhoda Kinsella,2
+Giulietta Spudich,Stephen M. J. Searle,2
+Qinglin Qi,Fei Tao,3
+Qinglin Qi,Lihui Wang,2
+Qinglin Qi,A.Y.C. Nee,2
+Fei Tao,Lihui Wang,2
+Fei Tao,A.Y.C. Nee,2
+Elizabeth Murphy,Jon Nicholl,2
+Denise Carvalho‐Silva,Peter Clapham,3
+Denise Carvalho‐Silva,Stephen Fitzgerald,3
+Denise Carvalho‐Silva,Nathan Johnson,3
+Denise Carvalho‐Silva,Stephen Keenan,3
+Denise Carvalho‐Silva,Rishi Nag,3
+Denise Carvalho‐Silva,Miguel Pignatelli,3
+Denise Carvalho‐Silva,Steven P. Wilder,3
+Denise Carvalho‐Silva,Jennifer Harrow,3
+Denise Carvalho‐Silva,Kathryn Beal,2
+Denise Carvalho‐Silva,Simon Brent,2
+Denise Carvalho‐Silva,Guy Coates,2
+Denise Carvalho‐Silva,Bert Overduin,2
+Denise Carvalho‐Silva,Rhoda Kinsella,2
+Denise Carvalho‐Silva,Stephen M. J. Searle,2
+Peter Clapham,Stephen Fitzgerald,3
+Peter Clapham,Nathan Johnson,3
+Peter Clapham,Stephen Keenan,3
+Peter Clapham,Rishi Nag,3
+Peter Clapham,Miguel Pignatelli,3
+Peter Clapham,Steven P. Wilder,3
+Peter Clapham,Jennifer Harrow,3
+Peter Clapham,Kathryn Beal,2
+Peter Clapham,Simon Brent,2
+Peter Clapham,Guy Coates,2
+Peter Clapham,Bert Overduin,2
+Peter Clapham,Rhoda Kinsella,2
+Peter Clapham,Stephen M. J. Searle,2
+Stephen Fitzgerald,Nathan Johnson,3
+Stephen Fitzgerald,Stephen Keenan,3
+Stephen Fitzgerald,Rishi Nag,3
+Stephen Fitzgerald,Miguel Pignatelli,3
+Stephen Fitzgerald,Steven P. Wilder,3
+Stephen Fitzgerald,Jennifer Harrow,3
+Stephen Fitzgerald,Kathryn Beal,2
+Stephen Fitzgerald,Simon Brent,2
+Stephen Fitzgerald,Guy Coates,2
+Stephen Fitzgerald,Bert Overduin,2
+Stephen Fitzgerald,Rhoda Kinsella,2
+Stephen Fitzgerald,Stephen M. J. Searle,2
+Nathan Johnson,Stephen Keenan,3
+Nathan Johnson,Rishi Nag,3
+Nathan Johnson,Miguel Pignatelli,3
+Nathan Johnson,Steven P. Wilder,3
+Nathan Johnson,Jennifer Harrow,3
+Nathan Johnson,Kathryn Beal,2
+Nathan Johnson,Simon Brent,2
+Nathan Johnson,Guy Coates,2
+Nathan Johnson,Bert Overduin,2
+Nathan Johnson,Rhoda Kinsella,2
+Nathan Johnson,Stephen M. J. Searle,2
+Stephen Keenan,Rishi Nag,3
+Stephen Keenan,Miguel Pignatelli,3
+Stephen Keenan,Steven P. Wilder,3
+Stephen Keenan,Jennifer Harrow,3
+Stephen Keenan,Kathryn Beal,2
+Stephen Keenan,Simon Brent,2
+Stephen Keenan,Guy Coates,2
+Stephen Keenan,Bert Overduin,2
+Stephen Keenan,Rhoda Kinsella,2
+Stephen Keenan,Stephen M. J. Searle,2
+Rishi Nag,Miguel Pignatelli,3
+Rishi Nag,Steven P. Wilder,3
+Rishi Nag,Jennifer Harrow,3
+Rishi Nag,Kathryn Beal,2
+Rishi Nag,Simon Brent,2
+Rishi Nag,Guy Coates,2
+Rishi Nag,Bert Overduin,2
+Rishi Nag,Rhoda Kinsella,2
+Rishi Nag,Stephen M. J. Searle,2
+Miguel Pignatelli,Steven P. Wilder,3
+Miguel Pignatelli,Jennifer Harrow,3
+Miguel Pignatelli,Kathryn Beal,2
+Miguel Pignatelli,Simon Brent,2
+Miguel Pignatelli,Guy Coates,2
+Miguel Pignatelli,Bert Overduin,2
+Miguel Pignatelli,Rhoda Kinsella,2
+Miguel Pignatelli,Stephen M. J. Searle,2
+Steven P. Wilder,Jennifer Harrow,3
+Steven P. Wilder,Kathryn Beal,2
+Steven P. Wilder,Simon Brent,2
+Steven P. Wilder,Guy Coates,2
+Steven P. Wilder,Bert Overduin,2
+Steven P. Wilder,Rhoda Kinsella,2
+Steven P. Wilder,Stephen M. J. Searle,2
+Jennifer Harrow,Kathryn Beal,2
+Jennifer Harrow,Simon Brent,2
+Jennifer Harrow,Guy Coates,2
+Jennifer Harrow,Bert Overduin,2
+Jennifer Harrow,Rhoda Kinsella,2
+Jennifer Harrow,Stephen M. J. Searle,2
+Tharam S. Dillon,Elizabeth Chang,2
+Mary S. Morgan,Mary S. Morgan,3
+Mary S. Morgan,Margaret Morrison,9
+Mary S. Morgan,Marcel Boumans,3
+Mary S. Morgan,R. I. G. Hughes,3
+Mary S. Morgan,Ursula Klein,3
+Mary S. Morgan,Mauricio Suárez,3
+Mary S. Morgan,Geert Reuten,3
+Mary S. Morgan,Nancy Cartwright,3
+Mary S. Morgan,Adrienne van den Bogaard,3
+Mary S. Morgan,Stephan Hartmann,3
+Michael C. Schatz,Alexander Ostrovsky,2
+Michael C. Schatz,Alexandru Mahmoud,2
+Michael C. Schatz,Andrew Lonie,2
+Michael C. Schatz,Anna Syme,2
+Michael C. Schatz,Anne Fouilloux,2
+Michael C. Schatz,Anthony Bretaudeau,2
+Michael C. Schatz,Anup Kumar,2
+Michael C. Schatz,Arthur C. Eschenlauer,2
+Michael C. Schatz,Assunta D DeSanto,2
+Michael C. Schatz,Beatriz Serrano‐Solano,2
+Michael C. Schatz,Bradley W. Langhorst,2
+Michael C. Schatz,Bridget Carr,2
+Michael C. Schatz,Bryan Raubenolt,2
+Michael C. Schatz,Cameron Hyde,2
+Michael C. Schatz,Catherine J. Bromhead,2
+Michael C. Schatz,Christopher B. Barnett,2
+Michael C. Schatz,Coline Royaux,2
+Michael C. Schatz,Cristóbal Gallardo,2
+Michael C. Schatz,Daniel Fornika,2
+Michael C. Schatz,David Anderson de Lima Morais,2
+Michael C. Schatz,David López Tabernero,2
+Michael C. Schatz,Delphine Larivière,2
+Michael C. Schatz,Engy Nasr,2
+Michael C. Schatz,Federico Zambelli,2
+Michael C. Schatz,Florian Heyl,2
+Michael C. Schatz,Fotis Psomopoulos,2
+Michael C. Schatz,Frederik Coppens,2
+Michael C. Schatz,Gareth Price,2
+Michael C. Schatz,Gianmauro Cuccuru,2
+Michael C. Schatz,Gildas Le Corguillé,2
+Michael C. Schatz,Gulsum Gudukbay Akbulut,2
+Michael C. Schatz,Hans-Rudolf Hotz,2
+Michael C. Schatz,Ignacio Eguinoa,2
+Michael C. Schatz,Igor V. Makunin,2
+Michael C. Schatz,Isuru Ranawaka,2
+Michael C. Schatz,Jayadev Joshi,2
+Michael C. Schatz,Kaivan Kamali,2
+Michael C. Schatz,Keith Suderman,2
+Michael C. Schatz,Krzysztof Poterlowicz,2
+Michael C. Schatz,Le Bras Yvan,2
+Michael C. Schatz,Lucille Lopez‐Delisle,2
+Michael C. Schatz,Luke Sargent,2
+Michael C. Schatz,Madeline E. Bassetti,2
+Michael C. Schatz,M. A. Tangaro,2
+Michael C. Schatz,Matthias Fahrner,2
+Michael C. Schatz,Mehmet Tekman,2
+Michael C. Schatz,Melanie Christine Föll,2
+Michael C. Schatz,Michael R. Crusoe,2
+Michael C. Schatz,Miguel Roncoroni,2
+Michael C. Schatz,Natalie Kucher,2
+Michael C. Schatz,Nicholas Stoler,2
+Michael C. Schatz,Nick Rhodes,2
+Michael C. Schatz,Niko Pinter,2
+Michael C. Schatz,Nuwan Goonasekera,2
+Michael C. Schatz,Pablo Moreno,2
+Michael C. Schatz,Pavankumar Videm,2
+Michael C. Schatz,Mélanie Pétéra,2
+Michael C. Schatz,Pietro Mandreoli,2
+Michael C. Schatz,Pratik Jagtap,2
+Michael C. Schatz,Qiang Gu,2
+Michael C. Schatz,Ralf J. M. Weber,2
+Michael C. Schatz,Ruben H.P. Vorderman,2
+Michael C. Schatz,Sergey Golitsynskiy,2
+Michael C. Schatz,Shilpa Garg,2
+Michael C. Schatz,Simon Bray,2
+Michael C. Schatz,Simon Gladman,2
+Michael C. Schatz,Simone Leo,2
+Michael C. Schatz,Subina Mehta,2
+Michael C. Schatz,Timothy J. Griffin,2
+Michael C. Schatz,Yves Vandenbrouck,2
+Brian Steensland,Lynn Robinson,2
+Brian Steensland,W. Bradford Wilcox,2
+Brian Steensland,Jerry Z. Park,2
+Brian Steensland,Mark Regnerus,2
+Brian Steensland,Robert D. Woodberry,2
+Lynn Robinson,W. Bradford Wilcox,2
+Lynn Robinson,Jerry Z. Park,2
+Lynn Robinson,Mark Regnerus,2
+Lynn Robinson,Robert D. Woodberry,2
+W. Bradford Wilcox,Jerry Z. Park,2
+W. Bradford Wilcox,Mark Regnerus,2
+W. Bradford Wilcox,Robert D. Woodberry,2
+Jerry Z. Park,Mark Regnerus,2
+Jerry Z. Park,Robert D. Woodberry,2
+Mark Regnerus,Robert D. Woodberry,2
+Gonzalo Gabriel Méndez,Katherine Chiluiza,2
+Kathryn Beal,Simon Brent,2
+Kathryn Beal,Guy Coates,2
+Kathryn Beal,Bert Overduin,2
+Kathryn Beal,Rhoda Kinsella,2
+Kathryn Beal,Stephen M. J. Searle,2
+Simon Brent,Guy Coates,2
+Simon Brent,Bert Overduin,2
+Simon Brent,Rhoda Kinsella,2
+Simon Brent,Stephen M. J. Searle,2
+Guy Coates,Bert Overduin,2
+Guy Coates,Rhoda Kinsella,2
+Guy Coates,Stephen M. J. Searle,2
+Bert Overduin,Rhoda Kinsella,2
+Bert Overduin,Stephen M. J. Searle,2
+Rhoda Kinsella,Stephen M. J. Searle,2
+Lihui Wang,A.Y.C. Nee,2
+Margaret Morrison,Margaret Morrison,3
+Margaret Morrison,Marcel Boumans,3
+Margaret Morrison,R. I. G. Hughes,3
+Margaret Morrison,Ursula Klein,3
+Margaret Morrison,Mauricio Suárez,3
+Margaret Morrison,Geert Reuten,3
+Margaret Morrison,Nancy Cartwright,3
+Margaret Morrison,Adrienne van den Bogaard,3
+Margaret Morrison,Stephan Hartmann,3
+Qi Wang,James M. Tiedje,2
+Tina Phillips,Andrea Wiggins,2
+Jan vom Brocke,Björn Niehaves,2
+Alexander Simons,Björn Niehaves,2
+Björn Niehaves,Kai Reimer,2
+Björn Niehaves,Ralf Plattfaut,2
+Björn Niehaves,Anne Cleven,2
+Shuai Zhang,Lina Yao,2
+Shuai Zhang,Aixin Sun,2
+Shuai Zhang,Yi Tay,2
+Lina Yao,Aixin Sun,2
+Lina Yao,Yi Tay,2
+Aixin Sun,Yi Tay,2
+John C. Marioni,Oliver Stegle,2
